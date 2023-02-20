@@ -1,0 +1,1663 @@
+Index,Fall,GeoLocation,Id,Name,Nametype,Recclass,Year,Reclat,Reclong,Mass,Country,State
+0,Found,"(40.90183, -118.54465)",57455,Antelope,Valid,H4,2012.0,40.90183,-118.54465,754.0,United States,Nevada
+1,Found,"(40.89201, -118.55319)",57454,Mandalay Spring,Valid,L6,2012.0,40.89201,-118.55319,2854.0,United States,Nevada
+2,Found,"(40.95465, -118.49693)",57453,Smokey Spring,Valid,H4,2011.0,40.95465,-118.49693,254.0,United States,Nevada
+3,Found,"(34.82793, -118.1464)",57434,Rosamond,Valid,LL3,2012.0,34.82793,-118.1464,11.1,United States,California
+4,Found,"(39.86667, -106.88333)",57342,Burns,Valid,"Iron, IIIAB",2003.0,39.86667,-106.88333,18400.0,United States,Colorado
+5,Found,"(36.28402, -96.43701)",57290,Keystone Lake,Valid,L5,2003.0,36.28402,-96.43701,787.0,United States,Oklahoma
+6,Found,"(34.8197, -114.2761)",57175,Yucca 015,Valid,H-metal,2011.0,34.8197,-114.2761,3.0,United States,Arizona
+7,Found,"(45.425, -101.097)",57160,Timber Lake,Valid,H3,2011.0,45.425,-101.097,8660.0,United States,South Dakota
+8,Found,"(34.81923, -114.27735)",57159,Yucca 017,Valid,H5,2011.0,34.81923,-114.27735,200.0,United States,Arizona
+9,Found,"(34.82658, -114.27763)",57158,Yucca 016,Valid,H5,2011.0,34.82658,-114.27763,25.9,United States,Arizona
+10,Found,"(34.21, -101.39)",56575,Sterley,Valid,"Pallasite, PMG",1950.0,34.21,-101.39,1724.8,United States,Texas
+11,Found,"(42.318, -90.221)",56566,Elizabeth,Valid,"Iron, IAB-ung",,42.318,-90.221,732.0,United States,Illinois
+12,Found,"(43.603, -103.026)",56565,Fairburn,Valid,"Iron, IAB-ung",1907.0,43.603,-103.026,445.0,United States,South Dakota
+13,Found,"(39.91667, -101.2)",56564,Blakeman,Valid,L4,1983.0,39.91667,-101.2,113.7,United States,Kansas
+14,Found,"(34.37718, -102.11672)",56555,Hart,Valid,CK3,2010.0,34.37718,-102.11672,966.0,United States,Texas
+15,Found,"(34.24216, -88.77594)",56551,Tupelo,Valid,EL6,2012.0,34.24216,-88.77594,280.0,United States,Mississippi
+16,Found,"(34.38063, -114.16705)",56393,Aubrey Hills,Valid,H6,2010.0,34.38063,-114.16705,560.8,United States,Arizona
+17,Found,"(33.67248, -114.2917)",56392,Oldman Mountain,Valid,H5,2008.0,33.67248,-114.2917,198.96,United States,Arizona
+18,Found,"(32.00584, -106.56028)",56391,Anthony Gap,Valid,L6,2011.0,32.00584,-106.56028,347.36,United States,New Mexico
+19,Found,"(34.78333, -103.66667)",56382,Ragland Hill,Valid,H5,1980.0,34.78333,-103.66667,11800.0,United States,New Mexico
+20,Found,"(40.792, -114.708)",56166,Spruce 002,Valid,L6,2011.0,40.792,-114.708,18.0,United States,Nevada
+21,Found,"(40.801, -114.701)",56165,Spruce 001,Valid,L5,2011.0,40.801,-114.701,983.0,United States,Nevada
+22,Fell,"(40.66813, -117.18913)",56133,Battle Mountain,Valid,L6,2012.0,40.66813,-117.18913,2900.0,United States,Nevada
+23,Found,"(32.22548, -107.90459)",55792,Deming,Valid,H5,2009.0,32.22548,-107.90459,784.0,United States,New Mexico
+24,Found,"(35.37788, -117.63728)",55765,Johannesburg,Valid,H4,2012.0,35.37788,-117.63728,63.0,United States,California
+26,Found,"(35.833333, -98.4)",55758,Watonga,Valid,LL3.1,1960.0,35.833333,-98.4,5025.0,United States,Oklahoma
+27,Found,"(35.3, -106.63333)",55670,Rio Rancho,Valid,L6,2011.0,35.3,-106.63333,1001.0,United States,New Mexico
+28,Found,"(32.306, -108.9038)",55662,Alkali Flat,Valid,L5,2011.0,32.306,-108.9038,28.0,United States,New Mexico
+29,Found,"(36.21153, -116.16785)",55588,Stewart Valley 003,Valid,H4,2001.0,36.21153,-116.16785,6.8,United States,California
+30,Found,"(36.21017, -116.16825)",55539,Stewart Valley 011,Valid,H6,2003.0,36.21017,-116.16825,49.6,United States,California
+31,Found,"(36.18472, -116.14342)",55538,Stewart Valley 010,Valid,H5,2003.0,36.18472,-116.14342,41.7,United States,California
+32,Found,"(36.17557, -116.159)",55537,Stewart Valley 009,Valid,LL5,2003.0,36.17557,-116.159,375.0,United States,California
+33,Found,"(36.23743, -116.17223)",55536,Stewart Valley 008,Valid,H6,2001.0,36.23743,-116.17223,4.2,United States,Nevada
+34,Found,"(36.23722, -116.17242)",55535,Stewart Valley 007,Valid,H4,2001.0,36.23722,-116.17242,8.7,United States,Nevada
+35,Found,"(36.23728, -116.1722)",55534,Stewart Valley 006,Valid,H4,2001.0,36.23728,-116.1722,20.1,United States,Nevada
+36,Found,"(36.22907, -116.17935)",55533,Stewart Valley 005,Valid,L6,2001.0,36.22907,-116.17935,62.0,United States,Nevada
+37,Found,"(36.25547, -116.18552)",55532,Stewart Valley 004,Valid,L6,2001.0,36.25547,-116.18552,58.9,United States,Nevada
+38,Found,"(36.20758, -116.16918)",55531,Stewart Valley 002,Valid,L6,2001.0,36.20758,-116.16918,28.9,United States,California
+39,Found,"(36.2058, -116.17042)",55530,Stewart Valley 001,Valid,H6,2001.0,36.2058,-116.17042,75.6,United States,California
+40,Fell,"(38.80389, -120.90806)",55529,Sutter's Mill,Valid,C,2012.0,38.80389,-120.90806,992.5,United States,California
+41,Found,"(36.235, -116.18358)",55528,Stewart Valley 012,Valid,H6,2012.0,36.235,-116.18358,130.0,United States,Nevada
+42,Found,"(32.59033, -101.77217)",55379,Ackerly,Valid,L5,1995.0,32.59033,-101.77217,3046.0,United States,Texas
+43,Found,"(34.70108, -114.18845)",55342,Buck Mountains 004,Valid,H3-6,2005.0,34.70108,-114.18845,145.8,United States,Arizona
+44,Found,"(34.70337, -114.19097)",55334,Buck Mountains 005,Valid,L6,2007.0,34.70337,-114.19097,859.7,United States,Arizona
+45,Found,"(34.849, -99.704)",55331,Mangum,Valid,H4,2008.0,34.849,-99.704,750.0,United States,Oklahoma
+46,Found,"(32.71667, -102.65)",55293,Seminole (g),Valid,H5,1999.0,32.71667,-102.65,640.4,United States,Texas
+47,Found,"(35.06639, -114.0975)",55289,Griffith Wash,Valid,L6,2011.0,35.06639,-114.0975,93.0,United States,Arizona
+48,Found,"(34.00056, -115.72972)",55265,San Bernardino Wash,Valid,L5,2010.0,34.00056,-115.72972,258.0,United States,California
+49,Found,"(35.405, -98.74889)",54859,Corn,Valid,H5,1994.0,35.405,-98.74889,5176.0,United States,Oklahoma
+50,Found,"(39.55801, -114.42715)",54765,Yelland 001,Valid,L6,2011.0,39.55801,-114.42715,4.5,United States,Nevada
+51,Found,"(40.61667, -118.38472)",54684,Majuba 007,Valid,H4,2007.0,40.61667,-118.38472,1823.3,United States,Nevada
+52,Found,"(38.945, -113.38222)",54683,Tule Valley Hardpan 002,Valid,H5,2009.0,38.945,-113.38222,1.32,United States,Utah
+53,Found,"(38.94306, -113.37833)",54682,Tule Valley Hardpan 001,Valid,L5,2009.0,38.94306,-113.37833,5.1,United States,Utah
+54,Found,"(38.84833, -98.72383)",54611,Bunker Hill,Valid,L6,2002.0,38.84833,-98.72383,28000.0,United States,Kansas
+55,Found,"(34.65783, -117.59892)",54570,El Mirage Dry Lake 004,Valid,LL6,2011.0,34.65783,-117.59892,271.0,United States,California
+56,Found,"(33.45, -111.51667)",54566,Apache Junction,Valid,"Iron, IIIAB",,33.45,-111.51667,25000.0,United States,Arizona
+57,Found,"(34.68222, -114.33046)",54561,Powell Peak 001,Valid,H6,2011.0,34.68222,-114.33046,42.8,United States,Arizona
+58,Found,"(34.7049, -114.34572)",54526,Powell Peak 002,Valid,L4,2008.0,34.7049,-114.34572,1062.0,United States,Arizona
+59,Found,"(40.26667, -118.93333)",54474,Bluewing 032,Valid,L5,1999.0,40.26667,-118.93333,78.0,United States,Nevada
+60,Found,"(34.18513, -101.70558)",54437,Plainview (e),Valid,H5,2010.0,34.18513,-101.70558,1250.0,United States,Texas
+61,Found,"(32.70038, -102.67268)",54436,Seminole (f),Valid,H5,2008.0,32.70038,-102.67268,5421.0,United States,Texas
+62,Found,"(35.16993, -114.45585)",53890,Thumb Butte,Valid,H3.8,2008.0,35.16993,-114.45585,105.0,United States,Arizona
+63,Found,"(40.266667, -94.683333)",53877,Conception Junction,Valid,"Pallasite, PMG-an",2006.0,40.266667,-94.683333,17000.0,United States,Missouri
+64,Found,"(34.63432, -117.56217)",53845,El Mirage Dry Lake 003,Valid,H6,2010.0,34.63432,-117.56217,6.9,United States,California
+65,Found,"(39.68973, -117.61822)",53844,Tungsten Mountain 573,Valid,H4,2010.0,39.68973,-117.61822,68.0,United States,Nevada
+66,Found,"(37.52392, -98.62993)",53806,Sawyer,Valid,H4,2006.0,37.52392,-98.62993,8100.0,United States,Kansas
+67,Found,"(30.52213, -99.73698)",53635,Llano River,Valid,"Iron, IIIAB",1975.0,30.52213,-99.73698,4318.0,United States,Texas
+68,Fell,"(38.13742, -119.75812)",53502,Red Canyon Lake,Valid,H5,2007.0,38.13742,-119.75812,18.41,United States,California
+69,Found,"(35.16867, -114.455)",53492,Laughlin,Valid,H5,2008.0,35.16867,-114.455,10.0,United States,Arizona
+70,Found,"(33.24558, -111.89633)",53491,Chandler,Valid,L6,2009.0,33.24558,-111.89633,350.4,United States,Arizona
+71,Found,"(33.88098, -111.78558)",53490,Camp Creek,Valid,H4,2009.0,33.88098,-111.78558,3016.0,United States,Arizona
+72,Found,"(33.69177, -113.63612)",53484,Little Harquahala Mountains,Valid,H-melt rock,2006.0,33.69177,-113.63612,262.2,United States,Arizona
+73,Found,"(35.0421, -117.27512)",52983,Harper Dry Lake 018,Valid,H6,2007.0,35.0421,-117.27512,39.7,United States,California
+74,Found,"(35.66594, -115.37081)",52982,Roach Dry Lake 113,Valid,H5,2010.0,35.66594,-115.37081,39.6,United States,Nevada
+75,Found,"(35.30455, -117.45817)",52980,Cuddeback Dry Lake 019,Valid,L6,2008.0,35.30455,-117.45817,10.1,United States,California
+76,Found,"(35.28638, -117.48305)",52979,Cuddeback Dry Lake 018,Valid,H4,2008.0,35.28638,-117.48305,8.5,United States,California
+77,Found,"(35.28528, -117.48305)",52978,Cuddeback Dry Lake 017,Valid,H6,2008.0,35.28528,-117.48305,23.1,United States,California
+78,Found,"(35.31218, -117.45303)",52974,Cuddeback Dry Lake 013,Valid,H4,2008.0,35.31218,-117.45303,1.6,United States,California
+79,Found,"(35.62453, -114.04688)",52971,Red Dry Lake 071,Valid,H6,2010.0,35.62453,-114.04688,4.35,United States,Arizona
+80,Found,"(35.296, -117.472)",52968,Cuddeback Dry Lake 029,Valid,H4,2008.0,35.296,-117.472,22.2,United States,California
+81,Found,"(35.296, -117.472)",52967,Cuddeback Dry Lake 028,Valid,L5,2008.0,35.296,-117.472,19.5,United States,California
+82,Found,"(40.2819, -118.94693)",52962,Bluewing 037,Valid,H5,2009.0,40.2819,-118.94693,37.2,United States,Nevada
+83,Found,"(35.64, -114.03285)",52891,Red Dry Lake 068,Valid,H4,2008.0,35.64,-114.03285,26.2,United States,Arizona
+84,Found,"(35.65868, -114.02573)",52886,Red Dry Lake 067,Valid,L3.4,2009.0,35.65868,-114.02573,6.2,United States,Arizona
+85,Found,"(35.3248, -117.47983)",52856,Cuddeback Dry Lake 023,Valid,H5,1986.0,35.3248,-117.47983,123.0,United States,California
+86,Found,"(40.74018, -118.17285)",52855,Imlay,Valid,L5,2009.0,40.74018,-118.17285,770.0,United States,Nevada
+87,Found,"(35.03333, -117.28333)",52853,Harper Dry Lake 036,Valid,L6,2010.0,35.03333,-117.28333,85.5,United States,California
+88,Found,"(34.685, -114.323)",52852,Boulder Mine,Valid,L5,2008.0,34.685,-114.323,1560.0,United States,Arizona
+89,Found,"(32.07667, -109.8455)",52851,Willcox Playa 009,Valid,Mesosiderite,2009.0,32.07667,-109.8455,160.0,United States,Arizona
+90,Fell,"(38.70066, -77.21163)",52843,Lorton,Valid,L6,2010.0,38.70066,-77.21163,329.7,United States,Virginia
+91,Found,"(35.0751, -116.75038)",52804,Coyote Dry Lake 318,Valid,H5,2009.0,35.0751,-116.75038,7.2,United States,California
+92,Found,"(44.33823, -107.67405)",52755,Hyattville,Valid,L6,2008.0,44.33823,-107.67405,8911.0,United States,Wyoming
+93,Found,"(35.98728, -115.85828)",52752,Stump Spring 083,Valid,LL6,2010.0,35.98728,-115.85828,13700.0,United States,Nevada
+94,Found,"(39.35067, -114.40783)",52641,Yelland Dry Lake,Valid,H4,2007.0,39.35067,-114.40783,76000.0,United States,Nevada
+95,Found,"(34.48598, -116.95593)",52533,Lucerne Valley 101,Valid,CK4,2008.0,34.48598,-116.95593,4.0,United States,California
+96,Found,"(34.48738, -116.96065)",52532,Lucerne Valley 100,Valid,CK5,2008.0,34.48738,-116.96065,0.8,United States,California
+97,Found,"(34.48733, -116.96055)",52531,Lucerne Valley 099,Valid,CK5,2008.0,34.48733,-116.96055,3.2,United States,California
+98,Found,"(34.48703, -116.95595)",52530,Lucerne Valley 098,Valid,CK4,2008.0,34.48703,-116.95595,1.5,United States,California
+99,Found,"(34.48565, -116.95673)",52529,Lucerne Valley 097,Valid,CK4,2008.0,34.48565,-116.95673,6.5,United States,California
+100,Found,"(34.48662, -116.9564)",52528,Lucerne Valley 096,Valid,L5,2008.0,34.48662,-116.9564,7.3,United States,California
+101,Found,"(34.48657, -116.9592)",52527,Lucerne Valley 095,Valid,CK5,2008.0,34.48657,-116.9592,1.1,United States,California
+102,Found,"(34.48712, -116.96147)",52526,Lucerne Valley 094,Valid,CK5,2008.0,34.48712,-116.96147,3.5,United States,California
+103,Found,"(34.48388, -116.9501)",52465,Lucerne Valley 120,Valid,L6,2010.0,34.48388,-116.9501,43.1,United States,California
+104,Found,"(34.4887, -116.9788)",52464,Lucerne Valley 093,Valid,L6,2007.0,34.4887,-116.9788,3.93,United States,California
+105,Found,"(34.48148, -116.95325)",52463,Lucerne Valley 092,Valid,H5,2007.0,34.48148,-116.95325,0.6,United States,California
+106,Found,"(34.48075, -116.9788)",52462,Lucerne Valley 091,Valid,H4,2007.0,34.48075,-116.9788,12.7,United States,California
+107,Found,"(34.48823, -116.97797)",52461,Lucerne Valley 090,Valid,L5,2007.0,34.48823,-116.97797,30.7,United States,California
+108,Found,"(34.48972, -116.98128)",52460,Lucerne Valley 089,Valid,L5,2007.0,34.48972,-116.98128,2.6,United States,California
+109,Found,"(32.00415, -110.37503)",52414,Galleta Flat,Valid,H4,2009.0,32.00415,-110.37503,392.0,United States,Arizona
+110,Found,"(35.04568, -117.26658)",52112,Harper Dry Lake 029,Valid,H6,2008.0,35.04568,-117.26658,11.56,United States,California
+111,Found,"(33.721, -101.8389)",52094,New Deal,Valid,H6,2010.0,33.721,-101.8389,266.0,United States,Texas
+112,Fell,"(42.9075, -90.36556)",52090,Mifflin,Valid,L5,2010.0,42.9075,-90.36556,3584.0,United States,Wisconsin
+113,Found,"(39.6884, -117.62422)",52014,Tungsten Mountain 541,Valid,H3.8,2007.0,39.6884,-117.62422,5.7,United States,Nevada
+114,Found,"(33.01222, -114.86667)",52013,Chocolate Mountains,Valid,Ureilite,2004.0,33.01222,-114.86667,699.0,United States,California
+115,Found,"(39.68105, -117.61325)",51856,Tungsten Mountain 572,Valid,H6,2007.0,39.68105,-117.61325,10.7,United States,Nevada
+116,Found,"(39.6772, -117.62858)",51855,Tungsten Mountain 563,Valid,H5,2007.0,39.6772,-117.62858,9.3,United States,Nevada
+117,Found,"(39.68938, -117.62032)",51854,Tungsten Mountain 543,Valid,H4,2007.0,39.68938,-117.62032,18.1,United States,Nevada
+118,Found,"(39.6872, -117.62618)",51853,Tungsten Mountain 542,Valid,H5,2007.0,39.6872,-117.62618,4.6,United States,Nevada
+119,Found,"(39.68908, -117.62257)",51852,Tungsten Mountain 535,Valid,H4,2007.0,39.68908,-117.62257,26.1,United States,Nevada
+120,Found,"(39.68945, -117.62358)",51851,Tungsten Mountain 533,Valid,H5,2007.0,39.68945,-117.62358,25.3,United States,Nevada
+121,Found,"(32.24611, -99.99306)",51831,Buffalo Gap,Valid,"Iron, IAB-ung",2003.0,32.24611,-99.99306,9300.0,United States,Texas
+122,Found,"(29.7725, -99.875)",51830,Camp Wood,Valid,"Iron, IIIAB",,29.7725,-99.875,148000.0,United States,Texas
+123,Found,"(42.03839, -120.58942)",51738,Fitzwater Pass,Valid,"Iron, IIIF",1974.0,42.03839,-120.58942,65.4,United States,Oregon
+124,Found,"(44.93389, -116.43167)",51737,Tamarack,Valid,"Iron, IIAB",2004.0,44.93389,-116.43167,41.0,United States,Idaho
+125,Found,"(45.5, -119.5)",51707,Morrow County,Valid,L6,1999.0,45.5,-119.5,18200.0,United States,Oregon
+126,Found,"(39.67888, -117.62945)",51585,Tungsten Mountain 204,Valid,H4,2005.0,39.67888,-117.62945,41.6,United States,Nevada
+127,Found,"(32.18843, -109.84563)",51584,Willcox Playa 007,Valid,L6,2004.0,32.18843,-109.84563,62.4,United States,Arizona
+128,Found,"(32.11288, -109.89265)",51583,Willcox Playa 006,Valid,H6,2004.0,32.11288,-109.89265,3.1,United States,Arizona
+129,Found,"(32.0939, -109.88412)",51582,Willcox Playa 005,Valid,H5,2004.0,32.0939,-109.88412,278.4,United States,Arizona
+130,Found,"(32.14202, -109.82423)",51581,Willcox Playa 004,Valid,L6,2004.0,32.14202,-109.82423,19.9,United States,Arizona
+131,Found,"(40.26667, -118.93333)",51579,Bluewing 036,Valid,L6,1999.0,40.26667,-118.93333,10.47,United States,Nevada
+132,Found,"(40.26667, -118.93333)",51578,Bluewing 035,Valid,L6,1999.0,40.26667,-118.93333,12.56,United States,Nevada
+133,Found,"(40.26667, -118.93333)",51577,Bluewing 034,Valid,H5,1999.0,40.26667,-118.93333,34.0,United States,Nevada
+134,Found,"(40.26667, -118.93333)",51576,Bluewing 033,Valid,L5,1999.0,40.26667,-118.93333,287.44,United States,Nevada
+135,Found,"(40.26667, -118.93333)",51575,Bluewing 031,Valid,H5,1999.0,40.26667,-118.93333,170.0,United States,Nevada
+136,Found,"(40.26667, -118.93333)",51574,Bluewing 030,Valid,H5,1999.0,40.26667,-118.93333,18.81,United States,Nevada
+137,Found,"(35.3, -117.4605)",51573,Cuddeback Dry Lake 021,Valid,L6,2004.0,35.3,-117.4605,31.72,United States,California
+139,Found,"(37.01667, -95.66667)",51051,Coffeyville,Valid,H5,2006.0,37.01667,-95.66667,35900.0,United States,Kansas
+140,Found,"(38.1995, -99.162)",50998,Larned,Valid,Aubrite-an,1977.0,38.1995,-99.162,28100.0,United States,Kansas
+141,Found,"(32.91745, -114.767183)",50912,Cargo Muchacho Mountains,Valid,CO3,2000.0,32.91745,-114.767183,2860.0,United States,California
+144,Found,"(39.683333, -117.616667)",50908,Tungsten Mountain 011,Valid,CV3,2003.0,39.683333,-117.616667,186.52,United States,Nevada
+145,Found,"(33.71333, -113.275)",50765,Big Horn Mountains,Valid,H4,2006.0,33.71333,-113.275,91.9,United States,Arizona
+146,Found,"(40.95805, -118.35305)",50764,Jungo 003,Valid,H6,2007.0,40.95805,-118.35305,29.1,United States,Nevada
+147,Found,"(40.89805, -118.35388)",50763,Jungo 002,Valid,H6,2007.0,40.89805,-118.35388,27.8,United States,Nevada
+148,Found,"(40.89055, -118.36278)",50762,Jungo 001,Valid,L6,2007.0,40.89055,-118.36278,70.7,United States,Nevada
+149,Fell,"(31.96185, -110.434183)",49514,Whetstone Mountains,Valid,H5,2009.0,31.96185,-110.434183,2138.74,United States,Arizona
+150,Found,"(33.736667, -103.623333)",48991,Roosevelt County 110,Valid,L4,1987.0,33.736667,-103.623333,73.7,United States,New Mexico
+151,Found,"(36.29533, -105.04833)",48976,Ocate,Valid,"Iron, IAB-MG",1986.0,36.29533,-105.04833,6400.0,United States,New Mexico
+152,Found,"(33.00383, -105.85083)",48962,La Luz,Valid,H4,2005.0,33.00383,-105.85083,4798.0,United States,New Mexico
+153,Fell,"(31.805, -97.01)",48954,Ash Creek,Valid,L6,2009.0,31.805,-97.01,9500.0,United States,Texas
+154,Found,"(36.55722, -114.42694)",48952,Moapa Valley,Valid,CM1,2004.0,36.55722,-114.42694,698.8,United States,Nevada
+155,Found,"(34.21667, -103.18333)",48914,Roosevelt County 109,Valid,L6,2005.0,34.21667,-103.18333,17.3,United States,New Mexico
+157,Found,"(32.5, -111.28)",48657,Naviska,Valid,"Iron, IAB complex",2004.0,32.5,-111.28,147.0,United States,Arizona
+158,Found,"(32.319, -111.077)",48655,Desert Willow,Valid,H4/5,2007.0,32.319,-111.077,11.3,United States,Arizona
+159,Found,"(32.95, -114.666667)",47732,Winterhaven,Valid,Howardite,2002.0,32.95,-114.666667,2100.0,United States,California
+160,Found,"(32.133333, -82.983333)",47731,Jay Bird Springs,Valid,Pallasite,2003.0,32.133333,-82.983333,292.0,United States,Georgia
+161,Found,"(32.788333, -101.938333)",47730,Grandview,Valid,L5,2008.0,32.788333,-101.938333,6400.0,United States,Texas
+162,Found,"(34.21667, -103.18333)",47360,Roosevelt County 108,Valid,H5,2004.0,34.21667,-103.18333,4.75,United States,New Mexico
+163,Found,"(32.16657, -111.11718)",47356,San Joaquin,Valid,L5/6,2005.0,32.16657,-111.11718,31.8,United States,Arizona
+164,Fell,"(40.30583, -105.02325)",47355,Berthoud,Valid,Eucrite-mmict,2004.0,40.30583,-105.02325,960.0,United States,Colorado
+165,Found,"(35.37358, -115.34388)",47353,Willow Wash,Valid,H3.5,2006.0,35.37358,-115.34388,552.0,United States,California
+166,Found,"(31.59391, -111.37023)",47346,Arivaca,Valid,Eucrite-mmict,1999.0,31.59391,-111.37023,30.1,United States,Arizona
+167,Fell,"(45.34583, -92.05167)",47343,Turtle Lake,Valid,L5,1996.0,45.34583,-92.05167,89.3,United States,Wisconsin
+168,Found,"(33.81667, -100.51667)",47341,Dumont,Valid,"Iron, IVB",1994.0,33.81667,-100.51667,27420.0,United States,Texas
+170,Found,"(34.74667, -114.21)",45974,Sacramento Wash 005,Valid,H-metal,2004.0,34.74667,-114.21,52.3,United States,Arizona
+171,Found,"(38.66167, -115.51833)",45972,Blue Eagle,Valid,R3-6,2006.0,38.66167,-115.51833,70.0,United States,Nevada
+172,Found,"(35.647, -114.0955)",45971,Red Dry Lake 065,Valid,L6,2006.0,35.647,-114.0955,3.0,United States,Arizona
+173,Found,"(35.64133, -114.09)",45970,Red Dry Lake 064,Valid,H5,2006.0,35.64133,-114.09,6.0,United States,Arizona
+174,Found,"(35.63333, -114.08333)",45969,Red Dry Lake 063,Valid,H4,2006.0,35.63333,-114.08333,6.0,United States,Arizona
+175,Found,"(34.51092, -116.93962)",45968,Lucerne Valley 058,Valid,L6,2006.0,34.51092,-116.93962,0.85,United States,California
+176,Found,"(34.486, -116.97275)",45967,Lucerne Valley 057,Valid,L6,2005.0,34.486,-116.97275,13.15,United States,California
+177,Found,"(39.71633, -97.8545)",45966,Kackley,Valid,H4,2006.0,39.71633,-97.8545,1368.0,United States,Kansas
+178,Found,"(35.04015, -117.27283)",45965,Harper Dry Lake 019,Valid,L6,2007.0,35.04015,-117.27283,118.7,United States,California
+179,Found,"(35.04102, -117.27465)",45964,Harper Dry Lake 017,Valid,H6,2007.0,35.04102,-117.27465,16.4,United States,California
+180,Found,"(35.0742, -116.7637)",45963,Coyote Dry Lake 277,Valid,H5,2006.0,35.0742,-116.7637,21.3,United States,California
+181,Found,"(35.07118, -116.77162)",45962,Coyote Dry Lake 276,Valid,H6,2006.0,35.07118,-116.77162,47.2,United States,California
+182,Found,"(35.05122, -116.76742)",45961,Coyote Dry Lake 275,Valid,H4,2006.0,35.05122,-116.76742,16.2,United States,California
+183,Found,"(35.05902, -116.76892)",45960,Coyote Dry Lake 274,Valid,H4,2006.0,35.05902,-116.76892,7.5,United States,California
+184,Found,"(40.2628, -118.95912)",45959,Bluewing 029,Valid,H6,2006.0,40.2628,-118.95912,83.8,United States,Nevada
+185,Found,"(35.23625, -117.04638)",44801,Superior Valley 026,Valid,L4,2006.0,35.23625,-117.04638,15.8,United States,California
+186,Found,"(36.7845, -114.94967)",44800,Starvation Flat,Valid,L5,2002.0,36.7845,-114.94967,1250.0,United States,Nevada
+187,Found,"(35.4005, -117.66617)",44798,Randsburg,Valid,L5,2005.0,35.4005,-117.66617,112.9,United States,California
+188,Found,"(33.18667, -114.91783)",44796,Paymaster Mine,Valid,L5,2004.0,33.18667,-114.91783,159.0,United States,California
+189,Found,"(34.525, -116.95333)",44718,Lucerne Valley 051,Valid,L5,2003.0,34.525,-116.95333,6.0,United States,California
+190,Found,"(41.03333, -102.88333)",44717,Lorenzo,Valid,L5,1941.0,41.03333,-102.88333,611.9,United States,Nebraska
+191,Found,"(44.47733, -103.972)",44709,Crow Peak,Valid,"Iron, IIAB",1958.0,44.47733,-103.972,6320.0,United States,South Dakota
+192,Found,"(36.99367, -114.99367)",44708,Coyote Spring,Valid,H5,2005.0,36.99367,-114.99367,240.0,United States,Nevada
+193,Found,"(34.30333, -112.16617)",44707,Cordes,Valid,H4,1998.0,34.30333,-112.16617,54.5,United States,Arizona
+194,Found,"(36.00217, -116.19633)",44706,Chicago Valley,Valid,L5,2004.0,36.00217,-116.19633,26.0,United States,California
+195,Found,"(34.7345, -114.21717)",44705,Buck Mountains 003,Valid,L6,2005.0,34.7345,-114.21717,34200.0,United States,Arizona
+196,Found,"(39.67917, -117.62675)",35730,Tungsten Mountain 113,Valid,H4/5,2004.0,39.67917,-117.62675,4.48,United States,Nevada
+197,Found,"(33.68085, -114.1958)",35634,Quartzsite,Valid,L4,2002.0,33.68085,-114.1958,69.7,United States,Arizona
+198,Found,"(34.13228, -112.70225)",35633,Octave Mine,Valid,H5,2004.0,34.13228,-112.70225,1304.2,United States,Arizona
+199,Found,"(33.66348, -114.29207)",35516,Diablo Pass,Valid,L6,2004.0,33.66348,-114.29207,246.6,United States,Arizona
+200,Found,"(34.71933, -114.20783)",35489,Buck Mountains 002,Valid,L6,2004.0,34.71933,-114.20783,18.4,United States,Arizona
+201,Found,"(34.73245, -114.22257)",35488,Buck Mountains 001,Valid,H6,2004.0,34.73245,-114.22257,50.0,United States,Arizona
+202,Found,"(33.96667, -114.06667)",35487,Bouse,Valid,L4-6,2004.0,33.96667,-114.06667,147.4,United States,Arizona
+203,Found,"(34.48887, -116.95223)",35473,Lucerne Valley 037,Valid,CK4,2004.0,34.48887,-116.95223,0.9,United States,California
+204,Found,"(34.48793, -116.95638)",35472,Lucerne Valley 036,Valid,CK4,2004.0,34.48793,-116.95638,2.48,United States,California
+205,Found,"(34.4868, -116.95837)",35471,Lucerne Valley 035,Valid,CK4,2004.0,34.4868,-116.95837,0.92,United States,California
+206,Found,"(34.49015, -116.94985)",35470,Lucerne Valley 032,Valid,CK4,2004.0,34.49015,-116.94985,11.87,United States,California
+207,Found,"(34.4871, -116.9578)",35469,Lucerne Valley 031,Valid,CK4,2004.0,34.4871,-116.9578,3.22,United States,California
+208,Found,"(34.48708, -116.95797)",35468,Lucerne Valley 030,Valid,CK4,2004.0,34.48708,-116.95797,4.12,United States,California
+209,Found,"(34.487, -116.956)",35467,Lucerne Valley 029,Valid,CK4,2003.0,34.487,-116.956,10.1,United States,California
+210,Found,"(34.4875, -116.95567)",35466,Lucerne Valley 028,Valid,CK4,2003.0,34.4875,-116.95567,3.0,United States,California
+211,Found,"(33.91667, -112.55)",35339,Trilby Wash,Valid,L4,2005.0,33.91667,-112.55,846.0,United States,Arizona
+212,Fell,"(28.5475, -81.36222)",34489,Orlando,Valid,Eucrite,2004.0,28.5475,-81.36222,180.0,United States,Florida
+213,Found,"(34.75078, -114.22717)",34068,Sacramento Wash 004,Valid,H5,2004.0,34.75078,-114.22717,28.6,United States,Arizona
+214,Found,"(34.75873, -114.23342)",34067,Sacramento Wash 003,Valid,H4,2004.0,34.75873,-114.23342,89.2,United States,Arizona
+215,Found,"(34.75635, -114.2343)",34066,Sacramento Wash 002,Valid,H4,2004.0,34.75635,-114.2343,892.8,United States,Arizona
+216,Found,"(34.75637, -114.23435)",34065,Sacramento Wash 001,Valid,H4,2003.0,34.75637,-114.23435,98.9,United States,Arizona
+217,Found,"(35.236, -117.04212)",34064,Superior Valley 014,Valid,Acapulcoite,2002.0,35.236,-117.04212,1.77,United States,California
+218,Found,"(30.33333, -98.95)",34062,Pedernales,Valid,"Iron, IAB complex",1980.0,30.33333,-98.95,691.0,United States,Texas
+219,Found,"(32.73, -113.71)",34059,Mohawk,Valid,"Iron, IAB complex",2000.0,32.73,-113.71,586.0,United States,Arizona
+220,Found,"(29.5, -98.05)",32771,Purmela,Valid,"Iron, IIF",1977.0,29.5,-98.05,4500.0,United States,Texas
+221,Found,"(34.78698, -114.25052)",32769,Warm Springs Wilderness,Valid,H4-6,2003.0,34.78698,-114.25052,156.9,United States,Arizona
+222,Found,"(35.23667, -117.03945)",32768,Superior Valley 018,Valid,H5,2002.0,35.23667,-117.03945,2.74,United States,California
+223,Found,"(35.23333, -117.03945)",32767,Superior Valley 013,Valid,L5,2002.0,35.23333,-117.03945,2.74,United States,California
+224,Found,"(34.48728, -116.95833)",32766,Lucerne Valley 050,Valid,H4,2005.0,34.48728,-116.95833,6.85,United States,California
+225,Found,"(40.86717, -119.18352)",32765,Black Rock 001,Valid,L6,2003.0,40.86717,-119.18352,152.0,United States,Nevada
+226,Found,"(35.67298, -115.36717)",32763,Roach Dry Lake 021,Valid,H6,2001.0,35.67298,-115.36717,59.2,United States,Nevada
+227,Found,"(34.48667, -116.95833)",31373,Lucerne Valley 048,Valid,H4,2004.0,34.48667,-116.95833,2.29,United States,California
+228,Found,"(34.48613, -116.9739)",31372,Lucerne Valley 047,Valid,L6,2004.0,34.48613,-116.9739,30.43,United States,California
+229,Found,"(34.48742, -116.9735)",31371,Lucerne Valley 046,Valid,L6,2004.0,34.48742,-116.9735,10.32,United States,California
+230,Found,"(34.487, -116.96512)",31370,Lucerne Valley 045,Valid,L6,2004.0,34.487,-116.96512,38.56,United States,California
+231,Found,"(34.48413, -116.96083)",31369,Lucerne Valley 044,Valid,L6,2004.0,34.48413,-116.96083,106.22,United States,California
+232,Found,"(34.48457, -116.96255)",31368,Lucerne Valley 043,Valid,L4,2004.0,34.48457,-116.96255,1.75,United States,California
+233,Found,"(34.48595, -116.9637)",31367,Lucerne Valley 042,Valid,L6,2004.0,34.48595,-116.9637,2.17,United States,California
+234,Found,"(34.48975, -116.94277)",31366,Lucerne Valley 041,Valid,L6,2004.0,34.48975,-116.94277,0.84,United States,California
+235,Found,"(34.4921, -116.94308)",31365,Lucerne Valley 040,Valid,L6,2004.0,34.4921,-116.94308,5.21,United States,California
+236,Found,"(34.51087, -116.93545)",31364,Lucerne Valley 025,Valid,H4,2003.0,34.51087,-116.93545,21.0,United States,California
+237,Found,"(35.23705, -117.01618)",31332,Superior Valley 022,Valid,H5,2004.0,35.23705,-117.01618,38.9,United States,California
+238,Found,"(35.23858, -117.02628)",31331,Superior Valley 020,Valid,L6,2003.0,35.23858,-117.02628,307.75,United States,California
+239,Found,"(40.63783, -103.69717)",31330,Stoneham,Valid,H5,1960.0,40.63783,-103.69717,5000.0,United States,Colorado
+240,Found,"(35.62682, -114.04373)",31309,Red Dry Lake 029,Valid,H4,2004.0,35.62682,-114.04373,5.25,United States,Arizona
+241,Found,"(35.6448, -114.03452)",31308,Red Dry Lake 028,Valid,H4,2004.0,35.6448,-114.03452,11.3,United States,Arizona
+242,Found,"(35.67947, -114.04338)",31307,Red Dry Lake 025,Valid,L5/6,2003.0,35.67947,-114.04338,6.55,United States,Arizona
+243,Found,"(35.69732, -114.032)",31306,Red Dry Lake 024,Valid,L5,2003.0,35.69732,-114.032,17.9,United States,Arizona
+244,Found,"(34.71457, -114.19142)",31284,Palo Verde Mine,Valid,L6,2004.0,34.71457,-114.19142,9158.0,United States,Arizona
+245,Found,"(40.75833, -102.375)",31283,Ovid (b),Valid,H5,1943.0,40.75833,-102.375,860.0,United States,Colorado
+246,Found,"(40.62583, -103.84033)",30758,New Raymer,Valid,LL4,1995.0,40.62583,-103.84033,3400.0,United States,Colorado
+247,Found,"(40.63078, -118.40918)",30754,Majuba 003,Valid,H4,2003.0,40.63078,-118.40918,1306.0,United States,Nevada
+248,Found,"(40.62832, -118.4167)",30753,Majuba 002,Valid,H4,2003.0,40.62832,-118.4167,2420.0,United States,Nevada
+249,Found,"(40.6265, -118.41033)",30752,Majuba,Valid,L5,1999.0,40.6265,-118.41033,370.0,United States,Nevada
+250,Found,"(38.39918, -115.9967)",30749,Lunar Dry Lake,Valid,L5,2003.0,38.39918,-115.9967,32.5,United States,Nevada
+251,Found,"(34.48472, -116.96107)",30748,Lucerne Valley 049,Valid,L6,2004.0,34.48472,-116.96107,9.2,United States,California
+252,Found,"(34.48715, -116.95337)",30747,Lucerne Valley 027,Valid,L6,2003.0,34.48715,-116.95337,3.1,United States,California
+253,Found,"(34.5001, -116.94217)",30746,Lucerne Valley 026,Valid,L5,2003.0,34.5001,-116.94217,5.6,United States,California
+254,Found,"(37.68333, -105.7)",30743,Little Spring Creek,Valid,H5,1937.0,37.68333,-105.7,2950.0,United States,Colorado
+255,Found,"(39.27556, -96.25944)",30739,Kansas State University,Valid,H4,2004.0,39.27556,-96.25944,301.0,United States,Kansas
+256,Found,"(38.83333, -105.8)",30725,Hartsel,Valid,H4,2000.0,38.83333,-105.8,490.0,United States,Colorado
+257,Found,"(39.49133, -112.942)",30666,Greener Reservoir,Valid,H4,2004.0,39.49133,-112.942,45.0,United States,Utah
+258,Found,"(33.03333, -112.61667)",30664,Gila Bend,Valid,L5,2000.0,33.03333,-112.61667,3700.0,United States,Arizona
+259,Found,"(33.61, -111.72)",30565,Fountain Hills,Valid,CBa,2002.0,33.61,-111.72,60.0,United States,Arizona
+260,Found,"(39.23, -102.99)",30564,Flagler,Valid,H3.8,1972.0,39.23,-102.99,4100.0,United States,Colorado
+261,Found,"(31.38972, -99.40583)",30563,Fife,Valid,H5,2003.0,31.38972,-99.40583,8600.0,United States,Texas
+262,Found,"(35.08758, -116.74603)",30497,Coyote Dry Lake 249,Valid,H4,2004.0,35.08758,-116.74603,71.8,United States,California
+263,Found,"(35.05628, -116.73377)",30496,Coyote Dry Lake 235,Valid,LL6,2004.0,35.05628,-116.73377,81.4,United States,California
+264,Found,"(35.08958, -116.75007)",30495,Coyote Dry Lake 230,Valid,H6,2004.0,35.08958,-116.75007,16.36,United States,California
+265,Found,"(35.03842, -116.75818)",30494,Coyote Dry Lake 223,Valid,L6,2004.0,35.03842,-116.75818,512.0,United States,California
+266,Found,"(35.04008, -116.75553)",30493,Coyote Dry Lake 222,Valid,L5,2004.0,35.04008,-116.75553,22.5,United States,California
+267,Found,"(35.05717, -116.7205)",30492,Coyote Dry Lake 221,Valid,H4,2003.0,35.05717,-116.7205,54.31,United States,California
+268,Found,"(35.08838, -116.75283)",30491,Coyote Dry Lake 194,Valid,L6,2004.0,35.08838,-116.75283,1.47,United States,California
+269,Found,"(35.05452, -116.73005)",30490,Coyote Dry Lake 176,Valid,H6,2003.0,35.05452,-116.73005,187.55,United States,California
+270,Found,"(35.05475, -116.75432)",30489,Coyote Dry Lake 175,Valid,H6,2002.0,35.05475,-116.75432,36.35,United States,California
+271,Found,"(35.06888, -116.76197)",30488,Coyote Dry Lake 165,Valid,L6,2002.0,35.06888,-116.76197,42.57,United States,California
+272,Found,"(35.05835, -116.77403)",30487,Coyote Dry Lake 164,Valid,H5,2002.0,35.05835,-116.77403,43.0,United States,California
+273,Found,"(35.07, -116.77)",30486,Coyote Dry Lake 163,Valid,H5,2002.0,35.07,-116.77,16.66,United States,California
+274,Found,"(35.07802, -116.76777)",30485,Coyote Dry Lake 162,Valid,H5,2002.0,35.07802,-116.76777,9.87,United States,California
+275,Found,"(35.06152, -116.76295)",30484,Coyote Dry Lake 160,Valid,H5,2002.0,35.06152,-116.76295,76.88,United States,California
+276,Found,"(35.05865, -116.76872)",30483,Coyote Dry Lake 159,Valid,H5,2001.0,35.05865,-116.76872,17.7,United States,California
+277,Found,"(35.06847, -116.76905)",30482,Coyote Dry Lake 155,Valid,H4,2001.0,35.06847,-116.76905,17.02,United States,California
+278,Found,"(35.07362, -116.76372)",30481,Coyote Dry Lake 153,Valid,H5,2001.0,35.07362,-116.76372,13.87,United States,California
+279,Found,"(35.05607, -116.72365)",30480,Coyote Dry Lake 152,Valid,H5,2001.0,35.05607,-116.72365,10.84,United States,California
+280,Found,"(35.05602, -116.72368)",30479,Coyote Dry Lake 151,Valid,H6,2001.0,35.05602,-116.72368,90.04,United States,California
+281,Found,"(35.06725, -116.74853)",30478,Coyote Dry Lake 142,Valid,H4,2000.0,35.06725,-116.74853,32.22,United States,California
+282,Found,"(35.05283, -116.76538)",30477,Coyote Dry Lake 139,Valid,H4,2000.0,35.05283,-116.76538,10.4,United States,California
+283,Found,"(35.05283, -116.76645)",30476,Coyote Dry Lake 138,Valid,H5,2000.0,35.05283,-116.76645,18.3,United States,California
+284,Found,"(35.0925, -116.76083)",30475,Coyote Dry Lake 134,Valid,H5,2000.0,35.0925,-116.76083,117.5,United States,California
+285,Found,"(35.07028, -116.74847)",30474,Coyote Dry Lake 132,Valid,H4,2000.0,35.07028,-116.74847,17.4,United States,California
+286,Found,"(35.06785, -116.7494)",30473,Coyote Dry Lake 130,Valid,H4,2000.0,35.06785,-116.7494,6.1,United States,California
+287,Found,"(35.06917, -116.7502)",30472,Coyote Dry Lake 129,Valid,H5,2000.0,35.06917,-116.7502,140.0,United States,California
+288,Found,"(35.05947, -116.7685)",30471,Coyote Dry Lake 121,Valid,H4,1999.0,35.05947,-116.7685,14.2,United States,California
+289,Found,"(35.05893, -116.76872)",30470,Coyote Dry Lake 120,Valid,H5,1999.0,35.05893,-116.76872,18.5,United States,California
+290,Found,"(35.03815, -116.7531)",30469,Coyote Dry Lake 119,Valid,H5,1999.0,35.03815,-116.7531,3.2,United States,California
+291,Found,"(35.0501, -116.74443)",30468,Coyote Dry Lake 117,Valid,H3,1999.0,35.0501,-116.74443,162.0,United States,California
+292,Found,"(35.05847, -116.769)",30467,Coyote Dry Lake 116,Valid,H6,1999.0,35.05847,-116.769,4.4,United States,California
+293,Found,"(35.05865, -116.76872)",30466,Coyote Dry Lake 115,Valid,H5-6,1999.0,35.05865,-116.76872,1369.0,United States,California
+294,Found,"(35.04625, -116.73547)",30465,Coyote Dry Lake 110,Valid,H4,1999.0,35.04625,-116.73547,68.02,United States,California
+295,Found,"(35.05073, -116.76698)",30464,Coyote Dry Lake 105,Valid,H5,1999.0,35.05073,-116.76698,61.5,United States,California
+296,Found,"(35.07402, -116.76117)",30463,Coyote Dry Lake 080,Valid,H5,1999.0,35.07402,-116.76117,278.1,United States,California
+297,Found,"(35.03815, -116.7531)",30462,Coyote Dry Lake 067,Valid,L6,1999.0,35.03815,-116.7531,412.05,United States,California
+298,Found,"(35.05817, -116.7743)",30461,Coyote Dry Lake 064,Valid,H5,1999.0,35.05817,-116.7743,1364.31,United States,California
+299,Found,"(35.05878, -116.773)",30460,Coyote Dry Lake 063,Valid,H4,1999.0,35.05878,-116.773,67.61,United States,California
+300,Found,"(35.05242, -116.7667)",30459,Coyote Dry Lake 061,Valid,H5,1999.0,35.05242,-116.7667,2134.0,United States,California
+301,Found,"(35.07667, -116.74667)",30458,Coyote Dry Lake 054,Valid,H5,1999.0,35.07667,-116.74667,392.8,United States,California
+302,Found,"(35.09373, -116.76343)",30457,Coyote Dry Lake 040,Valid,H4,1999.0,35.09373,-116.76343,344.0,United States,California
+303,Found,"(35.05605, -116.7763)",30456,Coyote Dry Lake 033,Valid,H5,1999.0,35.05605,-116.7763,5220.0,United States,California
+304,Found,"(35.0715, -116.77205)",30455,Coyote Dry Lake 024,Valid,H5,1999.0,35.0715,-116.77205,2430.0,United States,California
+305,Found,"(35.08808, -116.75398)",30454,Coyote Dry Lake 003,Valid,H5,1998.0,35.08808,-116.75398,255.72,United States,California
+306,Found,"(35.04753, -116.73092)",30453,Coyote Dry Lake 002,Valid,H5-6,1998.0,35.04753,-116.73092,106.7,United States,California
+307,Found,"(35.05017, -116.76683)",30452,Coyote Dry Lake 001,Valid,H5,1995.0,35.05017,-116.76683,338.0,United States,California
+308,Found,"(38.46483, -105.7015)",30451,Cotopaxi,Valid,"Iron, IAB-ung",2000.0,38.46483,-105.7015,243.0,United States,Colorado
+309,Found,"(34.72453, -114.20883)",30446,Buck Mountain Wash,Valid,H3-5,2004.0,34.72453,-114.20883,798.0,United States,Arizona
+310,Found,"(35.8675, -114.19167)",30445,Bluebird,Valid,L6,2002.0,35.8675,-114.19167,3650.0,United States,Arizona
+311,Found,"(33.98333, -115.68333)",30414,Zulu Queen,Valid,L3.7,1976.0,33.98333,-115.68333,200.0,United States,California
+312,Found,"(42.51333, -88.48944)",30400,Zenda,Valid,"Iron, IAB complex",1955.0,42.51333,-88.48944,3700.0,United States,Wisconsin
+313,Found,"(27.0, -99.0)",30393,Zapata County,Valid,Iron,1930.0,27.0,-99.0,,United States,Texas
+315,Found,"(35.0, -94.75)",30383,Zaffra,Valid,"Iron, IAB-MG",1919.0,35.0,-94.75,3000.0,United States,Oklahoma
+316,Found,"(31.65, -106.18333)",30375,Ysleta,Valid,"Iron, ungrouped",1914.0,31.65,-106.18333,140700.0,United States,Texas
+317,Found,"(28.95, -97.40278)",30371,Yorktown (Texas),Valid,H5,1957.0,28.95,-97.40278,3500.0,United States,Texas
+318,Fell,"(41.28333, -73.81667)",30370,Yorktown (New York),Valid,L5,1869.0,41.28333,-73.81667,250.0,United States,New York
+319,Found,"(40.86667, -97.6)",30368,York (stone),Valid,L6,1928.0,40.86667,-97.6,1440.0,United States,Nebraska
+320,Found,"(40.75, -97.5)",30367,York (iron),Valid,"Iron, IIIAB",1878.0,40.75,-97.5,835.0,United States,Nebraska
+321,Found,"(38.9, -99.43333)",30364,Yocemento,Valid,L4,1966.0,38.9,-99.43333,5920.0,United States,Kansas
+322,Found,"(40.33083, -102.19583)",24339,Wray (b),Valid,L5,1938.0,40.33083,-102.19583,3884.0,United States,Colorado
+323,Found,"(40.05, -102.2)",24338,Wray (a),Valid,H4-an,1936.0,40.05,-102.2,281.7,United States,Colorado
+324,Fell,"(42.38467, -83.6115)",24337,Worden,Valid,L5,1997.0,42.38467,-83.6115,1551.0,United States,Michigan
+325,Found,"(40.76667, -81.95)",24336,Wooster,Valid,"Iron, IAB-sLL",1858.0,40.76667,-81.95,22700.0,United States,Ohio
+326,Found,"(36.5, -99.5)",24333,Woodward County,Valid,H4,1923.0,36.5,-99.5,45500.0,United States,Oklahoma
+327,Found,"(35.68333, -82.18333)",24332,Wood's Mountain,Valid,"Iron, IVA",1918.0,35.68333,-82.18333,3867.0,United States,North Carolina
+328,Found,"(42.34667, -90.1675)",24330,Woodbine,Valid,"Iron, IAB-ung",1953.0,42.34667,-90.1675,48200.0,United States,Illinois
+329,Found,"(44.4, -98.53333)",24328,Wolsey,Valid,"Iron, IAB-MG",1981.0,44.4,-98.53333,74830.0,United States,South Dakota
+330,Found,"(47.70667, -119.83)",24320,Withrow,Valid,"Iron, IIIAB?",1950.0,47.70667,-119.83,8732.0,United States,Washington
+331,Found,"(35.2, -111.4)",24285,Winona,Valid,Winonaite,1928.0,35.2,-111.4,24000.0,United States,Arizona
+332,Found,"(29.96667, -98.11667)",24282,Wimberley,Valid,"Iron, IIIAB",1976.0,29.96667,-98.11667,7800.0,United States,Texas
+333,Found,"(37.38333, -96.86667)",24280,Wilmot,Valid,H6,1944.0,37.38333,-96.86667,2000.0,United States,Kansas
+334,Found,"(37.53333, -98.36667)",24279,Willowdale,Valid,H4,1951.0,37.53333,-98.36667,3000.0,United States,Kansas
+335,Found,"(36.73333, -102.2)",24278,Willowbar,Valid,L6,1971.0,36.73333,-102.2,2070.0,United States,Oklahoma
+336,Found,"(43.46667, -106.76667)",24276,Willow Creek,Valid,"Iron, IIIE",1914.0,43.46667,-106.76667,51000.0,United States,Wyoming
+337,Found,"(47.98333, -103.65)",24275,Williston,Valid,"Iron, IIIAB",1962.0,47.98333,-103.65,7645.0,United States,North Dakota
+338,Found,"(32.18167, -109.7895)",24274,Willcox Playa 002,Valid,L6,2001.0,32.18167,-109.7895,12.0,United States,Arizona
+339,Found,"(32.125, -109.83333)",24273,Willcox Playa,Valid,H4,1979.0,32.125,-109.83333,61.5,United States,Arizona
+340,Found,"(34.5, -105.83333)",24271,Willard (b),Valid,H3.6,1934.0,34.5,-105.83333,12700.0,United States,New Mexico
+341,Found,"(34.43333, -105.78333)",24270,Willard (a),Valid,L6,1978.0,34.43333,-105.78333,800.0,United States,New Mexico
+342,Found,"(45.36667, -122.58333)",24269,Willamette,Valid,"Iron, IIIAB",1902.0,45.36667,-122.58333,15500000.0,United States,Oregon
+343,Found,"(38.15, -102.66667)",24268,Wiley,Valid,"Iron, IIC",1938.0,38.15,-102.66667,3500.0,United States,Colorado
+344,Found,"(43.72444, -116.91167)",24267,Wilder,Valid,H5,1982.0,43.72444,-116.91167,26600.0,United States,Idaho
+345,Found,"(32.56533, -111.7255)",24266,Wildcat Peak,Valid,H5,1998.0,32.56533,-111.7255,202.0,United States,Arizona
+346,Found,"(39.41667, -103.2)",24264,Wild Horse,Valid,H5,1979.0,39.41667,-103.2,1360.0,United States,Colorado
+347,Found,"(37.08333, -101.76667)",24262,Wilburton,Valid,H5,1940.0,37.08333,-101.76667,207.8,United States,Kansas
+348,Found,"(34.7, -113.6)",24260,Wikieup,Valid,H5,1965.0,34.7,-113.6,372.0,United States,Arizona
+349,Found,"(33.96667, -112.73333)",24258,Wickenburg (stone),Valid,L6,1940.0,33.96667,-112.73333,9200.0,United States,Arizona
+350,Found,"(34.06667, -98.91667)",24257,Wichita County,Valid,"Iron, IAB-MG",1836.0,34.06667,-98.91667,145000.0,United States,Texas
+351,Found,"(37.59183, -97.21497)",24256,Wichita,Valid,H6,1971.0,37.59183,-97.21497,2367.0,United States,Kansas
+352,Found,"(42.03333, -101.5)",24254,Whitman,Valid,H5,1937.0,42.03333,-101.5,221.0,United States,Nebraska
+353,Found,"(35.85667, -114.22333)",24253,White Hills,Valid,Mesosiderite,1999.0,35.85667,-114.22333,11.7,United States,Arizona
+354,Found,"(35.89, -114.20333)",24252,White Elephant,Valid,L4,1997.0,35.89,-114.20333,10.4,United States,Arizona
+355,Fell,"(41.71056, -72.67361)",24251,Wethersfield (1982),Valid,L6,1982.0,41.71056,-72.67361,2756.0,United States,Connecticut
+356,Fell,"(41.7, -72.65)",24250,Wethersfield (1971),Valid,L6,1971.0,41.7,-72.65,350.0,United States,Connecticut
+357,Fell,"(41.266667, -73.266667)",24249,Weston,Valid,H4,1807.0,41.266667,-73.266667,150000.0,United States,Connecticut
+358,Found,"(35.0, -94.0)",24248,Western Arkansas,Valid,"Iron, IVA",1890.0,35.0,-94.0,1750.0,United States,Arkansas
+359,Found,"(33.075, -102.045)",24246,West Point,Valid,L6,1972.0,33.075,-102.045,3100.0,United States,Texas
+360,Found,"(33.05, -101.93333)",24242,Wells,Valid,LL3.3,1985.0,33.05,-101.93333,4135.0,United States,Texas
+361,Found,"(33.67833, -102.315)",24241,Wellman (e),Valid,H4,1973.0,33.67833,-102.315,959.0,United States,Texas
+362,Found,"(33.01667, -102.36667)",24240,Wellman (d),Valid,H,1966.0,33.01667,-102.36667,1615.0,United States,Texas
+363,Found,"(33.03333, -102.33333)",24239,Wellman (c),Valid,H4,1964.0,33.03333,-102.33333,45000.0,United States,Texas
+364,Found,"(33.025, -102.41667)",24238,Wellman (b),Valid,OC,1964.0,33.025,-102.41667,343.0,United States,Texas
+365,Found,"(33.03333, -102.33333)",24237,Wellman (a),Valid,H5,1940.0,33.03333,-102.33333,55000.0,United States,Texas
+366,Found,"(34.95, -100.25)",24236,Wellington,Valid,H5,1955.0,34.95,-100.25,13400.0,United States,Texas
+368,Found,"(40.35, -103.95)",24234,Weldona,Valid,H4,1934.0,40.35,-103.95,27700.0,United States,Colorado
+369,Found,"(34.25, -112.75)",24227,Weaver Mountains,Valid,"Iron, IVB",1898.0,34.25,-112.75,38800.0,United States,Arizona
+370,Found,"(35.5, -98.7)",24226,Weatherford,Valid,CBa,1926.0,35.5,-98.7,2000.0,United States,Oklahoma
+371,Found,"(34.80167, -101.68333)",24225,Wayside,Valid,H6,1973.0,34.80167,-101.68333,23600.0,United States,Texas
+372,Found,"(32.68333, -85.56667)",24224,Waverly,Valid,"Iron, IAB-an",1983.0,32.68333,-85.56667,4400.0,United States,Alabama
+373,Found,"(39.81667, -94.91667)",24220,Wathena,Valid,"Iron, IIAB",1939.0,39.81667,-94.91667,566.0,United States,Kansas
+374,Found,"(47.767778, -119.876389)",24219,Waterville,Valid,"Iron, IAB-ung",1917.0,47.767778,-119.876389,37125.0,United States,Washington
+375,Fell,"(45.58333, -122.35)",24218,Washougal,Valid,Howardite,1939.0,45.58333,-122.35,225.0,United States,Washington
+376,Found,"(39.7, -103.16667)",24217,Washington County,Valid,"Iron, ungrouped",1927.0,39.7,-103.16667,5750.0,United States,Colorado
+377,Fell,"(38.68333, -91.15)",24215,Warrenton,Valid,CO3.7,1877.0,38.68333,-91.15,1600.0,United States,Missouri
+378,Found,"(32.90333, -102.925)",24214,Wardswell Draw,Valid,L6,1976.0,32.90333,-102.925,3000.0,United States,Texas
+379,Found,"(43.0, -107.16667)",24211,Waltman,Valid,L4,1948.0,43.0,-107.16667,23410.0,United States,Wyoming
+380,Fell,"(34.33333, -98.3)",24210,Walters,Valid,L6,1946.0,34.33333,-98.3,28100.0,United States,Oklahoma
+381,Found,"(43.827, -70.24717)",24209,Walnut Hill,Valid,OC,1978.0,43.827,-70.24717,220.0,United States,Maine
+382,Found,"(37.325, -84.71667)",24208,Walltown,Valid,L6,1956.0,37.325,-84.71667,1600.0,United States,Kentucky
+383,Found,"(35.8, -113.7)",24206,Wallapai,Valid,"Iron, IID",1927.0,35.8,-113.7,430000.0,United States,Arizona
+384,Found,"(34.0, -87.16667)",24204,Walker County,Valid,"Iron, IIAB",1832.0,34.0,-87.16667,74800.0,United States,Alabama
+385,Found,"(36.63333, -83.83333)",24203,Waldron Ridge,Valid,"Iron, IAB complex",1887.0,36.63333,-83.83333,13600.0,United States,Kentucky
+386,Found,"(39.1, -98.83333)",24202,Waldo,Valid,L6,1937.0,39.1,-98.83333,1300.0,United States,Kansas
+387,Found,"(32.4, -101.95)",24201,Walcott,Valid,H5,1983.0,32.4,-101.95,2000.0,United States,Texas
+388,Found,"(36.15, -101.05)",24200,Waka,Valid,H6,1963.0,36.15,-101.05,11875.0,United States,Texas
+389,Found,"(38.67667, -113.30167)",24197,Wah Wah Valley,Valid,L6,1986.0,38.67667,-113.30167,9.0,United States,Utah
+390,Found,"(35.84083, -104.58583)",24196,Wagon Mound,Valid,L6,1932.0,35.84083,-104.58583,87500.0,United States,New Mexico
+391,Found,"(39.33333, -98.16667)",24195,Waconda,Valid,L6,1873.0,39.33333,-98.16667,50000.0,United States,Kansas
+394,Found,"(34.68333, -101.38333)",24175,Vigo Park,Valid,L4,1934.0,34.68333,-101.38333,35.0,United States,Texas
+395,Fell,"(43.5, -91.16667)",24168,Vernon County,Valid,H6,1865.0,43.5,-91.16667,1500.0,United States,Wisconsin
+396,Found,"(39.73633, -96.36133)",24167,Vermillion,Valid,"Pallasite, ungrouped",1991.0,39.73633,-96.36133,34360.0,United States,Kansas
+397,Found,"(32.4, -97.08333)",24160,Venus,Valid,H4,1960.0,32.4,-97.08333,1013.0,United States,Texas
+398,Found,"(34.25, -119.3)",24159,Ventura,Valid,"Iron, IAB-ung",1953.0,34.25,-119.3,7700.0,United States,California
+399,Found,"(35.46667, -115.66667)",24152,Valley Wells,Valid,L6,1929.0,35.46667,-115.66667,129.9,United States,California
+400,Found,"(42.93333, -100.75)",24148,Valentine,Valid,L4,1942.0,42.93333,-100.75,2300.0,United States,Nebraska
+401,Found,"(35.51667, -79.96667)",24139,Uwharrie,Valid,"Iron, IIIAB",1930.0,35.51667,-79.96667,72700.0,United States,North Carolina
+402,Found,"(29.2, -99.76667)",24137,Uvalde,Valid,H5,1915.0,29.2,-99.76667,8200.0,United States,Texas
+403,Found,"(36.2, -103.9)",24134,Ute Creek,Valid,H4,1936.0,36.2,-103.9,1000.0,United States,New Mexico
+405,Found,"(34.75, -84.0)",24122,Union County,Valid,"Iron, IC",1853.0,34.75,-84.0,6800.0,United States,Georgia
+406,Found,"(34.95, -102.1175)",24113,Umbarger,Valid,L6,1954.0,34.95,-102.1175,13000.0,United States,Texas
+407,Found,"(37.6, -101.25)",24110,Ulysses,Valid,H4,1927.0,37.6,-101.25,3900.0,United States,Kansas
+408,Found,"(32.25, -110.83333)",24100,Udall Park,Valid,H4,1985.0,32.25,-110.83333,150.0,United States,Arizona
+409,Found,"(46.7, -110.13333)",24093,Twodot,Valid,H6,1999.0,46.7,-110.13333,21400.0,United States,Montana
+410,Found,"(37.63333, -102.41667)",24092,Two Buttes (b),Valid,H,1970.0,37.63333,-102.41667,3000.0,United States,Colorado
+411,Found,"(37.63333, -102.41667)",24091,Two Buttes (a),Valid,H5,1962.0,37.63333,-102.41667,19700.0,United States,Colorado
+412,Found,"(32.58333, -82.01667)",24090,Twin City,Valid,"Iron, IAB-ung",1955.0,32.58333,-82.01667,5130.0,United States,Georgia
+413,Found,"(34.075, -116.01667)",24089,Twentynine Palms,Valid,L,1944.0,34.075,-116.01667,19700.0,United States,California
+414,Found,"(47.6, -94.76667)",24085,Turtle River,Valid,"Iron, IIIAB",1953.0,47.6,-94.76667,22390.0,United States,Minnesota
+415,Found,"(39.68432, -117.62052)",24081,Tungsten Mountain 010,Valid,H5,2001.0,39.68432,-117.62052,13.4,United States,Nevada
+416,Found,"(39.68035, -117.62918)",24080,Tungsten Mountain 009,Valid,H4,2001.0,39.68035,-117.62918,31.0,United States,Nevada
+417,Found,"(39.68072, -117.62778)",24079,Tungsten Mountain 008,Valid,H5,2001.0,39.68072,-117.62778,7.0,United States,Nevada
+418,Found,"(39.68518, -117.62105)",24078,Tungsten Mountain 007,Valid,H5,2001.0,39.68518,-117.62105,44.0,United States,Nevada
+419,Found,"(39.68436, -117.62018)",24077,Tungsten Mountain 006,Valid,L6,2001.0,39.68436,-117.62018,8.8,United States,Nevada
+420,Found,"(39.6844, -117.62007)",24076,Tungsten Mountain 005,Valid,L6,2001.0,39.6844,-117.62007,4.7,United States,Nevada
+421,Found,"(39.68444, -117.62022)",24075,Tungsten Mountain 004,Valid,H6,2001.0,39.68444,-117.62022,8.1,United States,Nevada
+422,Found,"(39.68449, -117.62072)",24074,Tungsten Mountain 003,Valid,H4,2001.0,39.68449,-117.62072,7.8,United States,Nevada
+423,Found,"(39.67357, -117.60432)",24073,Tungsten Mountain 002,Valid,H6,2001.0,39.67357,-117.60432,11.3,United States,Nevada
+424,Found,"(39.63611, -117.65472)",24072,Tungsten Mountain 001,Valid,H4,2000.0,39.63611,-117.65472,31.73,United States,Nevada
+425,Found,"(34.555, -101.63)",24070,Tulia (iron),Valid,Iron,1969.0,34.555,-101.63,190.0,United States,Texas
+426,Found,"(34.60667, -101.76667)",24069,Tulia (d),Valid,H6,1981.0,34.60667,-101.76667,17700.0,United States,Texas
+427,Found,"(34.53333, -101.7)",24067,Tulia (b),Valid,L6,1917.0,34.53333,-101.7,4800.0,United States,Texas
+428,Found,"(34.61667, -101.95)",24066,Tulia (a),Valid,H3-4,1917.0,34.61667,-101.95,86000.0,United States,Texas
+429,Found,"(38.99861, -113.38167)",24065,Tule Valley,Valid,L6,2001.0,38.99861,-113.38167,17.69,United States,Utah
+430,Found,"(34.66667, -102.0)",24064,Tule Draw,Valid,H5,1981.0,34.66667,-102.0,2300.0,United States,Texas
+431,Found,"(31.85, -110.96667)",24061,Tucson,Valid,"Iron, ungrouped",1850.0,31.85,-110.96667,975000.0,United States,Arizona
+432,Found,"(41.55, -100.96667)",24056,Tryon,Valid,L6,1934.0,41.55,-100.96667,15900.0,United States,Nebraska
+433,Found,"(38.58139, -104.07667)",24055,Truckton,Valid,H5,1978.0,38.58139,-104.07667,43.4,United States,Colorado
+434,Fell,"(32.16667, -95.1)",24054,Troup,Valid,L6,1917.0,32.16667,-95.1,1020.0,United States,Texas
+436,Found,"(43.36667, -88.13333)",24045,Trenton,Valid,"Iron, IIIAB",1858.0,43.36667,-88.13333,505000.0,United States,Wisconsin
+437,Found,"(30.55556, -97.95278)",24041,Travis County (b),Valid,H4,1889.0,30.55556,-97.95278,5900.0,United States,Texas
+438,Found,"(30.3, -97.7)",24040,Travis County (a),Valid,H5,1889.0,30.3,-97.7,175400.0,United States,Texas
+439,Found,"(41.11667, -89.80833)",24035,Toulon,Valid,H5,1962.0,41.11667,-89.80833,1214.5,United States,Illinois
+440,Fell,"(42.06667, -104.16667)",24032,Torrington,Valid,H6,1944.0,42.06667,-104.16667,259.1,United States,Wyoming
+442,Found,"(39.08333, -95.11667)",24025,Tonganoxie,Valid,"Iron, IIIAB",1886.0,39.08333,-95.11667,11800.0,United States,Kansas
+443,Found,"(42.88333, -73.6)",24022,Tomhannock Creek,Valid,H5,1863.0,42.88333,-73.6,1500.0,United States,New York
+444,Found,"(32.23333, -88.2)",24021,Tombigbee River,Valid,"Iron, IIG",1859.0,32.23333,-88.2,43000.0,United States,Alabama
+445,Found,"(33.205, -102.65833)",24017,Tokio (b),Valid,OC,1974.0,33.205,-102.65833,823.0,United States,Texas
+446,Found,"(33.21667, -102.63167)",24016,Tokio (a),Valid,H5,1974.0,33.21667,-102.63167,6600.0,United States,Texas
+447,Found,"(37.2, -103.58333)",24014,Tobe,Valid,H4,1963.0,37.2,-103.58333,5386.0,United States,Colorado
+448,Found,"(34.25, -96.68333)",24010,Tishomingo,Valid,"Iron, ungrouped",1965.0,34.25,-96.68333,260000.0,United States,Oklahoma
+449,Found,"(33.38333, -105.25)",24006,Tinnie,Valid,"Iron, IVB",1978.0,33.38333,-105.25,15300.0,United States,New Mexico
+450,Found,"(34.98333, -101.73333)",24000,Timber Creek,Valid,L4,1982.0,34.98333,-101.73333,7.0,United States,Texas
+451,Fell,"(38.2, -89.68333)",23998,Tilden,Valid,L6,1927.0,38.2,-89.68333,74800.0,United States,Illinois
+452,Found,"(34.93333, -102.01667)",23988,Tierra Blanca,Valid,Winonaite,1965.0,34.93333,-102.01667,860.0,United States,Texas
+453,Found,"(39.52167, -103.16667)",23980,Thurman,Valid,OC,1965.0,39.52167,-103.16667,1959.0,United States,Colorado
+455,Found,"(35.28333, -108.26667)",23974,Thoreau,Valid,"Iron, IAB complex",1954.0,35.28333,-108.26667,500.0,United States,New Mexico
+456,Found,"(33.46667, -82.48333)",23973,Thomson,Valid,L6,1888.0,33.46667,-82.48333,218.0,United States,Georgia
+457,Found,"(36.4, -103.01667)",23906,Texline,Valid,H5,1937.0,36.4,-103.01667,26200.0,United States,Texas
+458,Found,"(35.91667, -114.43333)",23895,Temple Bar,Valid,CR,1998.0,35.91667,-114.43333,106.0,United States,Arizona
+459,Found,"(31.11667, -97.3)",23894,Temple,Valid,L6,1959.0,31.11667,-97.3,5000.0,United States,Texas
+460,Found,"(34.38333, -100.4)",23893,Tell,Valid,H6,1930.0,34.38333,-100.4,16600.0,United States,Texas
+461,Found,"(34.53333, -108.35)",23892,Techado,Valid,"Iron, IIE",1983.0,34.53333,-108.35,810.0,United States,New Mexico
+462,Found,"(36.43333, -83.75)",23891,Tazewell,Valid,"Iron, IAB-sLH",1853.0,36.43333,-83.75,27000.0,United States,Tennessee
+463,Found,"(33.23333, -103.44167)",23886,Tatum,Valid,H4,1938.0,33.23333,-103.44167,1787.0,United States,New Mexico
+464,Found,"(39.32, -82.37)",23880,Tarlton,Valid,H4,1967.0,39.32,-82.37,226.5,United States,Ohio
+466,Found,"(31.86667, -99.58333)",23793,Talpa,Valid,H6,1963.0,31.86667,-99.58333,13000.0,United States,Texas
+467,Found,"(34.45, -104.01667)",23786,Taiban (b),Valid,LL6,1984.0,34.45,-104.01667,641.0,United States,New Mexico
+468,Found,"(34.45, -104.01667)",23785,Taiban,Valid,L5,1934.0,34.45,-104.01667,25000.0,United States,New Mexico
+469,Found,"(36.45, -104.1)",23781,Tafoya (b),Valid,H5,1951.0,36.45,-104.1,490.0,United States,New Mexico
+470,Found,"(36.45, -104.1)",23780,Tafoya (a),Valid,H4,1951.0,36.45,-104.1,270.0,United States,New Mexico
+471,Found,"(47.25, -122.41667)",23777,Tacoma,Valid,"Iron, IAB complex",1925.0,47.25,-122.41667,16.7,United States,Washington
+472,Fell,"(33.18836, -86.2945)",23773,Sylacauga,Valid,H4,1954.0,33.18836,-86.2945,5560.0,United States,Alabama
+473,Found,"(32.55, -100.41667)",23770,Sweetwater,Valid,H5,1961.0,32.55,-100.41667,1760.0,United States,Texas
+474,Found,"(34.95, -107.16667)",23768,Suwanee Spring,Valid,L5,1979.0,34.95,-107.16667,1200.0,United States,New Mexico
+475,Found,"(40.6, -97.86667)",23763,Sutton,Valid,H5,1964.0,40.6,-97.86667,7600.0,United States,Nebraska
+476,Found,"(34.16667, -115.91667)",23761,Surprise Springs,Valid,"Iron, IAB-sLL",1899.0,34.16667,-115.91667,1500.0,United States,California
+477,Found,"(32.87083, -115.7825)",23759,Superstition Mountain,Valid,H5,2000.0,32.87083,-115.7825,333.0,United States,California
+478,Found,"(35.23617, -117.043)",23758,Superior Valley 011,Valid,H6,2001.0,35.23617,-117.043,2.52,United States,California
+479,Found,"(35.23633, -117.04317)",23757,Superior Valley 010,Valid,L4,2001.0,35.23633,-117.04317,26.26,United States,California
+480,Found,"(35.23583, -117.044)",23756,Superior Valley 009,Valid,L6,2001.0,35.23583,-117.044,116.42,United States,California
+481,Found,"(35.236, -117.044)",23755,Superior Valley 008,Valid,L6,2001.0,35.236,-117.044,77.44,United States,California
+482,Found,"(35.23833, -117.03283)",23754,Superior Valley 007,Valid,L6,2001.0,35.23833,-117.03283,67.21,United States,California
+483,Found,"(35.23883, -117.02667)",23753,Superior Valley 006,Valid,H6,2001.0,35.23883,-117.02667,78.5,United States,California
+484,Found,"(35.238, -117.0365)",23752,Superior Valley 005,Valid,H6,2001.0,35.238,-117.0365,32.92,United States,California
+485,Found,"(35.23533, -117.1005)",23751,Superior Valley 004,Valid,L6,2001.0,35.23533,-117.1005,15.3,United States,California
+486,Found,"(35.24742, -117.0999)",23750,Superior Valley 003,Valid,H6,2001.0,35.24742,-117.0999,65.6,United States,California
+487,Found,"(35.22358, -117.1136)",23749,Superior Valley 002,Valid,L6,2000.0,35.22358,-117.1136,145.0,United States,California
+488,Found,"(35.25448, -117.10972)",23748,Superior Valley 001,Valid,H5,2000.0,35.25448,-117.10972,3.4,United States,California
+489,Found,"(39.16278, -112.70806)",23747,Sunstone Knoll,Valid,L6,1985.0,39.16278,-112.70806,15.6,United States,Utah
+490,Found,"(36.0, -101.83333)",23746,Sunray,Valid,H4,1985.0,36.0,-101.83333,4300.0,United States,Texas
+491,Found,"(34.2, -86.48333)",23744,Summit,Valid,"Iron, IIAB",1890.0,34.2,-86.48333,1000.0,United States,Alabama
+492,Found,"(34.76667, -102.41667)",23743,Summerfield,Valid,L5,1979.0,34.76667,-102.41667,6200.0,United States,Texas
+493,Found,"(32.98333, -102.37833)",23740,Sulphur Springs Draw,Valid,H5,1990.0,32.98333,-102.37833,1892.0,United States,Texas
+494,Fell,"(36.48333, -90.66667)",23736,Success,Valid,L6,1924.0,36.48333,-90.66667,3500.0,United States,Arkansas
+495,Found,"(37.5, -100.83333)",23735,Sublette,Valid,L6,1952.0,37.5,-100.83333,1300.0,United States,Kansas
+496,Found,"(29.30167, -103.5)",23734,Study Butte,Valid,H3-6,1983.0,29.30167,-103.5,417.0,United States,Texas
+498,Found,"(39.22167, -102.59)",23730,Stratton,Valid,OC,1964.0,39.22167,-102.59,121.0,United States,Colorado
+499,Fell,"(41.2, -73.13333)",23728,Stratford,Valid,L6,1974.0,41.2,-73.13333,50.0,United States,Connecticut
+500,Found,"(37.28333, -102.2)",23727,Stonington,Valid,H5,1942.0,37.28333,-102.2,2700.0,United States,Colorado
+501,Found,"(40.6, -103.18333)",23723,Sterling,Valid,Pallasite,1900.0,40.6,-103.18333,679.5,United States,Colorado
+502,Found,"(38.21667, -79.05)",23716,Staunton,Valid,"Iron, IIIE",1869.0,38.21667,-79.05,43500.0,United States,Virginia
+503,Found,"(32.4375, -81.91667)",23715,Statesboro,Valid,L5,2000.0,32.4375,-81.91667,2158.26,United States,Georgia
+504,Found,"(32.0, -98.0)",23693,Squaw Creek,Valid,"Iron, IIAB",,32.0,-98.0,14500.0,United States,Texas
+505,Found,"(34.34444, -102.22361)",23691,Springlake,Valid,L6,1980.0,34.34444,-102.22361,17300.0,United States,Texas
+506,Found,"(37.48333, -102.67667)",23690,Springfield (b),Valid,L,1937.0,37.48333,-102.67667,229.3,United States,Colorado
+507,Found,"(37.38333, -102.63333)",23689,Springfield,Valid,L6,1937.0,37.38333,-102.63333,3200.0,United States,Colorado
+508,Found,"(36.34611, -97.185)",23688,Springer,Valid,H5,1965.0,36.34611,-97.185,8143.0,United States,Oklahoma
+509,Found,"(36.25, -101.21667)",23687,Spearman,Valid,"Iron, IIIAB",1934.0,36.25,-101.21667,10400.0,United States,Texas
+510,Found,"(34.00111, -102.12833)",23686,Spade,Valid,H6,2000.0,34.00111,-102.12833,8860.0,United States,Texas
+512,Found,"(34.26667, -101.25)",23680,South Plains,Valid,L5,1971.0,34.26667,-101.25,4763.0,United States,Texas
+513,Found,"(43.03333, -78.03333)",23676,South Byron,Valid,"Iron, ungrouped",1915.0,43.03333,-78.03333,6000.0,United States,New York
+514,Found,"(41.65, -86.21667)",23675,South Bend,Valid,"Pallasite, PMG",1893.0,41.65,-86.21667,2500.0,United States,Indiana
+515,Found,"(34.03333, -95.58333)",23669,Soper,Valid,"Iron, ungrouped",1938.0,34.03333,-95.58333,3700.0,United States,Oklahoma
+516,Found,"(41.38333, -123.5)",23666,Somesbar,Valid,H6,1977.0,41.38333,-123.5,60.0,United States,California
+517,Found,"(32.18333, -97.8)",23665,Somervell County,Valid,"Pallasite, PMG",1919.0,32.18333,-97.8,11800.0,United States,Texas
+519,Found,"(33.7, -83.7)",23659,Social Circle,Valid,"Iron, IVA",1927.0,33.7,-83.7,99300.0,United States,Georgia
+520,Found,"(32.15833, -111.11333)",23658,Snyder Hill,Valid,L5,1994.0,32.15833,-111.11333,1160.0,United States,Arizona
+521,Found,"(32.71667, -100.91667)",23657,Snyder,Valid,H3,1983.0,32.71667,-100.91667,16900.0,United States,Texas
+522,Found,"(33.58333, -102.16667)",23655,Smyer,Valid,H6,1968.0,33.58333,-102.16667,3273.0,United States,Texas
+523,Found,"(35.98333, -85.85)",23654,Smithville,Valid,"Iron, IAB-MG",1840.0,35.98333,-85.85,70500.0,United States,Tennessee
+524,Found,"(36.41667, -80.0)",23652,Smith's Mountain,Valid,"Iron, IIIAB",1863.0,36.41667,-80.0,5000.0,United States,North Carolina
+525,Found,"(34.0, -83.16667)",23651,Smithonia,Valid,"Iron, IIAB",1940.0,34.0,-83.16667,69900.0,United States,Georgia
+526,Found,"(37.13333, -88.4)",23650,Smithland,Valid,"Iron, IVA",1839.0,37.13333,-88.4,5000.0,United States,Kentucky
+527,Found,"(39.83333, -99.01667)",23649,Smith Center,Valid,L6,1937.0,39.83333,-99.01667,1585.0,United States,Kansas
+528,Found,"(34.65, -91.58333)",23647,Slovak,Valid,H5,1962.0,34.65,-91.58333,8220.0,United States,Arkansas
+529,Found,"(33.11861, -102.74056)",23644,Sligo,Valid,H3.9,1976.0,33.11861,-102.74056,78.0,United States,Texas
+530,Found,"(33.43333, -101.75)",23625,Slaton,Valid,L4,1941.0,33.43333,-101.75,1070.0,United States,Texas
+532,Fell,"(42.58333, -103.66667)",23614,Sioux County,Valid,Eucrite-mmict,1933.0,42.58333,-103.66667,4100.0,United States,Nebraska
+533,Found,"(34.53333, -101.18333)",23601,Silverton (Texas),Valid,H4,1938.0,34.53333,-101.18333,2576.0,United States,Texas
+534,Found,"(35.34443, -116.11485)",23599,Silver Dry Lake 002,Valid,H6,2000.0,35.34443,-116.11485,16.5,United States,California
+535,Found,"(35.37333, -116.125)",23598,Silver Dry Lake 001,Valid,L4,2000.0,35.37333,-116.125,218.8,United States,California
+536,Found,"(41.23333, -104.98333)",23597,Silver Crown,Valid,"Iron, IAB-MG",1887.0,41.23333,-104.98333,11600.0,United States,Wyoming
+537,Found,"(32.48333, -111.56667)",23596,Silver Bell,Valid,"Iron, IIAB",1939.0,32.48333,-111.56667,5100.0,United States,Arizona
+538,Found,"(35.51752, -116.17607)",23595,Silurian Dry Lake,Valid,LL6,2000.0,35.51752,-116.17607,43.8,United States,California
+540,Found,"(33.0, -107.5)",23589,Sierra County,Valid,H5,1962.0,33.0,-107.5,1000.0,United States,New Mexico
+542,Found,"(41.05, -102.9)",23585,Sidney,Valid,L,1941.0,41.05,-102.9,6000.0,United States,Nebraska
+543,Found,"(39.76667, -76.66667)",23581,Shrewsbury,Valid,"Iron, IAB-sLL",1907.0,39.76667,-76.66667,12000.0,United States,Pennsylvania
+544,Found,"(38.66667, -120.93333)",23535,Shingle Springs,Valid,"Iron, ungrouped",1869.0,38.66667,-120.93333,39000.0,United States,California
+545,Found,"(38.7, -100.35)",23533,Shields,Valid,H5,1962.0,38.7,-100.35,9780.0,United States,Kansas
+547,Found,"(34.125, -115.56333)",23528,Sheephole Valley 002,Valid,L4,1999.0,34.125,-115.56333,4.4,United States,California
+548,Found,"(34.125, -115.56333)",23527,Sheephole Valley,Valid,H4,1999.0,34.125,-115.56333,62.1,United States,California
+549,Found,"(39.53333, -103.33333)",23526,Shaw,Valid,L6/7,1937.0,39.53333,-103.33333,17500.0,United States,Colorado
+550,Fell,"(37.83333, -76.7)",23525,Sharps,Valid,H3.4,1921.0,37.83333,-76.7,1265.0,United States,Virginia
+551,Found,"(38.77083, -101.79833)",23524,Sharon Springs,Valid,L6,1983.0,38.77083,-101.79833,23400.0,United States,Kansas
+552,Found,"(33.7, -101.93333)",23522,Shallowater,Valid,Aubrite,1936.0,33.7,-101.93333,4650.0,United States,Texas
+553,Found,"(32.4, -102.58333)",23513,Shafter Lake,Valid,H5,1933.0,32.4,-102.58333,3027.0,United States,Texas
+554,Found,"(37.2375, -92.78694)",23511,Seymour,Valid,"Iron, IAB-MG",1940.0,37.2375,-92.78694,25900.0,United States,Missouri
+555,Found,"(34.26889, -101.64722)",23505,Seth Ward,Valid,H5,1977.0,34.26889,-101.64722,3800.0,United States,Texas
+556,Found,"(41.78333, -84.18333)",23499,Seneca Township,Valid,"Iron, IVA",1923.0,41.78333,-84.18333,11500.0,United States,Michigan
+557,Found,"(42.91667, -76.78333)",23498,Seneca Falls,Valid,"Iron, IIIAB",1850.0,42.91667,-76.78333,4000.0,United States,New York
+558,Found,"(39.83333, -96.06667)",23497,Seneca,Valid,H4,1936.0,39.83333,-96.06667,1900.0,United States,Kansas
+559,Found,"(32.71667, -102.65)",23494,Seminole Draw (b),Valid,H5,1976.0,32.71667,-102.65,1192.7,United States,Texas
+560,Found,"(32.71667, -102.65)",23493,Seminole Draw (a),Valid,L6,1976.0,32.71667,-102.65,478.0,United States,Texas
+561,Found,"(32.71667, -102.65)",23492,Seminole (e),Valid,H5,1977.0,32.71667,-102.65,758.2,United States,Texas
+562,Found,"(32.71667, -102.65)",23491,Seminole (d),Valid,H6,1976.0,32.71667,-102.65,1710.0,United States,Texas
+563,Found,"(32.55, -102.39167)",23490,Seminole (c),Valid,H4,1967.0,32.55,-102.39167,1711.0,United States,Texas
+564,Found,"(32.54333, -102.705)",23489,Seminole (b),Valid,H4,1965.0,32.54333,-102.705,1184.0,United States,Texas
+565,Found,"(32.68333, -102.61667)",23488,Seminole,Valid,H4,1961.0,32.68333,-102.61667,43900.0,United States,Texas
+566,Found,"(32.4, -87.0)",23486,Selma,Valid,H4,1906.0,32.4,-87.0,140600.0,United States,Alabama
+567,Found,"(35.28333, -112.86667)",23485,Seligman,Valid,"Iron, IAB-MG",1949.0,35.28333,-112.86667,2200.0,United States,Arizona
+568,Found,"(39.53333, -100.56667)",23484,Selden,Valid,LL5,1960.0,39.53333,-100.56667,1560.0,United States,Kansas
+569,Found,"(39.27667, -102.88667)",23480,Seibert (b),Valid,L6,1991.0,39.27667,-102.88667,8600.0,United States,Colorado
+570,Found,"(39.3, -102.83333)",23479,Seibert (a),Valid,H5,1941.0,39.3,-102.83333,3500.0,United States,Colorado
+571,Found,"(39.36667, -100.63333)",23478,Seguin,Valid,H6,1956.0,39.36667,-100.63333,750.0,United States,Kansas
+572,Fell,"(44.36667, -69.2)",23472,Searsmont,Valid,H5,1871.0,44.36667,-69.2,5400.0,United States,Maine
+573,Found,"(32.98333, -102.56667)",23471,Seagraves (c),Valid,L6/7,1989.0,32.98333,-102.56667,26810.0,United States,Texas
+574,Found,"(32.91722, -102.5)",23470,Seagraves (b),Valid,H5,1976.0,32.91722,-102.5,4600.0,United States,Texas
+575,Found,"(32.93333, -102.58333)",23469,Seagraves,Valid,H4,1962.0,32.93333,-102.58333,13000.0,United States,Texas
+576,Found,"(32.5, -101.0)",23468,Scurry,Valid,H5,1937.0,32.5,-101.0,118000.0,United States,Texas
+577,Found,"(36.76667, -86.16667)",23466,Scottsville,Valid,"Iron, IIAB",1867.0,36.76667,-86.16667,10000.0,United States,Kentucky
+578,Found,"(38.46667, -100.93333)",23462,Scott City,Valid,H5,1905.0,38.46667,-100.93333,2135.0,United States,Kansas
+579,Fell,"(42.86083, -73.95028)",23458,Schenectady,Valid,H5,1968.0,42.86083,-73.95028,283.3,United States,New York
+580,Found,"(40.86217, -118.54167)",23191,Sawtooth Knob,Valid,"Iron, IIAB",2002.0,40.86217,-118.54167,18.54,United States,Nevada
+581,Found,"(35.16667, -88.18333)",23189,Savannah,Valid,"Iron, IIIAB",1923.0,35.16667,-88.18333,60000.0,United States,Tennessee
+582,Found,"(32.94889, -81.865)",23177,Sardis,Valid,"Iron, IAB complex",1940.0,32.94889,-81.865,800000.0,United States,Georgia
+583,Found,"(39.84433, -100.51)",23175,Sappa,Valid,L6,1983.0,39.84433,-100.51,5950.0,United States,Kansas
+588,Found,"(40.43333, -98.06667)",23158,Sandy Creek,Valid,L5,1999.0,40.43333,-98.06667,1330.0,United States,Nebraska
+589,Found,"(35.93333, -91.63333)",23157,Sandtown,Valid,"Iron, IIIAB",1938.0,35.93333,-91.63333,9350.0,United States,Arkansas
+590,Found,"(35.25, -106.5)",23156,Sandia Mountains,Valid,"Iron, IIAB",1925.0,35.25,-106.5,45000.0,United States,New Mexico
+591,Found,"(30.13333, -102.15)",23135,Sanderson,Valid,"Iron, IIIAB",1936.0,30.13333,-102.15,6800.0,United States,Texas
+592,Found,"(40.81667, -102.25)",23134,Sand Draw,Valid,H5,1947.0,40.81667,-102.25,1200.0,United States,Colorado
+593,Found,"(39.43, -99.995)",23133,Sand Creek,Valid,H5,1986.0,39.43,-99.995,2443.0,United States,Kansas
+594,Found,"(29.5, -98.5)",23131,San Pedro Springs,Valid,L6,1887.0,29.5,-98.5,72.0,United States,Texas
+595,Fell,"(33.48472, -117.6625)",23128,San Juan Capistrano,Valid,H6,1973.0,33.48472,-117.6625,56.0,United States,California
+597,Found,"(35.0, -112.0)",23124,San Francisco Mountains,Valid,"Iron, IVA",1920.0,35.0,-112.0,1700.0,United States,Arizona
+599,Found,"(36.0, -119.0)",23122,San Emigdio,Valid,H4,1887.0,36.0,-119.0,36000.0,United States,California
+600,Found,"(31.41667, -100.35)",23117,San Angelo,Valid,"Iron, IIIAB",1897.0,31.41667,-100.35,88000.0,United States,Texas
+601,Found,"(42.53333, -122.875)",23116,Sam's Valley,Valid,"Iron, IIIAB",1894.0,42.53333,-122.875,6920.0,United States,Oregon
+602,Found,"(37.95, -85.78333)",23113,Salt River,Valid,"Iron, IIC",1850.0,37.95,-85.78333,3600.0,United States,Kentucky
+603,Found,"(40.91667, -111.66667)",23112,Salt Lake City,Valid,H5,1869.0,40.91667,-111.66667,875.0,United States,Utah
+604,Found,"(39.4, -100.4)",23109,Saline,Valid,H5,1901.0,39.4,-100.4,30800.0,United States,Kansas
+605,Found,"(38.98333, -111.85)",23108,Salina,Valid,Iron,1908.0,38.98333,-111.85,235.0,United States,Utah
+606,Fell,"(44.97917, -122.96944)",23107,Salem,Valid,L6,1981.0,44.97917,-122.96944,61.4,United States,Oregon
+608,Found,"(34.31833, -103.47167)",23095,St. Vrain,Valid,OC,1971.0,34.31833,-103.47167,45.5,United States,New Mexico
+609,Found,"(39.4, -100.03333)",23094,St. Peter,Valid,L5,1957.0,39.4,-100.03333,6800.0,United States,Kansas
+610,Fell,"(38.16667, -76.38333)",23091,St. Mary's County,Valid,LL3.3,1919.0,38.16667,-76.38333,24.3,United States,Maryland
+611,Fell,"(38.7, -90.23333)",23089,St. Louis,Valid,H4,1950.0,38.7,-90.23333,1000.0,United States,Missouri
+612,Found,"(31.73333, -101.505)",23088,St. Lawrence,Valid,LL6,1965.0,31.73333,-101.505,2600.0,United States,Texas
+613,Found,"(37.96667, -90.31667)",23086,St. Genevieve County,Valid,"Iron, IIIF",1888.0,37.96667,-90.31667,244500.0,United States,Missouri
+614,Found,"(37.75, -90.5)",23085,St. Francois County,Valid,"Iron, IC",1863.0,37.75,-90.5,3600.0,United States,Missouri
+615,Found,"(40.71667, -90.41667)",23080,Saint Augustine,Valid,"Iron, IID",1974.0,40.71667,-90.41667,22000.0,United States,Illinois
+616,Found,"(40.45, -100.75)",23079,St. Ann,Valid,H6,1938.0,40.45,-100.75,373.5,United States,Nebraska
+617,Found,"(32.86583, -97.32306)",22797,Saginaw,Valid,Iron,1979.0,32.86583,-97.32306,44500.0,United States,Texas
+618,Found,"(32.91667, -104.66667)",22794,Sacramento Mountains,Valid,"Iron, IIIAB",1890.0,32.91667,-104.66667,237200.0,United States,New Mexico
+619,Found,"(32.13333, -111.13333)",22789,Ryan Field,Valid,H5,1982.0,32.13333,-111.13333,8.9,United States,Arizona
+620,Found,"(39.8, -105.5)",22788,Russel Gulch,Valid,"Iron, IIIAB",1863.0,39.8,-105.5,13200.0,United States,Colorado
+621,Found,"(39.61667, -85.45)",22787,Rushville,Valid,L5,1866.0,39.61667,-85.45,50.0,United States,Indiana
+622,Found,"(38.61667, -102.71667)",22786,Rush Creek,Valid,L6,1938.0,38.61667,-102.71667,9300.0,United States,Colorado
+623,Found,"(39.5, -85.5)",22785,Rush County,Valid,H5,1948.0,39.5,-85.5,4300.0,United States,Indiana
+624,Found,"(34.3, -81.4)",22779,Ruff's Mountain,Valid,"Iron, IIIAB",1844.0,34.3,-81.4,53070.0,United States,South Carolina
+625,Found,"(35.95, -104.2)",22775,Roy (1934),Valid,L6,1934.0,35.95,-104.2,5619.0,United States,New Mexico
+626,Found,"(35.95, -104.2)",22774,Roy (1933),Valid,L5,1933.0,35.95,-104.2,47200.0,United States,New Mexico
+627,Found,"(46.78333, -108.56667)",22771,Roundup,Valid,"Iron, IIIAB",1990.0,46.78333,-108.56667,17590.0,United States,Montana
+628,Found,"(39.16667, -98.43333)",22770,Roundsprings,Valid,H5,1986.0,39.16667,-98.43333,6000.0,United States,Kansas
+629,Found,"(30.06667, -96.7)",22769,Round Top (b),Valid,H4,1939.0,30.06667,-96.7,7166.0,United States,Texas
+630,Found,"(30.05806, -96.65139)",22768,Round Top (a),Valid,L5,1934.0,30.05806,-96.65139,9935.0,United States,Texas
+631,Found,"(30.81667, -97.05)",22767,Rosebud,Valid,H5,1915.0,30.81667,-97.05,54900.0,United States,Texas
+632,Fell,"(44.51667, -83.95)",22766,Rose City,Valid,H5,1921.0,44.51667,-83.95,10600.0,United States,Michigan
+633,Found,"(34.83333, -118.06667)",22764,Rosamond Dry Lake,Valid,L,1940.0,34.83333,-118.06667,850.0,United States,California
+634,Found,"(34.21667, -103.13333)",22762,Roosevelt County 107,Valid,L6,2000.0,34.21667,-103.13333,81.2,United States,New Mexico
+635,Found,"(34.21667, -103.93333)",22761,Roosevelt County 106,Valid,L6,2001.0,34.21667,-103.93333,98.8,United States,New Mexico
+636,Found,"(34.18833, -103.94167)",22760,Roosevelt County 105,Valid,H5,1998.0,34.18833,-103.94167,30.0,United States,New Mexico
+637,Found,"(33.72217, -103.67333)",22759,Roosevelt County 104,Valid,L5,1998.0,33.72217,-103.67333,51.7,United States,New Mexico
+638,Found,"(33.73883, -103.65)",22758,Roosevelt County 103,Valid,L6,1998.0,33.73883,-103.65,10.0,United States,New Mexico
+639,Found,"(33.995, -103.25)",22757,Roosevelt County 102,Valid,L5,1988.0,33.995,-103.25,8345.0,United States,New Mexico
+640,Found,"(34.05, -103.58333)",22756,Roosevelt County 101,Valid,H5,1979.0,34.05,-103.58333,12.6,United States,New Mexico
+641,Found,"(34.3, -103.45)",22755,Roosevelt County 100,Valid,L5,1970.0,34.3,-103.45,6.8,United States,New Mexico
+642,Found,"(33.6, -103.3)",22754,Roosevelt County 099,Valid,H(5?),1969.0,33.6,-103.3,9.8,United States,New Mexico
+643,Found,"(34.21667, -103.55)",22753,Roosevelt County 098,Valid,L6,1969.0,34.21667,-103.55,15.0,United States,New Mexico
+644,Found,"(33.95833, -103.93833)",22752,Roosevelt County 097,Valid,H4,1996.0,33.95833,-103.93833,56.0,United States,New Mexico
+645,Found,"(34.09167, -103.67667)",22751,Roosevelt County 096,Valid,L5,1996.0,34.09167,-103.67667,212.2,United States,New Mexico
+646,Found,"(34.09167, -103.50167)",22750,Roosevelt County 095,Valid,L/LL5,1995.0,34.09167,-103.50167,12.1,United States,New Mexico
+647,Found,"(34.08333, -103.5)",22749,Roosevelt County 094,Valid,L5,1994.0,34.08333,-103.5,3.55,United States,New Mexico
+648,Found,"(34.08333, -103.5)",22748,Roosevelt County 093,Valid,L5,1994.0,34.08333,-103.5,2.78,United States,New Mexico
+649,Found,"(34.08333, -103.5)",22747,Roosevelt County 092,Valid,L5,1994.0,34.08333,-103.5,34.29,United States,New Mexico
+650,Found,"(34.08333, -103.5)",22746,Roosevelt County 091,Valid,H4,1994.0,34.08333,-103.5,3.15,United States,New Mexico
+651,Found,"(34.28333, -103.51667)",22745,Roosevelt County 090,Valid,H4,1993.0,34.28333,-103.51667,6.4,United States,New Mexico
+652,Found,"(34.13333, -103.53333)",22744,Roosevelt County 089,Valid,H5,1980.0,34.13333,-103.53333,1615.0,United States,New Mexico
+653,Found,"(33.88333, -103.56667)",22743,Roosevelt County 088,Valid,H4,1978.0,33.88333,-103.56667,7.5,United States,New Mexico
+654,Found,"(34.06667, -103.51667)",22742,Roosevelt County 087,Valid,H5,1977.0,34.06667,-103.51667,8.2,United States,New Mexico
+655,Found,"(34.28333, -103.28333)",22741,Roosevelt County 086,Valid,L6,1974.0,34.28333,-103.28333,9.0,United States,New Mexico
+656,Found,"(34.31667, -103.38333)",22740,Roosevelt County 085,Valid,L4,1969.0,34.31667,-103.38333,140.0,United States,New Mexico
+657,Found,"(34.2, -103.23333)",22739,Roosevelt County 084,Valid,L4,1969.0,34.2,-103.23333,69.6,United States,New Mexico
+658,Found,"(33.66667, -103.41667)",22738,Roosevelt County 083,Valid,H5,1969.0,33.66667,-103.41667,14.8,United States,New Mexico
+659,Found,"(34.08333, -103.56667)",22737,Roosevelt County 082,Valid,H4,1969.0,34.08333,-103.56667,137.0,United States,New Mexico
+660,Found,"(33.63333, -103.16667)",22736,Roosevelt County 081,Valid,H5,1969.0,33.63333,-103.16667,522.2,United States,New Mexico
+661,Found,"(34.05, -103.5)",22735,Roosevelt County 080,Valid,H6,1968.0,34.05,-103.5,727.8,United States,New Mexico
+662,Found,"(34.1, -103.58333)",22734,Roosevelt County 079,Valid,H4,1993.0,34.1,-103.58333,30.2,United States,New Mexico
+663,Found,"(34.08333, -103.5)",22733,Roosevelt County 078,Valid,L4,1992.0,34.08333,-103.5,6.9,United States,New Mexico
+664,Found,"(34.08333, -103.5)",22732,Roosevelt County 077,Valid,L4,1992.0,34.08333,-103.5,10.9,United States,New Mexico
+665,Found,"(34.08333, -103.5)",22731,Roosevelt County 076,Valid,L4,1992.0,34.08333,-103.5,3.3,United States,New Mexico
+666,Found,"(34.18333, -103.43333)",22730,Roosevelt County 075,Valid,H3.10,1990.0,34.18333,-103.43333,258.0,United States,New Mexico
+667,Found,"(34.08333, -103.51667)",22729,Roosevelt County 074,Valid,L5,1990.0,34.08333,-103.51667,22.2,United States,New Mexico
+668,Found,"(34.08333, -103.48333)",22728,Roosevelt County 073,Valid,H5,1989.0,34.08333,-103.48333,288.0,United States,New Mexico
+669,Found,"(34.1, -103.48333)",22727,Roosevelt County 072,Valid,L5,1989.0,34.1,-103.48333,9.8,United States,New Mexico
+670,Found,"(34.1, -103.48333)",22726,Roosevelt County 071,Valid,L4,1989.0,34.1,-103.48333,5.3,United States,New Mexico
+671,Found,"(34.1, -103.48333)",22725,Roosevelt County 070,Valid,L5,1989.0,34.1,-103.48333,2.3,United States,New Mexico
+672,Found,"(34.1, -103.48333)",22724,Roosevelt County 069,Valid,L5,1989.0,34.1,-103.48333,4.8,United States,New Mexico
+673,Found,"(34.1, -103.48333)",22723,Roosevelt County 068,Valid,L5,1988.0,34.1,-103.48333,13.9,United States,New Mexico
+674,Found,"(34.1, -103.48333)",22722,Roosevelt County 067,Valid,L5,1988.0,34.1,-103.48333,2.1,United States,New Mexico
+675,Found,"(34.1, -103.48333)",22721,Roosevelt County 066,Valid,L5,1988.0,34.1,-103.48333,4.9,United States,New Mexico
+676,Found,"(33.61667, -103.45)",22720,Roosevelt County 065,Valid,H5,1971.0,33.61667,-103.45,405.8,United States,New Mexico
+677,Found,"(34.08333, -103.5)",22719,Roosevelt County 064,Valid,H5,1969.0,34.08333,-103.5,24.8,United States,New Mexico
+678,Found,"(34.08333, -103.5)",22718,Roosevelt County 063,Valid,L4,1969.0,34.08333,-103.5,34.7,United States,New Mexico
+679,Found,"(34.21667, -103.5)",22717,Roosevelt County 062,Valid,H5,1969.0,34.21667,-103.5,16.2,United States,New Mexico
+680,Found,"(34.08333, -103.51667)",22716,Roosevelt County 061,Valid,H5,1968.0,34.08333,-103.51667,49.5,United States,New Mexico
+681,Found,"(34.08333, -103.61667)",22715,Roosevelt County 060,Valid,H5,1968.0,34.08333,-103.61667,34.2,United States,New Mexico
+682,Found,"(34.08333, -103.5)",22714,Roosevelt County 059,Valid,L6,1968.0,34.08333,-103.5,26.2,United States,New Mexico
+683,Found,"(34.08333, -103.5)",22713,Roosevelt County 058,Valid,L4,1968.0,34.08333,-103.5,12.0,United States,New Mexico
+684,Found,"(34.21667, -103.28333)",22712,Roosevelt County 057,Valid,L5,1973.0,34.21667,-103.28333,7.7,United States,New Mexico
+685,Found,"(34.41667, -103.58333)",22711,Roosevelt County 056,Valid,H5,1972.0,34.41667,-103.58333,10.3,United States,New Mexico
+686,Found,"(34.3, -103.43333)",22710,Roosevelt County 055,Valid,H5,1971.0,34.3,-103.43333,7.9,United States,New Mexico
+687,Found,"(34.3, -103.43333)",22709,Roosevelt County 054,Valid,H5,1971.0,34.3,-103.43333,361.5,United States,New Mexico
+688,Found,"(33.88333, -103.7)",22708,Roosevelt County 053,Valid,H5,1971.0,33.88333,-103.7,10.8,United States,New Mexico
+689,Found,"(34.1, -103.48333)",22707,Roosevelt County 052,Valid,H5,1971.0,34.1,-103.48333,17.7,United States,New Mexico
+690,Found,"(34.21667, -103.35)",22706,Roosevelt County 051,Valid,L5,1971.0,34.21667,-103.35,29.4,United States,New Mexico
+691,Found,"(34.08333, -103.5)",22705,Roosevelt County 050,Valid,L4,1971.0,34.08333,-103.5,13.1,United States,New Mexico
+692,Found,"(34.08333, -103.5)",22704,Roosevelt County 049,Valid,LL4,1971.0,34.08333,-103.5,22.8,United States,New Mexico
+693,Found,"(33.61667, -103.45)",22703,Roosevelt County 048,Valid,L6,1970.0,33.61667,-103.45,57.3,United States,New Mexico
+694,Found,"(34.13333, -103.36667)",22702,Roosevelt County 047,Valid,L6,1970.0,34.13333,-103.36667,30.3,United States,New Mexico
+695,Found,"(34.1, -103.48333)",22701,Roosevelt County 046,Valid,H5,1970.0,34.1,-103.48333,120.4,United States,New Mexico
+696,Found,"(34.23333, -103.25)",22700,Roosevelt County 045,Valid,L6,1970.0,34.23333,-103.25,55.5,United States,New Mexico
+697,Found,"(34.25, -103.51667)",22699,Roosevelt County 044,Valid,L6,1970.0,34.25,-103.51667,439.1,United States,New Mexico
+698,Found,"(34.08333, -103.61667)",22698,Roosevelt County 043,Valid,H4/5,1969.0,34.08333,-103.61667,52.1,United States,New Mexico
+699,Found,"(34.08333, -103.51667)",22697,Roosevelt County 042,Valid,H5,1969.0,34.08333,-103.51667,32.6,United States,New Mexico
+700,Found,"(34.08333, -103.5)",22696,Roosevelt County 041,Valid,L5,1969.0,34.08333,-103.5,32.4,United States,New Mexico
+701,Found,"(34.08333, -103.5)",22695,Roosevelt County 040,Valid,H5,1969.0,34.08333,-103.5,71.1,United States,New Mexico
+702,Found,"(34.08333, -103.5)",22694,Roosevelt County 039,Valid,H5,1969.0,34.08333,-103.5,38.0,United States,New Mexico
+703,Found,"(34.3, -103.45)",22693,Roosevelt County 038,Valid,H5,1968.0,34.3,-103.45,49.4,United States,New Mexico
+704,Found,"(34.08333, -103.51667)",22692,Roosevelt County 037,Valid,H4/5,1968.0,34.08333,-103.51667,94.3,United States,New Mexico
+705,Found,"(34.08333, -103.61667)",22691,Roosevelt County 036,Valid,H5,1968.0,34.08333,-103.61667,65.2,United States,New Mexico
+706,Found,"(34.08333, -103.61667)",22690,Roosevelt County 035,Valid,L6,1968.0,34.08333,-103.61667,81.6,United States,New Mexico
+707,Found,"(34.08333, -103.61667)",22689,Roosevelt County 034,Valid,H5,1968.0,34.08333,-103.61667,118.5,United States,New Mexico
+708,Found,"(34.08333, -103.5)",22688,Roosevelt County 033,Valid,L4,1968.0,34.08333,-103.5,21.8,United States,New Mexico
+709,Found,"(34.08333, -103.5)",22687,Roosevelt County 032,Valid,H5,1968.0,34.08333,-103.5,141.1,United States,New Mexico
+710,Found,"(33.78333, -103.55)",22686,Roosevelt County 031,Valid,H3.9,1984.0,33.78333,-103.55,397.1,United States,New Mexico
+711,Found,"(34.28333, -103.43333)",22685,Roosevelt County 030,Valid,H4,1984.0,34.28333,-103.43333,3.1,United States,New Mexico
+712,Found,"(34.08333, -103.5)",22684,Roosevelt County 029,Valid,H4,1984.0,34.08333,-103.5,4.9,United States,New Mexico
+713,Found,"(34.08333, -103.5)",22683,Roosevelt County 028,Valid,L5,1984.0,34.08333,-103.5,67.3,United States,New Mexico
+714,Found,"(33.8, -103.25)",22682,Roosevelt County 027,Valid,Ureilite,1984.0,33.8,-103.25,22.3,United States,New Mexico
+715,Found,"(34.15, -104.01667)",22681,Roosevelt County 026,Valid,L6,1984.0,34.15,-104.01667,12.4,United States,New Mexico
+716,Found,"(34.08333, -103.5)",22680,Roosevelt County 025,Valid,L5,1984.0,34.08333,-103.5,4.3,United States,New Mexico
+717,Found,"(34.08333, -103.5)",22679,Roosevelt County 024,Valid,H5,1984.0,34.08333,-103.5,5.6,United States,New Mexico
+718,Found,"(34.18333, -103.23333)",22678,Roosevelt County 023,Valid,H5,1984.0,34.18333,-103.23333,59.2,United States,New Mexico
+719,Found,"(34.21667, -103.28333)",22677,Roosevelt County 022,Valid,L6,1983.0,34.21667,-103.28333,8.7,United States,New Mexico
+720,Found,"(33.81806, -103.20694)",22676,Roosevelt County 021,Valid,H5,1983.0,33.81806,-103.20694,96.0,United States,New Mexico
+721,Found,"(34.13333, -103.56667)",22675,Roosevelt County 020,Valid,L5,1983.0,34.13333,-103.56667,528.0,United States,New Mexico
+722,Found,"(34.11667, -103.56667)",22674,Roosevelt County 019,Valid,L5,1982.0,34.11667,-103.56667,450.0,United States,New Mexico
+723,Found,"(34.31667, -103.41667)",22673,Roosevelt County 018,Valid,H5,1981.0,34.31667,-103.41667,10.8,United States,New Mexico
+724,Found,"(34.21667, -103.2)",22672,Roosevelt County 017,Valid,L6,1981.0,34.21667,-103.2,177.8,United States,New Mexico
+725,Found,"(34.1, -103.48333)",22671,Roosevelt County 016,Valid,H5,1981.0,34.1,-103.48333,138.2,United States,New Mexico
+726,Found,"(34.1, -103.48333)",22670,Roosevelt County 015,Valid,H5,1981.0,34.1,-103.48333,16.3,United States,New Mexico
+727,Found,"(34.1, -103.48333)",22669,Roosevelt County 014,Valid,L5,1981.0,34.1,-103.48333,74.7,United States,New Mexico
+728,Found,"(34.1, -103.48333)",22668,Roosevelt County 013,Valid,H5,1981.0,34.1,-103.48333,35.2,United States,New Mexico
+729,Found,"(34.1, -103.48333)",22667,Roosevelt County 012,Valid,H5,1981.0,34.1,-103.48333,173.1,United States,New Mexico
+730,Found,"(33.75, -103.13333)",22666,Roosevelt County 011,Valid,H5,1980.0,33.75,-103.13333,2.9,United States,New Mexico
+731,Found,"(33.08333, -103.5)",22665,Roosevelt County 010,Valid,L4,1979.0,33.08333,-103.5,23.6,United States,New Mexico
+732,Found,"(34.08333, -103.5)",22664,Roosevelt County 009,Valid,H5,1979.0,34.08333,-103.5,2.1,United States,New Mexico
+733,Found,"(34.08333, -103.5)",22663,Roosevelt County 008,Valid,H5,1979.0,34.08333,-103.5,25.3,United States,New Mexico
+734,Found,"(34.08333, -103.5)",22662,Roosevelt County 007,Valid,H5,1979.0,34.08333,-103.5,5.2,United States,New Mexico
+735,Found,"(34.08333, -103.5)",22661,Roosevelt County 006,Valid,L6,1979.0,34.08333,-103.5,9.7,United States,New Mexico
+736,Found,"(34.21667, -103.28333)",22660,Roosevelt County 005,Valid,L6,1978.0,34.21667,-103.28333,12.0,United States,New Mexico
+737,Found,"(34.08333, -103.5)",22659,Roosevelt County 004,Valid,L6,1977.0,34.08333,-103.5,882.0,United States,New Mexico
+738,Found,"(33.88333, -103.56667)",22658,Roosevelt County 003,Valid,H5,1976.0,33.88333,-103.56667,30.3,United States,New Mexico
+739,Found,"(33.71667, -103.65)",22657,Roosevelt County 002,Valid,L6,1973.0,33.71667,-103.65,18.2,United States,New Mexico
+740,Found,"(33.78333, -103.56667)",22656,Roosevelt County 001,Valid,H3.8,1968.0,33.78333,-103.56667,462.0,United States,New Mexico
+741,Found,"(34.86667, -98.95)",22655,Roosevelt,Valid,H3.4,1972.0,34.86667,-98.95,5200.0,United States,Oklahoma
+742,Found,"(35.76667, -102.95)",22651,Romero,Valid,H4,1938.0,35.76667,-102.95,17200.0,United States,Texas
+743,Found,"(37.08333, -101.6)",22649,Rolla (d),Valid,H,1942.0,37.08333,-101.6,50.0,United States,Kansas
+744,Found,"(37.08333, -101.6)",22648,Rolla (1941),Valid,H5,1941.0,37.08333,-101.6,435.0,United States,Kansas
+745,Found,"(37.11667, -101.6)",22647,Rolla (1939),Valid,H4,1939.0,37.11667,-101.6,207.5,United States,Kansas
+746,Found,"(37.11667, -101.6)",22646,Rolla (1936),Valid,H5,1936.0,37.11667,-101.6,440.0,United States,Kansas
+747,Found,"(34.065, -103.40833)",22645,Rogers,Valid,L,1974.0,34.065,-103.40833,982.0,United States,New Mexico
+749,Found,"(41.65, -109.025)",22639,Rock Springs,Valid,L6,2003.0,41.65,-109.025,52.7,United States,Wyoming
+750,Found,"(34.42222, -101.4975)",22638,Rock Creek,Valid,L5,1980.0,34.42222,-101.4975,1641.0,United States,Texas
+751,Fell,"(41.08333, -86.28333)",22637,Rochester,Valid,H6,1876.0,41.08333,-86.28333,340.0,United States,Indiana
+752,Found,"(35.67355, -115.35067)",22624,Roach Dry Lake 075,Valid,H6,2002.0,35.67355,-115.35067,29.9,United States,Nevada
+753,Found,"(35.67725, -115.3566)",22623,Roach Dry Lake 064,Valid,H6,2002.0,35.67725,-115.3566,18.26,United States,Nevada
+754,Found,"(35.6701, -115.37248)",22622,Roach Dry Lake 031,Valid,H6,2002.0,35.6701,-115.37248,36.2,United States,Nevada
+755,Found,"(35.67405, -115.36807)",22621,Roach Dry Lake 030,Valid,EL6,2002.0,35.67405,-115.36807,10.13,United States,Nevada
+756,Found,"(35.68078, -115.34062)",22620,Roach Dry Lake 027,Valid,H5,2002.0,35.68078,-115.34062,18.65,United States,Nevada
+757,Found,"(35.68345, -115.34703)",22619,Roach Dry Lake 006,Valid,H6,2001.0,35.68345,-115.34703,6.53,United States,Nevada
+758,Found,"(35.6717, -115.36722)",22618,Roach Dry Lake 003,Valid,H5,2000.0,35.6717,-115.36722,4.2,United States,Nevada
+759,Found,"(35.65933, -115.37167)",22617,Roach Dry Lake 002,Valid,L6,2000.0,35.65933,-115.37167,5.0,United States,Nevada
+760,Found,"(35.63333, -115.36667)",22616,Roach,Valid,LL6,1998.0,35.63333,-115.36667,10.56,United States,Nevada
+761,Found,"(38.51667, -107.83333)",22605,Rifle,Valid,"Iron, IAB-MG",1948.0,38.51667,-107.83333,102700.0,United States,Colorado
+762,Found,"(35.58333, -117.56667)",22604,Ridgecrest,Valid,H5,1958.0,35.58333,-117.56667,9.69,United States,California
+763,Fell,"(37.46667, -77.5)",22603,Richmond,Valid,LL5,1828.0,37.46667,-77.5,1800.0,United States,Virginia
+764,Fell,"(31.25, -99.03333)",22602,Richland Springs,Valid,OC,1980.0,31.25,-99.03333,1900.0,United States,Texas
+765,Found,"(31.9, -96.4)",22601,Richland,Valid,"Iron, IIAB",1951.0,31.9,-96.4,50600.0,United States,Texas
+766,Found,"(37.22222, -101.68139)",22600,Richfield,Valid,LL3.7,1983.0,37.22222,-101.68139,40800.0,United States,Kansas
+767,Fell,"(46.88333, -102.31667)",22599,Richardton,Valid,H5,1918.0,46.88333,-102.31667,90000.0,United States,North Dakota
+768,Fell,"(35.03333, -83.03333)",22597,Rich Mountain,Valid,L6,1903.0,35.03333,-83.03333,668.0,United States,North Carolina
+769,Found,"(33.53333, -99.61667)",22595,Rhineland,Valid,H5,1961.0,33.53333,-99.61667,6240.0,United States,Texas
+770,Found,"(40.08333, -98.91667)",22591,Republican River,Valid,H4,1942.0,40.08333,-98.91667,135.0,United States,Nebraska
+771,Found,"(36.98667, -97.555)",22588,Renfrow,Valid,L6,1986.0,36.98667,-97.555,81600.0,United States,Oklahoma
+772,Found,"(43.86667, -85.51667)",22552,Reed City,Valid,"Iron, ungrouped",1895.0,43.86667,-85.51667,20000.0,United States,Michigan
+773,Found,"(40.25, -100.5)",22550,Red Willow,Valid,Iron,1899.0,40.25,-100.5,2750.0,United States,Nebraska
+774,Found,"(35.41667, -117.91667)",22549,Red Rock,Valid,"Iron, IIIAB",1976.0,35.41667,-117.91667,47600.0,United States,California
+775,Found,"(32.0, -95.0)",22548,Red River,Valid,"Iron, IIIAB",1808.0,32.0,-95.0,800000.0,United States,Texas
+776,Found,"(35.69733, -114.06167)",22547,Red Dry Lake 031,Valid,H4,2002.0,35.69733,-114.06167,4.8,United States,Arizona
+777,Found,"(35.66375, -114.02698)",22546,Red Dry Lake 023,Valid,L5,2002.0,35.66375,-114.02698,5.9,United States,Arizona
+778,Found,"(35.66185, -114.0271)",22545,Red Dry Lake 022,Valid,H6,2002.0,35.66185,-114.0271,17.0,United States,Arizona
+779,Found,"(35.62723, -114.04323)",22544,Red Dry Lake 009,Valid,H3.6,2001.0,35.62723,-114.04323,13.0,United States,Arizona
+780,Found,"(35.62705, -114.04336)",22543,Red Dry Lake 006,Valid,H4,2001.0,35.62705,-114.04336,40.0,United States,Arizona
+781,Found,"(35.64645, -114.02853)",22542,Red Dry Lake 005,Valid,H6,2001.0,35.64645,-114.02853,12.0,United States,Arizona
+782,Found,"(35.6464, -114.02849)",22541,Red Dry Lake 004,Valid,H6,2001.0,35.6464,-114.02849,13.5,United States,Arizona
+783,Found,"(35.64552, -114.03069)",22540,Red Dry Lake 003,Valid,H6,2001.0,35.64552,-114.03069,94.0,United States,Arizona
+784,Found,"(35.65306, -114.02437)",22539,Red Dry Lake 002,Valid,H6,2001.0,35.65306,-114.02437,21.5,United States,Arizona
+785,Found,"(39.78333, -100.0)",22401,Reager,Valid,L6,1948.0,39.78333,-100.0,230.0,United States,Kansas
+786,Found,"(38.61667, -99.93333)",22393,Ransom,Valid,H4,1938.0,38.61667,-99.93333,15000.0,United States,Kansas
+790,Found,"(34.76778, -103.55)",22372,Ragland,Valid,LL3.4,1982.0,34.76778,-103.55,12100.0,United States,New Mexico
+791,Found,"(32.44667, -111.34667)",22370,Ragged Top,Valid,H4,1997.0,32.44667,-111.34667,122.7,United States,Arizona
+792,Found,"(34.44567, -117.01083)",22366,Rabbit Dry Lake,Valid,L6,2000.0,34.44567,-117.01083,20.0,United States,California
+793,Found,"(38.08333, -115.53333)",22364,Quinn Canyon,Valid,"Iron, IIIAB",1908.0,38.08333,-115.53333,1450000.0,United States,Nevada
+794,Found,"(37.2, -116.7)",18910,Quartz Mountain,Valid,"Iron, IIIAB",1935.0,37.2,-116.7,4832.0,United States,Nevada
+795,Found,"(33.25, -83.25)",18906,Putnam County,Valid,"Iron, IVA",1839.0,33.25,-83.25,32700.0,United States,Georgia
+797,Found,"(34.4, -106.85)",18895,Puente-Ladron,Valid,L,1944.0,34.4,-106.85,7.7,United States,New Mexico
+799,Found,"(38.56667, -85.23333)",18893,Providence,Valid,"Iron, IIIAB",1903.0,38.56667,-85.23333,6804.0,United States,Kentucky
+800,Found,"(35.66667, -115.36667)",18889,Primm,Valid,H5,1997.0,35.66667,-115.36667,3383.0,United States,Nevada
+801,Fell,"(39.11667, -83.85)",18888,Pricetown,Valid,L6,1893.0,39.11667,-83.85,900.0,United States,Ohio
+802,Found,"(39.63333, -100.5)",18882,Prairie Dog Creek,Valid,H3.7,1893.0,39.63333,-100.5,2900.0,United States,Kansas
+803,Found,"(38.66667, -82.78333)",18880,Powellsville,Valid,H5,1990.0,38.66667,-82.78333,4310.0,United States,Ohio
+804,Found,"(41.23333, -103.3)",18878,Potter,Valid,L6,1941.0,41.23333,-103.3,261000.0,United States,Nebraska
+805,Found,"(33.11667, -101.38333)",18877,Post,Valid,L,1965.0,33.11667,-101.38333,2000.0,United States,Texas
+806,Found,"(39.56667, -98.68333)",18875,Portis,Valid,L,1959.0,39.56667,-98.68333,30.0,United States,Kansas
+807,Fell,"(34.175, -103.295)",18874,Portales Valley,Valid,H6,1998.0,34.175,-103.295,71400.0,United States,New Mexico
+808,Found,"(34.1, -103.41667)",18873,Portales (c),Valid,H4,1967.0,34.1,-103.41667,6000.0,United States,New Mexico
+809,Found,"(34.06667, -103.5)",18872,Portales (b),Valid,L6,1967.0,34.06667,-103.5,595.8,United States,New Mexico
+810,Found,"(34.06667, -103.5)",18871,Portales (a),Valid,H4,1967.0,34.06667,-103.5,3240.0,United States,New Mexico
+811,Found,"(31.66333, -99.95)",18866,Pony Creek,Valid,H4,1947.0,31.66333,-99.95,4642.0,United States,Texas
+812,Found,"(38.17, -110.36667)",18857,Poison Spring,Valid,Iron,1971.0,38.17,-110.36667,524.0,United States,Utah
+813,Found,"(36.5, -104.5)",18856,Point of Rocks (stone),Valid,L6,1954.0,36.5,-104.5,800.0,United States,New Mexico
+814,Found,"(36.5, -104.5)",18855,Point of Rocks (iron),Valid,"Iron, IIIAB",1956.0,36.5,-104.5,18000.0,United States,New Mexico
+815,Found,"(41.33333, -86.31667)",18850,Plymouth,Valid,"Iron, IIIAB",1893.0,41.33333,-86.31667,14000.0,United States,Indiana
+816,Found,"(38.18333, -94.71667)",18848,Pleasanton,Valid,H5,1935.0,38.18333,-94.71667,2300.0,United States,Kansas
+817,Fell,"(30.7, -96.11667)",18846,Plantersville,Valid,H6,1930.0,30.7,-96.11667,2085.0,United States,Texas
+818,Found,"(34.1875, -101.70417)",18844,Plainview (d),Valid,L6,1979.0,34.1875,-101.70417,700.0,United States,Texas
+819,Found,"(34.125, -101.75667)",18843,Plainview (c),Valid,OC,1963.0,34.125,-101.75667,631.0,United States,Texas
+820,Found,"(34.11667, -101.78333)",18842,Plainview (1950),Valid,H,1950.0,34.11667,-101.78333,2200.0,United States,Texas
+821,Found,"(34.11667, -101.78333)",18841,Plainview (1917),Valid,H5,1917.0,34.11667,-101.78333,700000.0,United States,Texas
+822,Found,"(33.26667, -102.9)",18840,Plains (d),Valid,H4,1991.0,33.26667,-102.9,280.0,United States,Texas
+823,Found,"(33.28333, -102.76667)",18839,Plains,Valid,H5,1964.0,33.28333,-102.76667,34300.0,United States,Texas
+824,Found,"(40.43333, -80.0)",18838,Pittsburg,Valid,"Iron, IAB-MG",1850.0,40.43333,-80.0,600.0,United States,Pennsylvania
+825,Fell,"(31.95, -83.51667)",18837,Pitts,Valid,"Iron, IAB-ung",1921.0,31.95,-83.51667,3760.0,United States,Georgia
+826,Found,"(29.68333, -98.91667)",18830,Pipe Creek,Valid,H6,1887.0,29.68333,-98.91667,13600.0,United States,Texas
+827,Found,"(34.0, -115.78333)",18829,Pinto Mountains,Valid,L6,1954.0,34.0,-115.78333,17900.0,United States,California
+828,Found,"(32.66667, -105.1)",18828,Pi_on,Valid,"Iron, ungrouped",1928.0,32.66667,-105.1,17850.0,United States,New Mexico
+829,Found,"(44.21667, -89.1)",18826,Pine River,Valid,"Iron, IAB-sLL",1931.0,44.21667,-89.1,3600.0,United States,Wisconsin
+830,Found,"(41.18333, -104.06667)",18824,Pine Bluffs,Valid,H,1935.0,41.18333,-104.06667,2700.0,United States,Wyoming
+831,Found,"(32.2, -111.0)",18823,Pima County,Valid,"Iron, IIAB",1947.0,32.2,-111.0,210.0,United States,Arizona
+832,Found,"(37.86667, -100.66667)",18820,Pierceville (stone),Valid,L6,1939.0,37.86667,-100.66667,2125.0,United States,Kansas
+833,Found,"(37.86667, -100.66667)",18819,Pierceville (iron),Valid,"Iron, IIIAB",1917.0,37.86667,-100.66667,100000.0,United States,Kansas
+834,Found,"(34.5, -84.5)",18815,Pickens County,Valid,H6,1908.0,34.5,-84.5,400.0,United States,Georgia
+835,Found,"(33.2, -105.0)",18814,Picacho,Valid,"Iron, IIIAB",1952.0,33.2,-105.0,22000.0,United States,New Mexico
+836,Fell,"(40.0, -99.25)",18808,Phillips County (stone),Valid,L6,1901.0,40.0,-99.25,57900.0,United States,Kansas
+837,Found,"(40.45, -102.38333)",18807,Phillips County (pallasite),Valid,"Pallasite, PMG-an",1935.0,40.45,-102.38333,1360.0,United States,Colorado
+838,Fell,"(35.3, -86.63333)",18801,Petersburg,Valid,Eucrite-pmict,1855.0,35.3,-86.63333,1800.0,United States,Tennessee
+839,Found,"(35.05, -84.23333)",18796,Persimmon Creek,Valid,"Iron, IAB-sLM",1893.0,35.05,-84.23333,5000.0,United States,North Carolina
+840,Found,"(37.73333, -89.85)",18795,Perryville,Valid,"Iron, IIC",1906.0,37.73333,-89.85,17500.0,United States,Missouri
+841,Found,"(36.35333, -100.73167)",18794,Perryton,Valid,LL6,1975.0,36.35333,-100.73167,2114.0,United States,Texas
+842,Found,"(33.73, -102.57667)",18791,Pep,Valid,OC,1966.0,33.73,-102.57667,591.0,United States,Texas
+844,Found,"(39.35, -99.91667)",18788,Penokee,Valid,H5,1947.0,39.35,-99.91667,3580.0,United States,Kansas
+845,Fell,"(30.125, -103.11667)",18786,Pe_a Blanca Spring,Valid,Aubrite,1946.0,30.125,-103.11667,70000.0,United States,Texas
+846,Found,"(33.66667, -108.1)",18785,Pelona Mountain,Valid,H5,1999.0,33.66667,-108.1,618.0,United States,New Mexico
+847,Found,"(40.95, -103.08333)",18783,Peetz,Valid,L6,1937.0,40.95,-103.08333,11500.0,United States,Colorado
+848,Fell,"(41.28333, -73.91667)",18782,Peekskill,Valid,H6,1992.0,41.28333,-73.91667,12570.0,United States,New York
+849,Found,"(32.0, -102.0)",18182,Peck's Spring,Valid,L5,1926.0,32.0,-102.0,1600.0,United States,Texas
+850,Found,"(34.23333, -111.4)",18178,Payson,Valid,L6,2001.0,34.23333,-111.4,1728.0,United States,Arizona
+851,Found,"(34.0, -84.8)",18172,Paulding County,Valid,Iron,1901.0,34.0,-84.8,725.0,United States,Georgia
+852,Found,"(32.5, -102.03333)",18115,Patricia,Valid,H5,1983.0,32.5,-102.03333,14900.0,United States,Texas
+853,Fell,"(36.21667, -103.4)",18110,Pasamonte,Valid,Eucrite-pmict,1933.0,36.21667,-103.4,5100.0,United States,New Mexico
+854,Found,"(43.8, -117.0)",18107,Parma Canyon,Valid,Iron,1940.0,43.8,-117.0,2150.0,United States,Idaho
+855,Fell,"(41.48472, -87.67917)",18106,Park Forest,Valid,L5,2003.0,41.48472,-87.67917,18000.0,United States,Illinois
+856,Found,"(39.11, -100.36167)",18104,Park,Valid,L6,1969.0,39.11,-100.36167,13000.0,United States,Kansas
+857,Fell,"(36.06667, -90.5)",18101,Paragould,Valid,LL5,1930.0,36.06667,-90.5,408000.0,United States,Arkansas
+858,Found,"(35.33333, -101.38333)",18096,Panhandle,Valid,H5,1969.0,35.33333,-101.38333,1360.0,United States,Texas
+859,Found,"(34.9, -101.21667)",18081,Paloduro,Valid,"Iron, IIIE",1935.0,34.9,-101.21667,3000.0,United States,Texas
+860,Found,"(36.5, -104.5)",18080,Palo Blanco Creek,Valid,Eucrite-mmict,1954.0,36.5,-104.5,1482.0,United States,New Mexico
+861,Fell,"(39.8, -91.5)",18079,Palmyra,Valid,L3,1926.0,39.8,-91.5,135.0,United States,Missouri
+862,Found,"(36.4665, -88.60283)",18078,Palmersville,Valid,H5,1908.0,36.4665,-88.60283,9979.0,United States,Tennessee
+863,Fell,"(32.31667, -89.71667)",18073,Palahatchie,Valid,OC,1910.0,32.31667,-89.71667,,United States,Mississippi
+864,Found,"(39.16667, -101.28333)",18070,Page City,Valid,"Iron, IVA",1980.0,39.16667,-101.28333,13630.0,United States,Kansas
+865,Found,"(30.73333, -101.3)",18066,Ozona,Valid,H6,1929.0,30.73333,-101.3,127500.0,United States,Texas
+866,Found,"(40.16667, -99.66667)",18063,Oxford,Valid,H5,1985.0,40.16667,-99.66667,6000.0,United States,Nebraska
+867,Found,"(37.46667, -118.0)",18061,Owens Valley,Valid,"Iron, IIIAB",1913.0,37.46667,-118.0,192800.0,United States,California
+868,Found,"(41.2, -103.68333)",18060,Owasco,Valid,L6,1984.0,41.2,-103.68333,168400.0,United States,Nebraska
+869,Found,"(40.96667, -102.4)",18057,Ovid,Valid,H6,1939.0,40.96667,-102.4,6169.0,United States,Colorado
+870,Found,"(38.96667, -94.66667)",18056,Overland Park,Valid,H4,1998.0,38.96667,-94.66667,1374.0,United States,Kansas
+871,Found,"(35.16667, -105.98333)",18047,Otto,Valid,H5,1970.0,35.16667,-105.98333,28.0,United States,New Mexico
+872,Fell,"(38.6, -95.21667)",18046,Ottawa,Valid,LL6,1896.0,38.6,-95.21667,840.0,United States,Kansas
+873,Found,"(38.53333, -99.05)",18044,Otis,Valid,L6,1940.0,38.53333,-99.05,2600.0,United States,Kansas
+876,Found,"(44.07694, -88.56278)",18036,Oshkosh,Valid,H,1961.0,44.07694,-88.56278,144.8,United States,Wisconsin
+877,Found,"(33.63333, -106.38333)",18035,Oscuro Mountains,Valid,"Iron, IAB-MG",1895.0,33.63333,-106.38333,3600.0,United States,New Mexico
+878,Found,"(39.68333, -121.63333)",18032,Oroville,Valid,"Iron, IIIAB",1893.0,39.68333,-121.63333,24500.0,United States,California
+879,Found,"(32.37167, -106.25833)",18031,Oro Grande,Valid,H5,1971.0,32.37167,-106.25833,513.0,United States,New Mexico
+880,Found,"(34.16722, -102.13361)",18016,Olton,Valid,H3.5,1948.0,34.16722,-102.13361,953.0,United States,Texas
+881,Found,"(41.2, -103.68333)",18014,Oliver,Valid,L6,1984.0,41.2,-103.68333,6690.0,United States,Nebraska
+882,Found,"(34.46667, -115.23333)",18007,Old Woman,Valid,"Iron, IIAB",1976.0,34.46667,-115.23333,2753000.0,United States,California
+883,Found,"(34.85958, -116.22113)",18004,Old Dominion Mine,Valid,H4,2000.0,34.85958,-116.22113,42.0,United States,California
+884,Found,"(33.5, -89.0)",18003,Oktibbeha County,Valid,"Iron, IAB-ung",1854.0,33.5,-89.0,156.0,United States,Mississippi
+885,Found,"(26.68333, -80.8)",18001,Okechobee,Valid,L4,1916.0,26.68333,-80.8,1000.0,United States,Florida
+886,Found,"(41.16667, -101.66667)",17992,Ogallala,Valid,"Iron, IAB-sLL",1918.0,41.16667,-101.66667,3300.0,United States,Nebraska
+887,Found,"(32.91217, -101.91867)",17987,O'Donnell,Valid,H5,1992.0,32.91217,-101.91867,12700.0,United States,Texas
+888,Found,"(31.71667, -102.4)",17985,Odessa (iron),Valid,"Iron, IAB-MG",1922.0,31.71667,-102.4,1600000.0,United States,Texas
+889,Found,"(32.83333, -116.06667)",17980,Ocotillo,Valid,"Iron, IAB-MG",1990.0,32.83333,-116.06667,28570.0,United States,California
+890,Found,"(39.8, -100.51667)",17975,Oberlin,Valid,LL5,1911.0,39.8,-100.51667,2500.0,United States,Kansas
+891,Found,"(34.22833, -103.35833)",17974,Oasis State Park,Valid,OC,1968.0,34.22833,-103.35833,606.0,United States,New Mexico
+892,Found,"(38.95, -101.01667)",17973,Oakley (stone),Valid,H6,1895.0,38.95,-101.01667,27700.0,United States,Kansas
+893,Found,"(42.33333, -113.7)",17972,Oakley (iron),Valid,"Iron, IIIF",1926.0,42.33333,-113.7,111000.0,United States,Idaho
+895,Found,"(27.5, -99.5)",17937,Nuevo Laredo,Valid,Eucrite-mmict,1950.0,27.5,-99.5,500.0,United States,Texas
+896,Fell,"(39.68333, -99.86667)",17922,Norton County,Valid,Aubrite,1948.0,39.68333,-99.86667,1100000.0,United States,Kansas
+897,Found,"(39.99167, -98.34167)",17010,Northbranch,Valid,H5,1972.0,39.99167,-98.34167,76000.0,United States,Kansas
+898,Found,"(42.31667, -72.63333)",17009,Northampton,Valid,Iron,1963.0,42.31667,-72.63333,353.0,United States,Massachusetts
+899,Found,"(32.51667, -82.55)",16997,Norristown,Valid,"Iron, IIIAB",1965.0,32.51667,-82.55,4200.0,United States,Georgia
+900,Fell,"(36.21667, -92.26667)",16994,Norfork,Valid,"Iron, IIIAB",1918.0,36.21667,-92.26667,1050.0,United States,Arkansas
+901,Found,"(36.9, -76.3)",16993,Norfolk,Valid,"Iron, IIIAB",1907.0,36.9,-76.3,23000.0,United States,Virginia
+902,Found,"(28.86667, -97.61667)",16992,Nordheim,Valid,"Iron, ungrouped",1932.0,28.86667,-97.61667,15150.0,United States,Texas
+903,Found,"(39.81667, -100.2)",16991,Norcateur,Valid,L6,1940.0,39.81667,-100.2,3200.0,United States,Kansas
+904,Fell,"(40.08528, -86.055)",16985,Noblesville,Valid,H4-6,1991.0,40.08528,-86.055,483.7,United States,Indiana
+905,Fell,"(44.08333, -69.48333)",16984,Nobleborough,Valid,Eucrite-pmict,1823.0,44.08333,-69.48333,2300.0,United States,Maine
+906,Found,"(48.0, -97.93333)",16969,Niagara,Valid,"Iron, IAB-sLL",1879.0,48.0,-97.93333,115.0,United States,North Dakota
+907,Found,"(37.6, -105.83333)",16963,Newsom,Valid,L6,1939.0,37.6,-105.83333,892.0,United States,Colorado
+908,Found,"(35.6, -91.26667)",16962,Newport,Valid,"Pallasite, PMG",1923.0,35.6,-91.26667,5600.0,United States,Arkansas
+909,Found,"(39.8, -84.81667)",16961,New Westville,Valid,"Iron, IVA",1941.0,39.8,-84.81667,4800.0,United States,Indiana
+910,Fell,"(29.94718, -90.10976)",16960,New Orleans,Valid,H5,2003.0,29.94718,-90.10976,19256.0,United States,Louisiana
+911,Found,"(33.11833, -102.11333)",16959,New Moore (b),Valid,OC,1975.0,33.11833,-102.11333,200.0,United States,Texas
+912,Found,"(33.11667, -102.11667)",16958,New Moore (a),Valid,OC,1972.0,33.11667,-102.11667,100.3,United States,Texas
+913,Found,"(34.5, -107.0)",16957,New Mexico,Valid,Iron,1935.0,34.5,-107.0,130.0,United States,New Mexico
+914,Found,"(33.17, -101.63833)",16956,New Lynn,Valid,L6,1986.0,33.17,-101.63833,800.0,United States,Texas
+915,Found,"(46.36667, -101.95)",16955,New Leipzig,Valid,"Iron, IAB-MG",1936.0,46.36667,-101.95,20000.0,United States,North Dakota
+916,Fell,"(40.0, -81.76667)",16953,New Concord,Valid,L6,1860.0,40.0,-81.76667,230000.0,United States,Ohio
+917,Found,"(40.0, -78.85)",16952,New Baltimore,Valid,"Iron, ungrouped",1922.0,40.0,-78.85,20000.0,United States,Pennsylvania
+918,Found,"(39.66667, -100.0)",16951,New Almelo,Valid,L5,1917.0,39.66667,-100.0,8000.0,United States,Kansas
+919,Found,"(38.48333, -99.91667)",16947,Ness County (1938),Valid,H4,1938.0,38.48333,-99.91667,652.0,United States,Kansas
+920,Found,"(38.5, -99.6)",16946,Ness County (1894),Valid,L6,1894.0,38.5,-99.6,82000.0,United States,Kansas
+921,Found,"(37.75, -85.5)",16942,Nelson County,Valid,"Iron, IIIF",1856.0,37.75,-85.5,73030.0,United States,Kentucky
+922,Found,"(34.8, -118.5)",16938,Neenach,Valid,L6,1948.0,34.8,-118.5,13800.0,United States,California
+923,Found,"(34.04472, -102.79917)",16937,Needmore,Valid,OC,1976.0,34.04472,-102.79917,1793.0,United States,Texas
+924,Found,"(34.44417, -114.8325)",16936,Needles,Valid,"Iron, IID",1962.0,34.44417,-114.8325,45300.0,United States,California
+925,Found,"(34.52667, -102.105)",16933,Nazareth (iron),Valid,"Iron, IIIAB",1968.0,34.52667,-102.105,11310.0,United States,Texas
+926,Found,"(34.58333, -102.05)",16932,Nazareth (e),Valid,H6,1977.0,34.58333,-102.05,13100.0,United States,Texas
+927,Found,"(34.58333, -102.08333)",16931,Nazareth (d),Valid,H6,1968.0,34.58333,-102.08333,1500.0,United States,Texas
+928,Found,"(34.58333, -102.08333)",16930,Nazareth (c),Valid,H5,1970.0,34.58333,-102.08333,222.0,United States,Texas
+929,Found,"(34.5, -102.25)",16929,Nazareth (b),Valid,L6,1967.0,34.5,-102.25,3600.0,United States,Texas
+930,Found,"(34.5, -102.25)",16928,Nazareth (a),Valid,L6,1938.0,34.5,-102.25,44.0,United States,Texas
+931,Found,"(35.33333, -109.5)",16926,Navajo,Valid,"Iron, IIAB",1921.0,35.33333,-109.5,2184000.0,United States,Arizona
+932,Found,"(37.45, -98.41667)",16921,Nashville (stone),Valid,L6,1939.0,37.45,-98.41667,25000.0,United States,Kansas
+933,Found,"(35.96667, -77.96667)",16920,Nashville (iron),Valid,Iron,1934.0,35.96667,-77.96667,18000.0,United States,North Carolina
+934,Found,"(30.95, -98.28333)",16917,Naruna (b),Valid,H4,1942.0,30.95,-98.28333,513.3,United States,Texas
+935,Found,"(30.95, -98.26667)",16916,Naruna (a),Valid,H4,1935.0,30.95,-98.26667,672.3,United States,Texas
+936,Fell,"(38.41667, -77.16667)",16904,Nanjemoy,Valid,H6,1825.0,38.41667,-77.16667,7500.0,United States,Maryland
+937,Found,"(28.95, -97.40278)",16886,Myersville,Valid,OC,1969.0,28.95,-97.40278,5397.0,United States,Texas
+938,Fell,"(36.6, -88.1)",16882,Murray,Valid,CM2,1950.0,36.6,-88.1,12600.0,United States,Kentucky
+939,Found,"(35.1, -84.03333)",16881,Murphy,Valid,"Iron, IIAB",1899.0,35.1,-84.03333,7700.0,United States,North Carolina
+940,Found,"(34.91667, -117.83333)",16880,Muroc Dry Lake,Valid,L6,1936.0,34.91667,-117.83333,223.0,United States,California
+941,Found,"(34.91667, -117.83333)",16879,Muroc,Valid,L,1936.0,34.91667,-117.83333,18.4,United States,California
+942,Found,"(35.83333, -86.41667)",16877,Murfreesboro,Valid,"Iron, ungrouped",1847.0,35.83333,-86.41667,8600.0,United States,Tennessee
+943,Found,"(34.12167, -102.695)",16846,Muleshoe,Valid,H4/6,1972.0,34.12167,-102.695,3600.0,United States,Texas
+944,Found,"(35.63333, -100.13333)",16845,Mulberry Draw,Valid,L5,1963.0,35.63333,-100.13333,9716.0,United States,Texas
+945,Found,"(37.8594, -117.02097)",16840,Mud Dry Lake,Valid,H3,2002.0,37.8594,-117.02097,18255.0,United States,Nevada
+946,Found,"(36.93333, -87.4)",16806,Mount Vernon,Valid,"Pallasite, PMG",1868.0,36.93333,-87.4,159000.0,United States,Kentucky
+947,Found,"(38.41667, -106.21667)",16784,Mount Ouray,Valid,"Iron, IID",1898.0,38.41667,-106.21667,900.0,United States,Colorado
+948,Found,"(44.0, -89.25)",16783,Mount Morris (Wisconsin),Valid,"Iron, IAB-an",1937.0,44.0,-89.25,676.0,United States,Wisconsin
+949,Found,"(42.7, -77.88333)",16782,Mount Morris (New York),Valid,H,1897.0,42.7,-77.88333,12.5,United States,New York
+950,Found,"(39.78333, -77.21667)",16779,Mount Joy,Valid,"Iron, IIAB",1887.0,39.78333,-77.21667,384000.0,United States,Pennsylvania
+951,Found,"(35.75, -103.93333)",16757,Mosquero,Valid,H4,1963.0,35.75,-103.93333,1800.0,United States,New Mexico
+952,Found,"(37.63333, -105.83333)",16755,Mosca,Valid,L6,1942.0,37.63333,-105.83333,6220.0,United States,Colorado
+953,Found,"(33.71667, -102.76667)",16753,Morton,Valid,H6,1980.0,33.71667,-102.76667,6400.0,United States,Texas
+954,Found,"(36.2, -83.38333)",16750,Morristown,Valid,Mesosiderite-A3,1887.0,36.2,-83.38333,16300.0,United States,Tennessee
+955,Found,"(42.18333, -103.93333)",16749,Morrill,Valid,"Iron, IAB-an",1920.0,42.18333,-103.93333,1387.0,United States,Nebraska
+956,Found,"(39.33333, -100.06667)",16746,Morland,Valid,H6,1890.0,39.33333,-100.06667,295000.0,United States,Kansas
+958,Found,"(34.98333, -106.05)",16744,Moriarty,Valid,L,1975.0,34.98333,-106.05,330.0,United States,New Mexico
+959,Fell,"(35.41667, -79.38333)",16736,Moore County,Valid,Eucrite-cm,1913.0,35.41667,-79.38333,1880.0,United States,North Carolina
+960,Found,"(32.50333, -102.74333)",16732,Monument Draw,Valid,Acapulcoite,1985.0,32.50333,-102.74333,524.5,United States,Texas
+961,Found,"(36.95, -84.9)",16728,Monticello,Valid,Howardite,1982.0,36.95,-84.9,210.0,United States,Kentucky
+962,Fell,"(35.25, -80.5)",16720,Monroe,Valid,H4,1849.0,35.25,-80.5,8600.0,United States,North Carolina
+963,Fell,"(31.60833, -102.85833)",16719,Monahans (1998),Valid,H5,1998.0,31.60833,-102.85833,2587.0,United States,Texas
+964,Found,"(31.48333, -102.88333)",16718,Monahans (1938),Valid,"Iron, IIF",1938.0,31.48333,-102.88333,27900.0,United States,Texas
+965,Found,"(38.5, -101.1)",16712,Modoc (1948),Valid,H6,1948.0,38.5,-101.1,1800.0,United States,Kansas
+966,Fell,"(38.5, -101.1)",16711,Modoc (1905),Valid,L6,1905.0,38.5,-101.1,35000.0,United States,Kansas
+968,Found,"(43.31667, -100.76667)",16704,Mission,Valid,L,1949.0,43.31667,-100.76667,12000.0,United States,South Dakota
+969,Found,"(36.55, -93.1)",16694,Mincy,Valid,Mesosiderite-B4,1857.0,36.55,-93.1,89400.0,United States,Missouri
+970,Found,"(40.2875, -95.37667)",16691,Milton,Valid,"Pallasite, ungrouped",2000.0,40.2875,-95.37667,2040.0,United States,Missouri
+971,Found,"(33.63333, -103.33333)",16690,Milnesand (stone),Valid,L6,1981.0,33.63333,-103.33333,34.0,United States,New Mexico
+972,Found,"(36.23, -104.11889)",16687,Mills,Valid,H6,1970.0,36.23,-104.11889,88000.0,United States,New Mexico
+973,Found,"(38.625, -96.02278)",16646,Miller (Kansas),Valid,H4,1950.0,38.625,-96.02278,970.0,United States,Kansas
+974,Fell,"(35.4, -92.05)",16645,Miller (Arkansas),Valid,H5,1930.0,35.4,-92.05,16700.0,United States,Arkansas
+975,Found,"(32.83528, -81.87389)",16644,Millen,Valid,H4,1975.0,32.83528,-81.87389,40800.0,United States,Georgia
+977,Found,"(35.66667, -100.6)",16630,Miami,Valid,H5,1930.0,35.66667,-100.6,57700.0,United States,Texas
+978,Found,"(37.16667, -108.5)",15494,Mesa Verde Park,Valid,"Iron, IAB-ung",1922.0,37.16667,-108.5,3500.0,United States,Colorado
+979,Found,"(31.26667, -100.83333)",15490,Mertzon,Valid,"Iron, IAB-ung",1943.0,31.26667,-100.83333,3720.0,United States,Texas
+980,Found,"(31.42611, -100.13333)",15488,Mereta,Valid,H4,1941.0,31.42611,-100.13333,1417.5,United States,Texas
+981,Found,"(38.525, -95.78056)",15477,Melvern Lake,Valid,H5,1950.0,38.525,-95.78056,7746.0,United States,Kansas
+982,Found,"(34.39833, -103.605)",15476,Melrose (b),Valid,Howardite,1971.0,34.39833,-103.605,50.5,United States,New Mexico
+983,Found,"(34.38333, -103.61667)",15475,Melrose (a),Valid,L5,1933.0,34.38333,-103.61667,36400.0,United States,New Mexico
+984,Found,"(33.33139, -102.26889)",15466,Meadow (b),Valid,L6,1981.0,33.33139,-102.26889,691.0,United States,Texas
+985,Found,"(33.33139, -102.26889)",15465,Meadow (a),Valid,H5,1975.0,33.33139,-102.26889,1495.0,United States,Texas
+986,Found,"(35.23333, -100.6)",15464,McLean,Valid,H6,1939.0,35.23333,-100.6,4300.0,United States,Texas
+987,Found,"(33.18333, -96.71667)",15463,McKinney,Valid,L4,1870.0,33.18333,-96.71667,150000.0,United States,Texas
+988,Found,"(32.925, -102.625)",15462,McKenzie Draw (b),Valid,H4,1989.0,32.925,-102.625,2990.0,United States,Texas
+989,Found,"(32.925, -102.625)",15461,McKenzie Draw (a),Valid,H4,1989.0,32.925,-102.625,11800.0,United States,Texas
+990,Found,"(38.525, -99.81)",15460,McCracken,Valid,H4/5,1980.0,38.525,-99.81,1530.0,United States,Kansas
+991,Found,"(40.02, -100.78333)",15459,McCook,Valid,L6,1965.0,40.02,-100.78333,3602.0,United States,Nebraska
+992,Found,"(33.75, -100.93333)",15457,McAddo,Valid,L6,1935.0,33.75,-100.93333,1100.0,United States,Texas
+994,Found,"(36.38333, -79.86667)",15452,Mayodan,Valid,"Iron, IIAB",1920.0,36.38333,-79.86667,15400.0,United States,North Carolina
+995,Found,"(37.30833, -97.545)",15450,Mayfield,Valid,H4,1972.0,37.30833,-97.545,38400.0,United States,Kansas
+996,Found,"(39.47444, -96.925)",15448,Mayday,Valid,H4,1955.0,39.47444,-96.925,6900.0,United States,Kansas
+997,Fell,"(35.8, -84.1)",15436,Maryville,Valid,L6,1983.0,35.8,-84.1,1443.0,United States,Tennessee
+998,Found,"(31.5, -96.88333)",15435,Mart,Valid,"Iron, IVA",1898.0,31.5,-96.88333,7140.0,United States,Texas
+999,Found,"(42.45, -103.3)",15434,Marsland,Valid,H5,1933.0,42.45,-103.3,6850.0,United States,Nebraska
+1000,Found,"(37.0, -88.25)",15433,Marshall County,Valid,"Iron, IIIAB",1860.0,37.0,-88.25,6800.0,United States,Kentucky
+1001,Found,"(34.6, -97.91667)",15428,Marlow,Valid,L5,1936.0,34.6,-97.91667,68000.0,United States,Oklahoma
+1002,Found,"(38.36667, -97.03333)",15425,Marion (Kansas),Valid,L5,1955.0,38.36667,-97.03333,2890.0,United States,Kansas
+1003,Fell,"(41.9, -91.6)",15424,Marion (Iowa),Valid,L6,1847.0,41.9,-91.6,28400.0,United States,Iowa
+1004,Found,"(33.25, -112.05)",15420,Maricopa,Valid,H,1980.0,33.25,-112.05,50.0,United States,Arizona
+1005,Fell,"(42.71667, -99.38333)",15419,Mariaville,Valid,Iron,1898.0,42.71667,-99.38333,340.0,United States,Nebraska
+1006,Found,"(42.29111, -88.62556)",15415,Marengo,Valid,L6,1991.0,42.29111,-88.62556,68.0,United States,Illinois
+1007,Found,"(42.18333, -95.71667)",15410,Mapleton,Valid,"Iron, IIIAB",1939.0,42.18333,-95.71667,49000.0,United States,Iowa
+1009,Fell,"(32.21667, -104.0)",15393,Malaga,Valid,OC,1933.0,32.21667,-104.0,150.0,United States,New Mexico
+1011,Found,"(34.21667, -103.91667)",15378,Macy,Valid,L6,1984.0,34.21667,-103.91667,42000.0,United States,New Mexico
+1012,Found,"(42.76667, -104.35)",14761,Lusk,Valid,Iron,1940.0,42.76667,-104.35,46.0,United States,Wyoming
+1013,Found,"(40.74972, -97.74972)",14760,Lushton,Valid,L6,1914.0,40.74972,-97.74972,6700.0,United States,Nebraska
+1014,Found,"(39.11667, -98.68333)",14758,Luray,Valid,OC,1976.0,39.11667,-98.68333,861.0,United States,Kansas
+1015,Fell,"(32.03333, -84.76667)",14753,Lumpkin,Valid,L6,1869.0,32.03333,-84.76667,340.0,United States,Georgia
+1016,Found,"(34.0, -106.96667)",14751,Luis Lopez,Valid,"Iron, IIIAB",1896.0,34.0,-106.96667,7000.0,United States,New Mexico
+1017,Found,"(32.83611, -99.60417)",14750,Lueders,Valid,"Iron, IAB-MG",1973.0,32.83611,-99.60417,35400.0,United States,Texas
+1018,Found,"(34.49553, -116.9471)",14748,Lucerne Valley 024,Valid,L6,2003.0,34.49553,-116.9471,2.71,United States,California
+1019,Found,"(34.49095, -116.95038)",14747,Lucerne Valley 023,Valid,L6,2002.0,34.49095,-116.95038,7.56,United States,California
+1020,Found,"(34.49058, -116.95032)",14746,Lucerne Valley 022,Valid,LL4,2002.0,34.49058,-116.95032,16.49,United States,California
+1021,Found,"(34.49312, -116.94662)",14745,Lucerne Valley 021,Valid,H6,2002.0,34.49312,-116.94662,3.92,United States,California
+1022,Found,"(34.4918, -116.943)",14744,Lucerne Valley 020,Valid,H6,2002.0,34.4918,-116.943,18.4,United States,California
+1023,Found,"(34.48868, -116.94985)",14743,Lucerne Valley 019,Valid,L6,2002.0,34.48868,-116.94985,3.91,United States,California
+1024,Found,"(34.48793, -116.9488)",14742,Lucerne Valley 018,Valid,H6,2002.0,34.48793,-116.9488,0.97,United States,California
+1025,Found,"(34.5, -116.95)",14741,Lucerne Valley 017,Valid,L6,1999.0,34.5,-116.95,12.8,United States,California
+1026,Found,"(34.5125, -116.95083)",14740,Lucerne Valley 016,Valid,L5,1998.0,34.5125,-116.95083,4.1,United States,California
+1027,Found,"(34.5095, -116.95583)",14739,Lucerne Valley 015,Valid,LL6,1998.0,34.5095,-116.95583,12.5,United States,California
+1028,Found,"(34.50133, -116.96467)",14738,Lucerne Valley 014,Valid,L5,1998.0,34.50133,-116.96467,3.4,United States,California
+1029,Found,"(34.5, -116.95)",14737,Lucerne Valley 013,Valid,L5,1992.0,34.5,-116.95,14.0,United States,California
+1030,Found,"(34.5, -116.95)",14736,Lucerne Valley 012,Valid,H6,1968.0,34.5,-116.95,1.2,United States,California
+1031,Found,"(34.5, -116.95)",14735,Lucerne Valley 011,Valid,L6,1968.0,34.5,-116.95,3.8,United States,California
+1032,Found,"(34.5, -116.95)",14734,Lucerne Valley 010,Valid,H4,1965.0,34.5,-116.95,6.4,United States,California
+1033,Found,"(34.5, -116.95)",14733,Lucerne Valley 009,Valid,H4,1965.0,34.5,-116.95,3.0,United States,California
+1034,Found,"(34.5, -116.95)",14732,Lucerne Valley 008,Valid,H4,1964.0,34.5,-116.95,2.0,United States,California
+1035,Found,"(34.5, -116.95)",14731,Lucerne Valley 007,Valid,OC,1963.0,34.5,-116.95,4.8,United States,California
+1036,Found,"(34.5, -116.95)",14730,Lucerne Valley 006,Valid,H4,1963.0,34.5,-116.95,26.9,United States,California
+1037,Found,"(34.5, -116.95)",14729,Lucerne Valley 005,Valid,L6,1963.0,34.5,-116.95,3.1,United States,California
+1038,Found,"(34.5, -116.95)",14728,Lucerne Valley 004,Valid,L6,1963.0,34.5,-116.95,37.4,United States,California
+1039,Found,"(34.5, -116.95)",14727,Lucerne Valley 003,Valid,H6,1963.0,34.5,-116.95,7.5,United States,California
+1040,Found,"(34.5, -116.95)",14726,Lucerne Valley 002,Valid,LL4,1963.0,34.5,-116.95,5.8,United States,California
+1041,Found,"(34.5, -116.95)",14725,Lucerne Valley 001,Valid,L6,1963.0,34.5,-116.95,15.8,United States,California
+1042,Found,"(33.6, -101.73333)",14722,Lubbock,Valid,L5,1938.0,33.6,-101.73333,1457.8,United States,Texas
+1043,Fell,"(38.25, -85.75)",14716,Louisville,Valid,L6,1977.0,38.25,-85.75,1300.0,United States,Kentucky
+1044,Found,"(34.25, -84.5)",14715,Losttown,Valid,"Iron, IID",1868.0,34.25,-84.5,3000.0,United States,Georgia
+1045,Found,"(37.65, -105.73333)",14714,Lost Lake,Valid,L6,1931.0,37.65,-105.73333,11.0,United States,Colorado
+1046,Found,"(33.28944, -102.54306)",14713,Lost Draw,Valid,OC,1980.0,33.28944,-102.54306,309.0,United States,Texas
+1047,Found,"(39.12417, -98.16778)",14712,Lost Creek,Valid,H3.8,1916.0,39.12417,-98.16778,4018.0,United States,Kansas
+1048,Fell,"(36.00833, -95.15)",14711,Lost City,Valid,H5,1970.0,36.00833,-95.15,17000.0,United States,Oklahoma
+1049,Found,"(34.8125, -106.79167)",14707,Los Lunas,Valid,H4,1978.0,34.8125,-106.79167,94.5,United States,New Mexico
+1051,Found,"(32.98333, -102.38833)",14704,Loop (c),Valid,OC,1964.0,32.98333,-102.38833,861.0,United States,Texas
+1052,Found,"(32.99167, -102.38833)",14703,Loop (b),Valid,H,1964.0,32.99167,-102.38833,1600.0,United States,Texas
+1053,Found,"(32.9, -102.28333)",14702,Loop,Valid,L6,1962.0,32.9,-102.28333,5600.0,United States,Texas
+1054,Found,"(40.46667, -99.5)",14698,Loomis,Valid,L6,1933.0,40.46667,-99.5,3020.0,United States,Nebraska
+1055,Found,"(39.93333, -99.6)",14694,Long Island,Valid,L6,1891.0,39.93333,-99.6,564000.0,United States,Kansas
+1056,Found,"(41.5, -91.47917)",14683,Lone Tree,Valid,H4,1971.0,41.5,-91.47917,20676.0,United States,Iowa
+1057,Found,"(34.25972, -101.40833)",14682,Lone Star,Valid,H4,1965.0,34.25972,-101.40833,4300.0,United States,Texas
+1058,Found,"(39.41667, -79.15)",14680,Lonaconing,Valid,"Iron, IAB-sHL",1888.0,39.41667,-79.15,1400.0,United States,Maryland
+1059,Found,"(46.1, -111.4)",14679,Lombard,Valid,"Iron, IIAB",1953.0,46.1,-111.4,7000.0,United States,Montana
+1060,Found,"(36.58333, -100.2)",14677,Logan,Valid,H5,1918.0,36.58333,-100.2,1315.0,United States,Oklahoma
+1061,Found,"(33.33333, -84.1)",14673,Locust Grove,Valid,"Iron, IIAB",1857.0,33.33333,-84.1,10000.0,United States,Georgia
+1062,Found,"(34.15, -101.3)",14672,Lockney,Valid,L6,1944.0,34.15,-101.3,824.0,United States,Texas
+1063,Found,"(36.41667, -85.25)",14669,Livingston (Tennessee),Valid,"Iron, IAB-ung",1937.0,36.41667,-85.25,235.0,United States,Tennessee
+1064,Found,"(45.6, -110.58333)",14668,Livingston (Montana),Valid,"Iron, IIIAB",1936.0,45.6,-110.58333,1600.0,United States,Montana
+1065,Found,"(34.51667, -117.98333)",14667,Littlerock,Valid,H6,1979.0,34.51667,-117.98333,19050.0,United States,California
+1066,Found,"(38.44, -98.06667)",14666,Little River (b),Valid,H4/5,1965.0,38.44,-98.06667,11700.0,United States,Kansas
+1067,Found,"(38.38333, -98.01667)",14665,Little River (a),Valid,H6,1967.0,38.38333,-98.01667,4400.0,United States,Kansas
+1068,Fell,"(37.91667, -92.08333)",14664,Little Piney,Valid,L5,1839.0,37.91667,-92.08333,491.0,United States,Missouri
+1069,Found,"(34.38667, -112.02833)",14662,Little Ash Creek,Valid,L5,2001.0,34.38667,-112.02833,21.4,United States,Arizona
+1070,Found,"(41.43333, -96.96667)",14657,Linwood,Valid,"Iron, IAB-MG",1940.0,41.43333,-96.96667,46000.0,United States,Nebraska
+1071,Found,"(35.86667, -81.91667)",14656,Linville,Valid,"Iron, IAB-sHH",1882.0,35.86667,-81.91667,442.0,United States,North Carolina
+1072,Found,"(39.36667, -103.16667)",14654,Lincoln County,Valid,L6,1937.0,39.36667,-103.16667,4500.0,United States,Colorado
+1073,Found,"(31.55, -87.51667)",14651,Lime Creek,Valid,"Iron, IAB-ung",1834.0,31.55,-87.51667,20000.0,United States,Alabama
+1074,Found,"(34.655, -101.64)",14649,Lider (b),Valid,H5,1972.0,34.655,-101.64,1800.0,United States,Texas
+1075,Found,"(34.655, -101.64)",14648,Lider (a),Valid,L5,1972.0,34.655,-101.64,2160.0,United States,Texas
+1076,Found,"(35.66667, -80.25)",14647,Lick Creek,Valid,"Iron, IIAB",1879.0,35.66667,-80.25,1240.0,United States,North Carolina
+1077,Found,"(34.0, -81.25)",14644,Lexington County,Valid,"Iron, IAB-MG",1880.0,34.0,-81.25,4760.0,United States,South Carolina
+1078,Found,"(34.00833, -103.60278)",14643,Lewiston,Valid,H4,1983.0,34.00833,-103.60278,4416.0,United States,New Mexico
+1079,Found,"(34.61139, -100.855)",12771,Leslie,Valid,H5,1968.0,34.61139,-100.855,895.0,United States,Texas
+1080,Found,"(39.60833, -100.475)",12767,Leoville (b),Valid,OC,1969.0,39.60833,-100.475,2500.0,United States,Kansas
+1081,Found,"(39.63333, -100.46722)",12766,Leoville,Valid,CV3,1961.0,39.63333,-100.46722,8100.0,United States,Kansas
+1082,Found,"(37.66667, -96.76667)",12764,Leon,Valid,H5,1943.0,37.66667,-96.76667,30000.0,United States,Kansas
+1083,Found,"(45.93333, -102.18333)",12762,Lemmon,Valid,H5,1984.0,45.93333,-102.18333,6680.0,United States,South Dakota
+1084,Fell,"(34.58333, -87.5)",12760,Leighton,Valid,H5,1907.0,34.58333,-87.5,877.0,United States,Alabama
+1085,Fell,"(35.88333, -99.33333)",12755,Leedey,Valid,L6,1943.0,35.88333,-99.33333,51500.0,United States,Oklahoma
+1086,Found,"(30.6, -97.9)",12753,Leander,Valid,L4,1940.0,30.6,-97.9,760.0,United States,Texas
+1087,Found,"(32.04333, -103.15333)",12752,Lea County 003,Valid,H4,1999.0,32.04333,-103.15333,4.91,United States,New Mexico
+1088,Found,"(32.03333, -103.16667)",12751,Lea County 002,Valid,K3,1988.0,32.03333,-103.16667,11.0,United States,New Mexico
+1089,Found,"(32.03333, -103.15)",12750,Lea County 001,Valid,H5,1988.0,32.03333,-103.15,498.0,United States,New Mexico
+1090,Found,"(34.5, -102.75)",12746,Lazbuddie,Valid,LL5,1970.0,34.5,-102.75,8600.0,United States,Texas
+1091,Found,"(38.96667, -95.16667)",12744,Lawrence,Valid,L6,1928.0,38.96667,-95.16667,515.0,United States,Kansas
+1092,Found,"(34.5, -82.03333)",12741,Laurens County,Valid,"Iron, ungrouped",1857.0,34.5,-82.03333,2150.0,United States,South Carolina
+1093,Found,"(42.83333, -74.5)",12735,Lasher Creek,Valid,Iron,1948.0,42.83333,-74.5,639.5,United States,New York
+1094,Found,"(36.53333, -91.8)",12463,Lanton,Valid,"Iron, IIIAB",1932.0,36.53333,-91.8,13780.0,United States,Missouri
+1095,Found,"(37.25, -98.13333)",12459,Landreth Draw,Valid,H5,1955.0,37.25,-98.13333,,United States,Kansas
+1096,Found,"(38.9, -79.18333)",12457,Landes,Valid,"Iron, IAB-MG",1930.0,38.9,-79.18333,69800.0,United States,West Virginia
+1097,Found,"(40.66667, -96.75)",12454,Lancaster County,Valid,Iron,1903.0,40.66667,-96.75,13000.0,United States,Nebraska
+1098,Found,"(38.07778, -96.02639)",12453,Lamont,Valid,Mesosiderite,1940.0,38.07778,-96.02639,38690.0,United States,Kansas
+1099,Found,"(32.88333, -101.88333)",12452,Lamesa,Valid,"Iron, IAB-sLM",1981.0,32.88333,-101.88333,16900.0,United States,Texas
+1100,Found,"(32.62972, -104.35)",12450,Lakewood,Valid,L6,1955.0,32.62972,-104.35,46500.0,United States,New Mexico
+1101,Found,"(34.53333, -101.7)",12449,Lakeview,Valid,H4,1970.0,34.53333,-101.7,1238.0,United States,Texas
+1102,Found,"(35.56667, -100.66667)",12448,Laketon,Valid,L6,1937.0,35.56667,-100.66667,3600.0,United States,Texas
+1103,Found,"(34.1, -97.0)",12446,Lake Murray,Valid,"Iron, IIAB",1933.0,34.1,-97.0,270000.0,United States,Oklahoma
+1104,Found,"(36.38333, -98.08333)",12432,Lahoma,Valid,L5,1963.0,36.38333,-98.08333,21800.0,United States,Oklahoma
+1105,Found,"(40.41667, -86.88333)",12412,Lafayette (stone),Valid,Martian (nakhlite),1931.0,40.41667,-86.88333,800.0,United States,Indiana
+1106,Found,"(38.61667, -101.63333)",12410,Ladder Creek,Valid,L6,1937.0,38.61667,-101.63333,35100.0,United States,Kansas
+1108,Found,"(26.27167, -97.90167)",12405,La Villa,Valid,H4,1956.0,26.27167,-97.90167,19800.0,United States,Texas
+1109,Found,"(41.6, -86.71667)",12401,La Porte,Valid,"Iron, IIIAB",1900.0,41.6,-86.71667,14540.0,United States,Indiana
+1110,Found,"(34.45, -104.13333)",12400,La Lande,Valid,L5,1933.0,34.45,-104.13333,30000.0,United States,New Mexico
+1111,Found,"(38.4, -85.36667)",12399,La Grange,Valid,"Iron, IVA",1860.0,38.4,-85.36667,50800.0,United States,Kentucky
+1115,Found,"(29.975, -97.86667)",12389,Kyle,Valid,L6,1965.0,29.975,-97.86667,7780.0,United States,Texas
+1116,Found,"(40.37972, -119.08639)",12376,Kumiva Valley,Valid,H5,2001.0,40.37972,-119.08639,30.15,United States,Nevada
+1117,Found,"(34.46667, -103.92167)",12362,Krider,Valid,H6,1978.0,34.46667,-103.92167,2386.0,United States,New Mexico
+1118,Found,"(34.38333, -101.71667)",12361,Kress (d),Valid,H5,1994.0,34.38333,-101.71667,57.0,United States,Texas
+1119,Found,"(34.33833, -101.71667)",12360,Kress (c),Valid,L6,1978.0,34.33833,-101.71667,5600.0,United States,Texas
+1120,Found,"(34.35833, -101.73)",12359,Kress (b),Valid,L4,1966.0,34.35833,-101.73,2600.0,United States,Texas
+1121,Found,"(34.35833, -101.73)",12358,Kress (a),Valid,L6,1951.0,34.35833,-101.73,12500.0,United States,Texas
+1122,Found,"(38.3925, -104.17667)",12354,Kramer Creek,Valid,L4,1966.0,38.3925,-104.17667,2300.0,United States,Colorado
+1123,Found,"(40.66667, -84.35)",12350,Kossuth,Valid,"Iron, IVA",1975.0,40.66667,-84.35,5900.0,United States,Ohio
+1124,Found,"(40.48333, -86.36667)",12340,Kokomo,Valid,"Iron, IVB",1862.0,40.48333,-86.36667,1800.0,United States,Indiana
+1125,Found,"(33.5, -114.0)",12339,Kofa,Valid,"Iron, IAB-sHH",1893.0,33.5,-114.0,490.0,United States,Arizona
+1126,Found,"(36.9, -100.21667)",12334,Knowles,Valid,"Iron, IIIAB",1903.0,36.9,-100.21667,161000.0,United States,Oklahoma
+1127,Found,"(42.16667, -121.85)",12330,Klamath Falls,Valid,"Iron, IIIF",1952.0,42.16667,-121.85,17000.0,United States,Oregon
+1129,Fell,"(30.75, -95.95)",12321,Kirbyville,Valid,Eucrite-mmict,1906.0,30.75,-95.95,97.7,United States,Texas
+1130,Found,"(32.9, -107.73333)",12318,Kingston,Valid,"Iron, ungrouped",1891.0,32.9,-107.73333,12900.0,United States,New Mexico
+1131,Found,"(35.83333, -97.93333)",12317,Kingfisher,Valid,L5,1950.0,35.83333,-97.93333,8180.0,United States,Oklahoma
+1132,Found,"(35.92333, -114.10167)",12315,King Tut,Valid,L5,1997.0,35.92333,-114.10167,19.51,United States,Arizona
+1133,Found,"(30.41667, -99.4)",12311,Kimble County,Valid,H6,1918.0,30.41667,-99.4,153800.0,United States,Texas
+1134,Fell,"(43.58333, -89.6)",12308,Kilbourn,Valid,H5,1911.0,43.58333,-89.6,772.0,United States,Wisconsin
+1135,Found,"(36.71667, -102.5)",12287,Keyes,Valid,L6,1939.0,36.71667,-102.5,142000.0,United States,Oklahoma
+1136,Found,"(38.81667, -84.6)",12280,Kenton County,Valid,"Iron, IIIAB",1889.0,38.81667,-84.6,194000.0,United States,Kentucky
+1137,Found,"(41.48333, -96.16667)",12279,Kennard,Valid,H5,1961.0,41.48333,-96.16667,8200.0,United States,Nebraska
+1138,Found,"(33.70833, -103.76667)",12278,Kenna (b),Valid,L5,1972.0,33.70833,-103.76667,453.0,United States,New Mexico
+1139,Found,"(33.9, -103.55333)",12277,Kenna,Valid,Ureilite,1972.0,33.9,-103.55333,10900.0,United States,New Mexico
+1140,Fell,"(29.45, -96.0)",12275,Kendleton,Valid,L4,1939.0,29.45,-96.0,6937.0,United States,Texas
+1141,Found,"(29.4, -98.5)",12274,Kendall County,Valid,"Iron, IAB-ung",1887.0,29.4,-98.5,21000.0,United States,Texas
+1142,Found,"(40.46667, -103.03333)",12273,Kelly,Valid,LL4,1937.0,40.46667,-103.03333,44300.0,United States,Colorado
+1143,Found,"(37.21667, -82.0)",12271,Keen Mountain,Valid,"Iron, IIAB",1950.0,37.21667,-82.0,6690.0,United States,Virginia
+1144,Found,"(40.68333, -99.06667)",12269,Kearney,Valid,H5,1934.0,40.68333,-99.06667,10000.0,United States,Nebraska
+1145,Found,"(32.58333, -96.41667)",12267,Kaufman,Valid,L5,1893.0,32.58333,-96.41667,23000.0,United States,Texas
+1146,Found,"(38.71667, -103.51667)",12265,Karval,Valid,H5,1936.0,38.71667,-103.51667,1104.0,United States,Colorado
+1147,Found,"(39.1, -94.63333)",12248,Kansas City (1903),Valid,H5,1903.0,39.1,-94.63333,36000.0,United States,Kansas
+1148,Found,"(38.08333, -100.25)",12237,Kalvesta,Valid,H4,1968.0,38.08333,-100.25,10000.0,United States,Kansas
+1149,Found,"(44.64694, -85.13667)",12234,Kalkaska,Valid,"Iron, IIIAB",1947.0,44.64694,-85.13667,9399.0,United States,Michigan
+1150,Found,"(34.67167, -101.815)",12226,Kaffir (d),Valid,L5,1981.0,34.67167,-101.815,26760.0,United States,Texas
+1151,Found,"(34.67167, -101.815)",12225,Kaffir (c),Valid,L6,1980.0,34.67167,-101.815,7947.0,United States,Texas
+1152,Found,"(34.67167, -101.815)",12224,Kaffir (b),Valid,H4,1966.0,34.67167,-101.815,3500.0,United States,Texas
+1153,Found,"(34.62333, -101.91667)",12223,Kaffir (a),Valid,L5,1965.0,34.62333,-101.91667,1874.9,United States,Texas
+1154,Found,"(30.5, -99.83333)",12212,Junction,Valid,L5,1932.0,30.5,-99.83333,241.0,United States,Texas
+1155,Found,"(39.975, -102.26667)",12208,Julesburg,Valid,L3.6,1983.0,39.975,-102.26667,57900.0,United States,Colorado
+1157,Found,"(36.3, -82.46667)",12201,Jonesboro,Valid,"Iron, IVA",1891.0,36.3,-82.46667,30.0,United States,Tennessee
+1158,Found,"(30.625, -97.53333)",12200,Jonah,Valid,H5,1963.0,30.625,-97.53333,1304.0,United States,Texas
+1159,Fell,"(40.35, -104.9)",12198,Johnstown,Valid,Diogenite,1924.0,40.35,-104.9,40300.0,United States,Colorado
+1160,Found,"(37.55, -101.68333)",12197,Johnson City,Valid,L6,1937.0,37.55,-101.68333,10400.0,United States,Kansas
+1161,Found,"(35.76667, -91.5)",12174,Joe Wright Mountain,Valid,"Iron, IIIAB",1884.0,35.76667,-91.5,42600.0,United States,Arkansas
+1162,Found,"(38.76667, -100.73333)",12083,Jerome (Kansas),Valid,L4,1894.0,38.76667,-100.73333,29600.0,United States,Kansas
+1163,Found,"(42.63333, -114.83333)",12082,Jerome (Idaho),Valid,L,1954.0,42.63333,-114.83333,6800.0,United States,Idaho
+1164,Found,"(37.9, -82.38333)",12081,Jenny's Creek,Valid,"Iron, IAB-MG",1883.0,37.9,-82.38333,12000.0,United States,West Virginia
+1165,Found,"(36.82444, -93.76111)",12080,Jenkins,Valid,"Iron, IAB-MG",1946.0,36.82444,-93.76111,55400.0,United States,Missouri
+1167,Found,"(46.61667, -98.5)",12071,Jamestown,Valid,"Iron, IVA",1885.0,46.61667,-98.5,4000.0,United States,North Dakota
+1168,Found,"(36.41667, -85.5)",12066,Jackson County,Valid,"Iron, IIIAB",1846.0,36.41667,-85.5,450.0,United States,Tennessee
+1169,Found,"(35.33333, -115.31667)",12062,Ivanpah,Valid,"Iron, IIIAB",1880.0,35.33333,-115.31667,58000.0,United States,California
+1171,Found,"(46.07944, -88.55972)",12048,Iron River,Valid,"Iron, IVA",1889.0,46.07944,-88.55972,1420.0,United States,Michigan
+1172,Found,"(31.96667, -97.86667)",12046,Iredell,Valid,"Iron, IIAB",1898.0,31.96667,-97.86667,1500.0,United States,Texas
+1173,Found,"(40.25, -110.08333)",12040,Ioka,Valid,L3.5,1931.0,40.25,-110.08333,31500.0,United States,Utah
+1174,Found,"(38.25, -97.66667)",12036,Inman,Valid,L/LL3.4,1966.0,38.25,-97.66667,7250.0,United States,Kansas
+1175,Found,"(37.83333, -100.45)",12033,Ingalls,Valid,H6,1937.0,37.83333,-100.45,226.0,United States,Kansas
+1176,Found,"(40.23333, -100.41667)",12030,Indianola,Valid,L5,1939.0,40.23333,-100.41667,4000.0,United States,Nebraska
+1177,Found,"(36.93333, -80.5)",12029,Indian Valley,Valid,"Iron, IIAB",1887.0,36.93333,-80.5,14100.0,United States,Virginia
+1178,Fell,"(39.08333, -94.4)",12028,Independence,Valid,L6,1917.0,39.08333,-94.4,880.0,United States,Missouri
+1179,Found,"(32.86667, -115.58333)",12026,Imperial,Valid,H4,1908.0,32.86667,-115.58333,4.0,United States,California
+1180,Found,"(46.68333, -112.55)",12024,Illinois Gulch,Valid,"Iron, ungrouped",1899.0,46.68333,-112.55,2500.0,United States,Montana
+1181,Found,"(34.68333, -85.65)",11999,Ider,Valid,"Iron, IIIAB",1957.0,34.68333,-85.65,140000.0,United States,Alabama
+1182,Found,"(39.695, -102.295)",11998,Idalia,Valid,H,1968.0,39.695,-102.295,7400.0,United States,Colorado
+1183,Found,"(41.18333, -103.0)",11988,Huntsman,Valid,H4,1910.0,41.18333,-103.0,14500.0,United States,Nebraska
+1184,Found,"(36.56, -97.66667)",11987,Hunter,Valid,LL5,1962.0,36.56,-97.66667,74600.0,United States,Oklahoma
+1186,Found,"(37.2, -101.35)",11984,Hugoton,Valid,H5,1927.0,37.2,-101.35,350000.0,United States,Kansas
+1187,Found,"(39.13333, -103.48333)",11983,Hugo (stone),Valid,H5,1936.0,39.13333,-103.48333,80.0,United States,Colorado
+1188,Found,"(31.91667, -106.15)",11924,Hueco Tanks (b),Valid,H5,1985.0,31.91667,-106.15,150.0,United States,Texas
+1189,Found,"(31.91667, -106.15)",11923,Hueco Tanks,Valid,L6,1985.0,31.91667,-106.15,314.0,United States,Texas
+1190,Found,"(34.54, -102.59433)",11921,Hub,Valid,L5,1991.0,34.54,-102.59433,6452.0,United States,Texas
+1191,Found,"(35.8895, -114.192)",11919,Hualapai Wash 021,Valid,H4,1997.0,35.8895,-114.192,20.5,United States,Arizona
+1192,Found,"(35.83833, -114.16617)",11918,Hualapai Wash 020,Valid,H5,2003.0,35.83833,-114.16617,60.9,United States,Arizona
+1193,Found,"(35.86333, -114.19333)",11917,Hualapai Wash,Valid,L6,2000.0,35.86333,-114.19333,240.0,United States,Arizona
+1194,Fell,"(39.35, -100.45)",11915,Hoxie,Valid,OC,1963.0,39.35,-100.45,266.1,United States,Kansas
+1195,Found,"(33.5, -96.6)",11914,Howe,Valid,H5,1938.0,33.5,-96.6,8630.0,United States,Texas
+1196,Found,"(39.66667, -118.96667)",11912,Hot Springs,Valid,"Iron, IIIAB",1995.0,39.66667,-118.96667,4700.0,United States,Nevada
+1197,Found,"(37.58333, -102.76667)",11910,Horse Creek,Valid,"Iron, ungrouped",1937.0,37.58333,-102.76667,570.0,United States,Colorado
+1198,Found,"(38.35, -101.78333)",11908,Horace,Valid,H5,1940.0,38.35,-101.78333,19700.0,United States,Kansas
+1199,Found,"(36.55, -79.78333)",11907,Hopper,Valid,"Iron, IIIAB",1889.0,36.55,-79.78333,1800.0,United States,Virginia
+1200,Found,"(33.68333, -93.6)",11905,Hope,Valid,"Iron, IAB-MG",1955.0,33.68333,-93.6,6800.0,United States,Arkansas
+1202,Fell,"(41.8, -91.86667)",11901,Homestead,Valid,L5,1875.0,41.8,-91.86667,230000.0,United States,Iowa
+1203,Found,"(40.56667, -102.3)",11900,Holyoke,Valid,H4,1933.0,40.56667,-102.3,11200.0,United States,Colorado
+1204,Found,"(38.06667, -102.1)",11898,Holly,Valid,H4,1937.0,38.06667,-102.1,299.0,United States,Colorado
+1205,Found,"(33.75, -98.83333)",11897,Holliday,Valid,Iron,1950.0,33.75,-98.83333,12.0,United States,Texas
+1206,Found,"(34.36667, -85.43333)",11896,Holland's Store,Valid,"Iron, IIAB",1887.0,34.36667,-85.43333,12200.0,United States,Georgia
+1207,Fell,"(34.9, -110.18333)",11894,Holbrook,Valid,L/LL6,1912.0,34.9,-110.18333,220000.0,United States,Arizona
+1208,Found,"(32.73333, -103.1)",11892,Hobbs (b),Valid,H5,1933.0,32.73333,-103.1,1600.0,United States,New Mexico
+1209,Found,"(32.73333, -103.1)",11891,Hobbs,Valid,H4,1933.0,32.73333,-103.1,2300.0,United States,New Mexico
+1210,Found,"(39.36667, -99.85)",11886,Hill City,Valid,"Iron, IVA",1947.0,39.36667,-99.85,11700.0,United States,Kansas
+1211,Found,"(40.33333, -99.03333)",11885,Hildreth,Valid,L5,1894.0,40.33333,-99.03333,3060.0,United States,Nebraska
+1212,Found,"(32.35833, -112.40889)",11881,Hickiwan,Valid,H5,1974.0,32.35833,-112.40889,1928.0,United States,Arizona
+1213,Found,"(38.11667, -97.43333)",11879,Hesston,Valid,L6,1951.0,38.11667,-97.43333,12900.0,United States,Kansas
+1214,Found,"(33.795, -102.24167)",11876,Hereford,Valid,OC,1970.0,33.795,-102.24167,2276.0,United States,Texas
+1215,Found,"(35.31667, -81.46667)",11873,Hendersonville,Valid,L5,1901.0,35.31667,-81.46667,6000.0,United States,North Carolina
+1216,Found,"(40.16667, -97.6)",11867,Hebron,Valid,H6,1965.0,40.16667,-97.6,21820.0,United States,Nebraska
+1217,Found,"(40.51667, -101.03333)",11865,Hayes Center,Valid,L6,1941.0,40.51667,-101.03333,4500.0,United States,Nebraska
+1218,Found,"(45.0, -114.0)",11864,Hayden Creek,Valid,"Iron, IIIAB",1895.0,45.0,-114.0,270.0,United States,Idaho
+1219,Found,"(40.45667, -102.57834)",11863,Haxtun,Valid,H/L4,1975.0,40.45667,-102.57834,15500.0,United States,Colorado
+1220,Found,"(41.78333, -104.28333)",11862,Hawk Springs,Valid,H5,1935.0,41.78333,-104.28333,367.0,United States,Wyoming
+1221,Found,"(37.59667, -99.125)",11861,Haviland (b),Valid,H5,1976.0,37.59667,-99.125,2092.0,United States,Kansas
+1222,Found,"(37.61667, -99.1)",11860,Haviland (a),Valid,H5,1937.0,37.61667,-99.1,1035.0,United States,Kansas
+1223,Found,"(37.96417, -97.75583)",11858,Haven,Valid,H6,1950.0,37.96417,-97.75583,6100.0,United States,Kansas
+1224,Found,"(40.33333, -90.05)",11857,Havana,Valid,"Iron, IAB complex",,40.33333,-90.05,,United States,Illinois
+1225,Found,"(34.48333, -94.45)",11854,Hatfield,Valid,"Iron, IAB complex",1941.0,34.48333,-94.45,21.0,United States,Arkansas
+1226,Found,"(42.91667, -104.41667)",11853,Hat Creek,Valid,H4,1939.0,42.91667,-104.41667,8900.0,United States,Wyoming
+1227,Found,"(33.75, -112.66667)",11851,Hassayampa,Valid,H4,1963.0,33.75,-112.66667,16000.0,United States,Arizona
+1228,Found,"(34.0, -105.5)",11850,Hasparos,Valid,"Iron, IAB-MG",1935.0,34.0,-105.5,12880.0,United States,New Mexico
+1229,Found,"(33.21333, -99.73167)",11849,Haskell,Valid,L5,1909.0,33.21333,-99.73167,36000.0,United States,Texas
+1230,Found,"(35.94167, -102.16)",11847,Hartley,Valid,L,1967.0,35.94167,-102.16,2100.0,United States,Texas
+1231,Found,"(33.99833, -102.17667)",11846,Hart Camp,Valid,H6,1970.0,33.99833,-102.17667,1200.0,United States,Texas
+1232,Found,"(38.65, -94.33333)",11844,Harrisonville,Valid,L6,1933.0,38.65,-94.33333,46500.0,United States,Missouri
+1233,Found,"(38.33333, -101.71167)",11843,Harrison Township,Valid,L6,1945.0,38.33333,-101.71167,3263.0,United States,Kansas
+1234,Fell,"(38.25, -86.16667)",11842,Harrison County,Valid,L6,1859.0,38.25,-86.16667,680.0,United States,Indiana
+1235,Found,"(35.95, -84.56667)",11841,Harriman (Om),Valid,"Iron, IIIAB",1938.0,35.95,-84.56667,13000.0,United States,Tennessee
+1236,Found,"(35.95, -84.56667)",11840,Harriman (Of),Valid,"Iron, IVA",1947.0,35.95,-84.56667,30000.0,United States,Tennessee
+1237,Found,"(35.05193, -117.26138)",11839,Harper Dry Lake 008,Valid,H6,2000.0,35.05193,-117.26138,12.5,United States,California
+1238,Found,"(35.04953, -117.26357)",11838,Harper Dry Lake 007,Valid,H5,2000.0,35.04953,-117.26357,166.7,United States,California
+1239,Found,"(35.04722, -117.30752)",11837,Harper Dry Lake 006,Valid,H6,1999.0,35.04722,-117.30752,26.0,United States,California
+1240,Found,"(35.05063, -117.30188)",11836,Harper Dry Lake 005,Valid,H6,1999.0,35.05063,-117.30188,24.0,United States,California
+1241,Found,"(35.05523, -117.30257)",11835,Harper Dry Lake 004,Valid,LL3,1999.0,35.05523,-117.30257,37.0,United States,California
+1242,Found,"(35.0425, -117.30837)",11834,Harper Dry Lake 003,Valid,L6,1999.0,35.0425,-117.30837,95.0,United States,California
+1243,Found,"(35.05067, -117.30095)",11833,Harper Dry Lake 002,Valid,H6,1999.0,35.05067,-117.30095,12.0,United States,California
+1244,Found,"(35.05102, -117.30672)",11832,Harper Dry Lake 001,Valid,LL3,1999.0,35.05102,-117.30672,13.0,United States,California
+1245,Found,"(46.43333, -109.83333)",11831,Harlowton,Valid,"Iron, IAB-ung",1975.0,46.43333,-109.83333,4000.0,United States,Montana
+1246,Fell,"(32.675, -94.51167)",11830,Harleton,Valid,L6,1961.0,32.675,-94.51167,8360.0,United States,Texas
+1247,Found,"(43.8, -96.16667)",11828,Hardwick,Valid,L4,1937.0,43.8,-96.16667,7800.0,United States,Minnesota
+1248,Found,"(37.06667, -98.66167)",11827,Hardtner,Valid,L6,1972.0,37.06667,-98.66167,13000.0,United States,Kansas
+1249,Found,"(45.5, -103.5)",11826,Harding County,Valid,L4,1941.0,45.5,-103.5,3075.0,United States,South Dakota
+1250,Found,"(36.57, -101.19)",11825,Hardesty,Valid,"Iron, IIIAB",1986.0,36.57,-101.19,8580.0,United States,Oklahoma
+1251,Found,"(34.80167, -101.56667)",11821,Happy Canyon,Valid,EL6/7,1971.0,34.80167,-101.56667,16300.0,United States,Texas
+1252,Found,"(34.58333, -102.05)",11820,Happy (c),Valid,OC,1971.0,34.58333,-102.05,884.3,United States,Texas
+1253,Found,"(34.59333, -101.99333)",11819,Happy (b),Valid,OC,1972.0,34.59333,-101.99333,2505.0,United States,Texas
+1254,Found,"(35.68, -101.99333)",11818,Happy (a),Valid,H3,1971.0,35.68,-101.99333,2860.0,United States,Texas
+1255,Found,"(38.91972, -85.94722)",11816,Hangman Crossing,Valid,H4,1976.0,38.91972,-85.94722,1300.0,United States,Indiana
+1256,Found,"(44.91667, -92.43333)",11813,Hammond,Valid,"Iron, ungrouped",1884.0,44.91667,-92.43333,24000.0,United States,Wisconsin
+1257,Fell,"(41.38333, -86.6)",11485,Hamlet,Valid,LL4,1959.0,41.38333,-86.6,3710.0,United States,Indiana
+1258,Found,"(31.59333, -98.25)",11484,Hamilton (Texas),Valid,OC,1965.0,31.59333,-98.25,2700.0,United States,Texas
+1259,Found,"(34.05, -101.75)",11478,Hale Center (no. 2),Valid,H4,1936.0,34.05,-101.75,695.0,United States,Texas
+1260,Found,"(34.05, -101.75)",11477,Hale Center (no. 1),Valid,L5,1936.0,34.05,-101.75,610.0,United States,Texas
+1262,Found,"(37.28333, -113.78333)",11453,Gunlock,Valid,L3.2,1982.0,37.28333,-113.78333,6800.0,United States,Utah
+1263,Found,"(34.0, -111.0)",11451,Gun Creek,Valid,"Iron, ungrouped",1909.0,34.0,-111.0,22700.0,United States,Arizona
+1264,Found,"(33.96667, -87.91667)",11445,Guin,Valid,"Iron, ungrouped",1969.0,33.96667,-87.91667,34500.0,United States,Alabama
+1265,Found,"(35.56667, -79.83333)",11444,Guilford County,Valid,"Iron, IIIAB",1822.0,35.56667,-79.83333,1100.0,United States,North Carolina
+1266,Found,"(38.76667, -105.51667)",11441,Guffey,Valid,"Iron, ungrouped",1907.0,38.76667,-105.51667,309000.0,United States,Colorado
+1268,Found,"(29.5, -98.0)",11430,Guadaloupe County,Valid,Iron,1950.0,29.5,-98.0,20.5,United States,Texas
+1269,Found,"(36.33333, -101.4)",11428,Gruver,Valid,H4,1934.0,36.33333,-101.4,13100.0,United States,Texas
+1271,Found,"(33.71667, -102.81667)",11204,Griffith,Valid,"Iron, ungrouped",1985.0,33.71667,-102.81667,6000.0,United States,Texas
+1272,Found,"(34.26667, -103.38333)",11203,Grier (b),Valid,L5-7,1969.0,34.26667,-103.38333,929.4,United States,New Mexico
+1273,Found,"(34.38167, -103.39167)",11202,Grier (a),Valid,OC,1969.0,34.38167,-103.39167,12.4,United States,New Mexico
+1274,Found,"(39.93333, -99.21667)",11201,Gretna,Valid,L5,1912.0,39.93333,-99.21667,82000.0,United States,Kansas
+1275,Found,"(30.51528, -91.01222)",11195,Greenwell Springs,Valid,LL4,1987.0,30.51528,-91.01222,664.0,United States,Louisiana
+1276,Found,"(37.83333, -80.31667)",11194,Greenbrier County,Valid,"Iron, IIIAB",1880.0,37.83333,-80.31667,5000.0,United States,West Virginia
+1277,Found,"(31.76167, -110.75)",11193,Greaterville,Valid,L4,1995.0,31.76167,-110.75,48.0,United States,Arizona
+1278,Found,"(38.395, -98.91583)",11180,Great Bend,Valid,H6,1983.0,38.395,-98.91583,28770.0,United States,Kansas
+1279,Found,"(30.31167, -86.16667)",11177,Grayton,Valid,H5,1983.0,30.31167,-86.16667,11300.0,United States,Florida
+1280,Found,"(33.11667, -101.58333)",10959,Grassland,Valid,L4,1964.0,33.11667,-101.58333,4400.0,United States,Texas
+1281,Found,"(37.46667, -101.43333)",10958,Grant County,Valid,L6,1936.0,37.46667,-101.43333,2300.0,United States,Kansas
+1282,Found,"(35.16667, -107.88333)",10957,Grant,Valid,"Iron, IIIAB",1929.0,35.16667,-107.88333,525000.0,United States,New Mexico
+1283,Found,"(42.96667, -85.76667)",10955,Grand Rapids,Valid,"Iron, ungrouped",1883.0,42.96667,-85.76667,51700.0,United States,Michigan
+1284,Found,"(37.96667, -102.33333)",10954,Granada Creek,Valid,H,1975.0,37.96667,-102.33333,479.0,United States,Colorado
+1285,Found,"(34.8, -103.31667)",10953,Grady (c),Valid,H4,1970.0,34.8,-103.31667,5700.0,United States,New Mexico
+1286,Found,"(34.8, -103.31667)",10952,Grady (1937),Valid,H3.7,1937.0,34.8,-103.31667,9300.0,United States,New Mexico
+1287,Found,"(34.8, -103.31667)",10951,Grady (1933),Valid,L3-6,1933.0,34.8,-103.31667,4230.0,United States,New Mexico
+1288,Found,"(41.98, -120.54167)",10947,Goose Lake,Valid,"Iron, IAB-sLL",1938.0,41.98,-120.54167,1169500.0,United States,California
+1289,Found,"(37.435, -98.31833)",10946,Goose Creek,Valid,H5,1999.0,37.435,-98.31833,2132.3,United States,Kansas
+1290,Found,"(39.35, -101.66667)",10945,Goodland,Valid,L4,1923.0,39.35,-101.66667,3628.0,United States,Kansas
+1291,Found,"(33.18139, -102.40139)",10944,Gomez,Valid,L6,1974.0,33.18139,-102.40139,47000.0,United States,Texas
+1292,Found,"(35.37333, -116.90833)",10943,Goldstone Dry Lake,Valid,H6,1999.0,35.37333,-116.90833,1.1,United States,California
+1293,Found,"(35.87333, -114.2)",10942,Golden Rule,Valid,L5,1999.0,35.87333,-114.2,797.6,United States,Arizona
+1294,Found,"(35.89, -114.16667)",10941,Golden Mile,Valid,H4,2000.0,35.89,-114.16667,378.8,United States,Arizona
+1295,Found,"(35.875, -114.23333)",10940,Gold Basin,Valid,L4,1995.0,35.875,-114.23333,61000.0,United States,Arizona
+1296,Found,"(35.6, -105.8)",10935,Glorieta Mountain,Valid,"Pallasite, PMG-an",1884.0,35.6,-105.8,148000.0,United States,New Mexico
+1297,Found,"(32.25, -97.71667)",10932,Glen Rose (iron),Valid,"Iron, ungrouped",1934.0,32.25,-97.71667,11000.0,United States,Texas
+1298,Found,"(48.71667, -97.3)",10928,Glasston,Valid,L5,1969.0,48.71667,-97.3,1990.0,United States,North Dakota
+1299,Found,"(37.01667, -85.91667)",10927,Glasgow,Valid,"Iron, IIIAB",1922.0,37.01667,-85.91667,20400.0,United States,Kentucky
+1300,Found,"(36.3, -104.0)",10921,Gladstone (stone),Valid,H4,1936.0,36.3,-104.0,57300.0,United States,New Mexico
+1302,Found,"(39.7, -105.7)",10904,Georgetown,Valid,H6,1967.0,39.7,-105.7,687.0,United States,Colorado
+1303,Found,"(39.61667, -98.7)",10868,Gaylord,Valid,H4,1983.0,39.61667,-98.7,8480.0,United States,Kansas
+1304,Found,"(33.86333, -103.34667)",10864,Garrison,Valid,H5,1969.0,33.86333,-103.34667,5116.0,United States,New Mexico
+1305,Found,"(38.26667, -95.25)",10862,Garnett,Valid,H4,1938.0,38.26667,-95.25,4788.0,United States,Kansas
+1306,Fell,"(41.68333, -112.13333)",10861,Garland,Valid,Diogenite-pm,1950.0,41.68333,-112.13333,102.0,United States,Utah
+1308,Found,"(38.64167, -98.88333)",10847,Galatia,Valid,L6,1971.0,38.64167,-98.88333,23900.0,United States,Kansas
+1309,Found,"(32.83333, -102.73333)",10844,Gaines County Park,Valid,H5,1977.0,32.83333,-102.73333,13700.0,United States,Texas
+1310,Found,"(32.7, -101.6)",10843,Gail,Valid,H4,1948.0,32.7,-101.6,4650.0,United States,Texas
+1311,Found,"(40.01667, -82.86667)",10842,Gahanna,Valid,"Iron, IAB-MG",1950.0,40.01667,-82.86667,1201.0,United States,Ohio
+1312,Found,"(31.61111, -99.90417)",10841,Fuzzy Creek,Valid,"Iron, IVA",,31.61111,-99.90417,2700.0,United States,Texas
+1313,Found,"(34.54, -102.56833)",10184,Friona,Valid,L5,1981.0,34.54,-102.56833,21900.0,United States,Texas
+1314,Found,"(38.5, -105.5)",10181,Fremont Butte,Valid,L4,1963.0,38.5,-105.5,6647.0,United States,Colorado
+1315,Found,"(46.38333, -101.23333)",10180,Freda,Valid,"Iron, IAB-sLH",1919.0,46.38333,-101.23333,268.0,United States,North Dakota
+1316,Found,"(38.5, -100.0)",10179,Franklinville,Valid,L6,1888.0,38.5,-100.0,108.0,United States,Kansas
+1317,Found,"(36.71667, -86.56667)",10178,Franklin,Valid,H5,1921.0,36.71667,-86.56667,9062.0,United States,Kentucky
+1318,Fell,"(34.48333, -87.83333)",10177,Frankfort (stone),Valid,Howardite,1868.0,34.48333,-87.83333,650.0,United States,Alabama
+1319,Found,"(38.2, -84.83333)",10176,Frankfort (iron),Valid,"Iron, IIIAB",1866.0,38.2,-84.83333,10900.0,United States,Kentucky
+1320,Found,"(32.33333, -102.745)",10175,Frankel City,Valid,L6,1977.0,32.33333,-102.745,4700.0,United States,Texas
+1321,Found,"(34.71637, -114.22197)",10174,Franconia,Valid,H5,2002.0,34.71637,-114.22197,100000.0,United States,Arizona
+1322,Found,"(38.81667, -104.61667)",10173,Franceville,Valid,"Iron, IIIAB",1890.0,38.81667,-104.61667,18800.0,United States,Colorado
+1323,Found,"(37.0, -109.05)",10172,Four Corners,Valid,"Iron, IAB-ung",1924.0,37.0,-109.05,25000.0,United States,New Mexico
+1324,Found,"(33.1, -102.26667)",10170,Foster,Valid,H4,1975.0,33.1,-102.26667,1992.0,United States,Texas
+1325,Found,"(30.91667, -103.06667)",10168,Fort Stockton,Valid,Iron,1952.0,30.91667,-103.06667,4762.8,United States,Texas
+1326,Found,"(44.35, -100.38333)",10167,Fort Pierre,Valid,"Iron, IIIAB",1856.0,44.35,-100.38333,15900.0,United States,South Dakota
+1327,Found,"(36.1, -80.2)",10165,Forsyth County,Valid,"Iron, IIAB",1891.0,36.1,-80.2,22700.0,United States,North Carolina
+1328,Fell,"(33.01667, -83.96667)",10164,Forsyth,Valid,L6,1829.0,33.01667,-83.96667,16300.0,United States,Georgia
+1329,Fell,"(36.78333, -78.08333)",10123,Forksville,Valid,L6,1924.0,36.78333,-78.08333,6067.0,United States,Virginia
+1330,Found,"(33.49556, -97.58861)",10122,Forestburg (b),Valid,L5,1957.0,33.49556,-97.58861,26600.0,United States,Texas
+1331,Found,"(33.50667, -97.65139)",10121,Forestburg (a),Valid,L4,1957.0,33.50667,-97.65139,26100.0,United States,Texas
+1332,Fell,"(43.25, -93.66667)",10119,Forest City,Valid,H5,1890.0,43.25,-93.66667,152000.0,United States,Iowa
+1333,Found,"(32.90333, -101.16278)",10117,Fluvanna (b),Valid,H6,1976.0,32.90333,-101.16278,4110.0,United States,Texas
+1334,Found,"(32.8, -101.11667)",10116,Fluvanna (a),Valid,L5,1967.0,32.8,-101.11667,9500.0,United States,Texas
+1335,Found,"(33.98333, -101.33333)",10115,Floydada (b),Valid,H5,1999.0,33.98333,-101.33333,6266.0,United States,Texas
+1336,Found,"(33.98333, -101.28333)",10114,Floydada,Valid,"Iron, IIIAB",1912.0,33.98333,-101.28333,12500.0,United States,Texas
+1337,Found,"(34.19333, -103.575)",10113,Floyd,Valid,L4,1966.0,34.19333,-103.575,13000.0,United States,New Mexico
+1338,Found,"(32.5225, -102.705)",10112,Florey,Valid,H6,1978.0,32.5225,-102.705,110800.0,United States,Texas
+1339,Fell,"(30.83333, -97.76667)",10111,Florence,Valid,H3,1922.0,30.83333,-97.76667,3640.0,United States,Texas
+1340,Found,"(40.68333, -102.81667)",10110,Fleming,Valid,H3.7,1940.0,40.68333,-102.81667,1750.0,United States,Colorado
+1341,Found,"(44.04833, -96.59167)",10109,Flandreau,Valid,H5,1983.0,44.04833,-96.59167,21360.0,United States,South Dakota
+1342,Found,"(34.43333, -102.51667)",10108,Flagg,Valid,L5,1954.0,34.43333,-102.51667,7000.0,United States,Texas
+1343,Fell,"(47.81667, -96.85)",10107,Fisher,Valid,L6,1894.0,47.81667,-96.85,17600.0,United States,Minnesota
+1344,Found,"(31.735, -110.75333)",10106,Fish Canyon,Valid,"Iron, IAB complex",1992.0,31.735,-110.75333,27.3,United States,Arizona
+1345,Found,"(34.29833, -101.68333)",10105,Finney (c),Valid,OC,1978.0,34.29833,-101.68333,492.0,United States,Texas
+1346,Found,"(34.26667, -101.56667)",10104,Finney,Valid,L5,1962.0,34.26667,-101.56667,10700.0,United States,Texas
+1348,Found,"(34.0, -101.5)",10089,Ferguson Switch,Valid,H5,1937.0,34.0,-101.5,1700.0,United States,Texas
+1349,Fell,"(36.1, -81.41667)",10088,Ferguson,Valid,OC,1889.0,36.1,-81.41667,220.0,United States,North Carolina
+1350,Found,"(36.58333, -102.7)",10084,Felt (b),Valid,L3.5-5,1990.0,36.58333,-102.7,5590.0,United States,Oklahoma
+1351,Found,"(36.55, -102.78333)",10083,Felt,Valid,H6,1970.0,36.55,-102.78333,5400.0,United States,Oklahoma
+1352,Fell,"(32.53333, -87.16667)",10081,Felix,Valid,CO3.3,1900.0,32.53333,-87.16667,3200.0,United States,Alabama
+1353,Fell,"(36.05, -94.16667)",10079,Fayetteville,Valid,H4,1934.0,36.05,-94.16667,2360.0,United States,Arkansas
+1354,Found,"(39.61667, -94.86667)",10077,Faucett,Valid,H5,1966.0,39.61667,-94.86667,100000.0,United States,Missouri
+1355,Found,"(40.25, -100.23333)",10076,Farnum,Valid,L5,1937.0,40.25,-100.23333,4200.0,United States,Nebraska
+1356,Fell,"(35.55, -77.53333)",10075,Farmville,Valid,H4,1934.0,35.55,-77.53333,56000.0,United States,North Carolina
+1357,Fell,"(39.75, -97.03333)",10074,Farmington,Valid,L5,1890.0,39.75,-97.03333,89400.0,United States,Kansas
+1358,Found,"(36.33333, -104.05)",10073,Farley,Valid,H5,1936.0,36.33333,-104.05,19400.0,United States,New Mexico
+1359,Found,"(33.84333, -103.93667)",10072,Falsey Draw,Valid,L6,1995.0,33.84333,-103.93667,4180.0,United States,New Mexico
+1360,Found,"(45.33333, -102.08333)",10071,Faith,Valid,H5,1952.0,45.33333,-102.08333,105000.0,United States,South Dakota
+1361,Found,"(34.10139, -102.65)",10070,Fairview,Valid,"Iron, IIIAB",1986.0,34.10139,-102.65,28800.0,United States,Texas
+1362,Found,"(39.33333, -84.6)",10069,Fairfield,Valid,"Iron, IAB-MG",1974.0,39.33333,-84.6,1600.0,United States,Ohio
+1363,Found,"(36.81667, -101.90833)",10066,Eva,Valid,H5,1965.0,36.81667,-101.90833,6700.0,United States,Oklahoma
+1364,Found,"(28.83333, -81.68333)",10065,Eustis,Valid,H4,1918.0,28.83333,-81.68333,502.0,United States,Florida
+1365,Found,"(34.47, -101.75833)",10064,Eunice,Valid,H5,1961.0,34.47,-101.75833,2300.0,United States,Texas
+1366,Found,"(47.95833, -96.7)",10063,Euclid,Valid,H5,1970.0,47.95833,-96.7,2500.0,United States,Minnesota
+1367,Found,"(35.98333, -101.9)",10062,Etter,Valid,L5,1965.0,35.98333,-101.9,450000.0,United States,Texas
+1368,Fell,"(43.41667, -94.83333)",10059,Estherville,Valid,Mesosiderite-A3/4,1879.0,43.41667,-94.83333,320000.0,United States,Iowa
+1369,Found,"(33.9, -101.75)",10057,Estacado,Valid,H6,1883.0,33.9,-101.75,290000.0,United States,Texas
+1370,Found,"(34.61167, -115.03333)",10056,Essex,Valid,H5,2002.0,34.61167,-115.03333,5000.0,United States,California
+1372,Found,"(40.03167, -105.05667)",10045,Erie,Valid,L6,1965.0,40.03167,-105.05667,3300.0,United States,Colorado
+1373,Found,"(39.86667, -83.95)",10037,Enon,Valid,"Iron, ungrouped",1883.0,39.86667,-83.95,763.0,United States,Ohio
+1374,Found,"(31.33333, -82.31667)",10036,Enigma,Valid,H4,1967.0,31.33333,-82.31667,94.0,United States,Georgia
+1375,Found,"(39.71667, -77.3)",10034,Emmitsburg,Valid,"Iron, IIIAB?",1854.0,39.71667,-77.3,450.0,United States,Maryland
+1376,Found,"(43.56333, -97.58333)",10031,Emery,Valid,Mesosiderite-A3,1962.0,43.56333,-97.58333,16700.0,United States,South Dakota
+1377,Found,"(38.28, -97.365)",10030,Elyria,Valid,"Iron, IIIAB",1971.0,38.28,-97.365,10900.0,United States,Kansas
+1378,Found,"(33.71667, -100.83333)",10029,Elton,Valid,"Iron, ungrouped",1936.0,33.71667,-100.83333,1900.0,United States,Texas
+1379,Found,"(38.5, -96.2)",10024,Elm Creek,Valid,H4,1906.0,38.5,-96.2,7000.0,United States,Kansas
+1380,Found,"(38.78333, -99.33333)",10022,Ellis County,Valid,H6,1948.0,38.78333,-99.33333,4692.0,United States,Kansas
+1381,Found,"(38.80778, -104.56944)",10021,Ellicott,Valid,"Iron, IAB-ung",1960.0,38.80778,-104.56944,15700.0,United States,Colorado
+1382,Found,"(37.01667, -101.88333)",10017,Elkhart,Valid,H5,1936.0,37.01667,-101.88333,573.0,United States,Kansas
+1383,Found,"(33.79, -103.56333)",10016,Elida (c),Valid,H5,1968.0,33.79,-103.56333,385.5,United States,New Mexico
+1384,Found,"(33.91667, -103.51833)",10015,Elida (b),Valid,OC,1968.0,33.91667,-103.51833,537.8,United States,New Mexico
+1385,Found,"(33.78333, -103.57667)",10014,Elida (a),Valid,L6,1968.0,33.78333,-103.57667,936.8,United States,New Mexico
+1386,Fell,"(39.24667, -104.58817)",7822,Elbert,Valid,LL6,1998.0,39.24667,-104.58817,680.5,United States,Colorado
+1387,Found,"(39.83333, -103.21667)",7821,Elba,Valid,H5,1966.0,39.83333,-103.21667,4175.0,United States,Colorado
+1388,Found,"(37.0, -105.0)",7816,El Rancho Grande,Valid,Pallasite,1954.0,37.0,-105.0,40.7,United States,Colorado
+1390,Found,"(31.78333, -106.23333)",7812,El Paso,Valid,LL4,1950.0,31.78333,-106.23333,276.0,United States,Texas
+1391,Found,"(34.64667, -117.58108)",7811,El Mirage Dry Lake 002,Valid,H4,2001.0,34.64667,-117.58108,13.0,United States,California
+1392,Found,"(34.65433, -117.59638)",7810,El Mirage Dry Lake 001,Valid,H5,2000.0,34.65433,-117.59638,1.5,United States,California
+1393,Found,"(33.68333, -112.26667)",7809,El Mirage,Valid,"Iron, IIAB",1972.0,33.68333,-112.26667,598.0,United States,Arizona
+1395,Found,"(33.5, -105.5)",7794,El Capitan,Valid,"Iron, IIIAB",1893.0,33.5,-105.5,27500.0,United States,New Mexico
+1397,Found,"(37.03333, -85.63333)",7771,Edmonton (Kentucky),Valid,"Iron, IAB-sLM",1942.0,37.03333,-85.63333,10200.0,United States,Kentucky
+1398,Found,"(34.28333, -101.83333)",7769,Edmonson (b),Valid,H4,1981.0,34.28333,-101.83333,14402.0,United States,Texas
+1399,Found,"(34.28333, -101.83333)",7768,Edmonson (a),Valid,L6,1955.0,34.28333,-101.83333,12000.0,United States,Texas
+1400,Found,"(39.76667, -99.91667)",7767,Edmond,Valid,H6,1983.0,39.76667,-99.91667,4000.0,United States,Kansas
+1401,Found,"(38.61667, -84.96667)",7761,Eagle Station,Valid,"Pallasite, PES",1880.0,38.61667,-84.96667,36000.0,United States,Kentucky
+1402,Fell,"(40.78167, -96.47167)",7760,Eagle,Valid,EL6,1947.0,40.78167,-96.47167,10000.0,United States,Nebraska
+1403,Found,"(38.47, -102.82667)",7759,Eads,Valid,H4,1975.0,38.47,-102.82667,4860.0,United States,Colorado
+1404,Found,"(38.85, -96.58333)",7756,Dwight,Valid,L6,1940.0,38.85,-96.58333,4100.0,United States,Kansas
+1405,Found,"(34.48333, -113.91667)",7753,Dutch Flat,Valid,"Iron, IIAB",2002.0,34.48333,-113.91667,48.8,United States,Arizona
+1406,Found,"(36.85, -82.45)",7747,Dungannon,Valid,"Iron, IAB-MG",1922.0,36.85,-82.45,13000.0,United States,Virginia
+1407,Found,"(32.63333, -96.86667)",7744,Duncanville,Valid,H,1961.0,32.63333,-96.86667,17800.0,United States,Texas
+1408,Found,"(35.925, -101.895)",7742,Dumas (b),Valid,H6,1980.0,35.925,-101.895,2284.0,United States,Texas
+1409,Found,"(35.9, -101.9)",7741,Dumas (a),Valid,H5,1956.0,35.9,-101.9,46050.0,United States,Texas
+1410,Found,"(35.85, -82.7)",7739,Duel Hill (1873),Valid,"Iron, IAB-MG",1873.0,35.85,-82.7,11300.0,United States,North Carolina
+1411,Found,"(35.85, -82.7)",7738,Duel Hill (1854),Valid,"Iron, IVA",1854.0,35.85,-82.7,21800.0,United States,North Carolina
+1412,Found,"(40.38333, -110.86667)",7737,Duchesne,Valid,"Iron, IVA",1906.0,40.38333,-110.86667,22700.0,United States,Utah
+1413,Found,"(37.72683, -114.7865)",7734,Dry Lake Valley,Valid,L6,2000.0,37.72683,-114.7865,3.5,United States,Nevada
+1414,Found,"(39.5, -112.9)",7733,Drum Mountains,Valid,"Iron, IIIAB",1944.0,39.5,-112.9,529000.0,United States,Utah
+1416,Found,"(39.61667, -100.46306)",7730,Dresden (Kansas),Valid,H5,1953.0,39.61667,-100.46306,6760.0,United States,Kansas
+1417,Found,"(48.66667, -97.11667)",7729,Drayton,Valid,H4/5,1982.0,48.66667,-97.11667,2350.0,United States,North Dakota
+1418,Fell,"(36.4, -86.5)",7728,Drake Creek,Valid,L6,1827.0,36.4,-86.5,5000.0,United States,Tennessee
+1419,Found,"(38.41667, -106.58333)",7727,Doyleville,Valid,H5,1887.0,38.41667,-106.58333,112.0,United States,Colorado
+1420,Found,"(33.97917, -101.2)",7724,Dougherty,Valid,L6,2002.0,33.97917,-101.2,1113.0,United States,Texas
+1421,Found,"(32.295, -109.67)",7721,Dos Cabezas,Valid,L5,1998.0,32.295,-109.67,755.0,United States,Arizona
+1422,Found,"(33.92333, -103.35)",7713,Dora (stone),Valid,OC,1970.0,33.92333,-103.35,1570.0,United States,New Mexico
+1423,Found,"(33.92667, -103.955)",7712,Dora (pallasite),Valid,"Pallasite, PMG",1955.0,33.92667,-103.955,7600.0,United States,New Mexico
+1424,Found,"(41.23333, -103.48333)",7651,Dix,Valid,L6,1927.0,41.23333,-103.48333,44000.0,United States,Nebraska
+1425,Found,"(39.5, -98.53333)",7648,Dispatch,Valid,H,1956.0,39.5,-98.53333,220.0,United States,Kansas
+1426,Found,"(34.48333, -102.32833)",7646,Dimmitt (b),Valid,OC,1981.0,34.48333,-102.32833,2800.0,United States,Texas
+1427,Found,"(34.58333, -102.16667)",7645,Dimmitt,Valid,H3.7,1942.0,34.58333,-102.16667,200000.0,United States,Texas
+1428,Found,"(40.08173, -115.93673)",7641,Diamond Valley,Valid,H5,2001.0,40.08173,-115.93673,440.0,United States,Nevada
+1429,Found,"(33.81667, -97.0)",6697,Dexter,Valid,"Iron, IIIAB",1889.0,33.81667,-97.0,1724.0,United States,Texas
+1430,Found,"(35.65917, -115.37283)",6695,Devil Peak,Valid,L6,1999.0,35.65917,-115.37283,34.7,United States,Nevada
+1431,Found,"(33.51667, -95.3)",6663,Deport (a),Valid,H4,1944.0,33.51667,-95.3,604.0,United States,Texas
+1432,Found,"(33.51667, -95.3)",6662,Deport,Valid,"Iron, IAB-sLL",1926.0,33.51667,-95.3,15000.0,United States,Texas
+1433,Found,"(33.07139, -102.80028)",6661,Denver City,Valid,"Iron, ungrouped",1975.0,33.07139,-102.80028,26100.0,United States,Texas
+1434,Fell,"(39.7825, -104.93056)",6660,Denver,Valid,L6,1967.0,39.7825,-104.93056,230.0,United States,Colorado
+1435,Found,"(33.0, -97.0)",6659,Denton County,Valid,"Iron, IIIAB",1856.0,33.0,-97.0,5400.0,United States,Texas
+1436,Found,"(39.56583, -99.64722)",6657,Densmore (1950),Valid,H6,1950.0,39.56583,-99.64722,11300.0,United States,Kansas
+1437,Found,"(39.65, -99.68333)",6656,Densmore (1879),Valid,L6,1879.0,39.65,-99.68333,37200.0,United States,Kansas
+1438,Found,"(34.05, -103.55)",6648,Delphos (d),Valid,H5,1969.0,34.05,-103.55,276.0,United States,New Mexico
+1439,Found,"(34.05, -103.63333)",6647,Delphos (c),Valid,L5,1977.0,34.05,-103.63333,885.0,United States,New Mexico
+1440,Found,"(34.09, -103.61167)",6646,Delphos (b),Valid,OC,1968.0,34.09,-103.61167,548.0,United States,New Mexico
+1441,Found,"(34.08333, -103.525)",6645,Delphos (a),Valid,L4,1968.0,34.08333,-103.525,1244.7,United States,New Mexico
+1442,Found,"(35.28333, -93.5)",6640,Delaware,Valid,L4,1972.0,35.28333,-93.5,8346.0,United States,Arkansas
+1443,Found,"(29.36667, -100.96667)",6639,Del Rio,Valid,"Iron, IIF",1965.0,29.36667,-100.96667,3596.0,United States,Texas
+1444,Found,"(36.5, -79.75)",6637,Deep Springs,Valid,"Iron, ungrouped",1846.0,36.5,-79.75,11500.0,United States,North Carolina
+1445,Fell,"(40.25, -74.0)",6634,Deal,Valid,L6,1829.0,40.25,-74.0,28.0,United States,New Jersey
+1446,Found,"(39.85, -102.95)",6624,De Nova,Valid,L6,1940.0,39.85,-102.95,12700.0,United States,Colorado
+1447,Found,"(39.59167, -94.92194)",6623,De Kalb,Valid,H,1969.0,39.59167,-94.92194,566.0,United States,Missouri
+1449,Found,"(39.75, -84.16667)",6620,Dayton,Valid,"Iron, IAB-sLH",1892.0,39.75,-84.16667,26300.0,United States,Ohio
+1450,Found,"(34.86, -102.12)",6619,Dawn (b),Valid,H4/5,1981.0,34.86,-102.12,257.6,United States,Texas
+1451,Found,"(34.86, -102.12)",6618,Dawn (a),Valid,H6,1981.0,34.86,-102.12,7682.0,United States,Texas
+1452,Found,"(29.00833, -97.70556)",6617,Davy (b),Valid,H4,1981.0,29.00833,-97.70556,3770.0,United States,Texas
+1453,Found,"(29.1, -97.6)",6616,Davy (a),Valid,L4,1940.0,29.1,-97.6,50600.0,United States,Texas
+1454,Found,"(30.75, -104.25)",6615,Davis Mountains,Valid,"Iron, IIIAB",1903.0,30.75,-104.25,689000.0,United States,Texas
+1455,Fell,"(34.4, -87.06667)",5514,Danville,Valid,L6,1868.0,34.4,-87.06667,2000.0,United States,Alabama
+1456,Found,"(34.216667, -115.05)",5510,Danby Dry Lake,Valid,H6,2000.0,34.216667,-115.05,8991.0,United States,California
+1457,Found,"(34.8, -84.98333)",5509,Dalton,Valid,"Iron, IIIAB",1879.0,34.8,-84.98333,53000.0,United States,Georgia
+1458,Found,"(36.04333, -102.40833)",5508,Dalhart,Valid,H5,1968.0,36.04333,-102.40833,4400.0,United States,Texas
+1459,Found,"(34.08333, -115.78333)",5505,Dale Dry Lake,Valid,L3.7,1957.0,34.08333,-115.78333,300.0,United States,California
+1460,Fell,"(38.4, -84.25)",5500,Cynthiana,Valid,L/LL4,1877.0,38.4,-84.25,6000.0,United States,Kentucky
+1461,Found,"(35.96667, -96.76667)",5499,Cushing,Valid,H4,1932.0,35.96667,-96.76667,567.0,United States,Oklahoma
+1463,Fell,"(36.83333, -84.35)",5496,Cumberland Falls,Valid,Aubrite,1919.0,36.83333,-84.35,17000.0,United States,Kentucky
+1464,Found,"(37.61667, -98.91667)",5495,Cullison,Valid,H4,1911.0,37.61667,-98.91667,10000.0,United States,Kansas
+1465,Found,"(40.23333, -100.83333)",5494,Culbertson,Valid,H4,1913.0,40.23333,-100.83333,5900.0,United States,Nebraska
+1466,Found,"(29.01667, -97.28333)",5493,Cuero,Valid,H5,1936.0,29.01667,-97.28333,46500.0,United States,Texas
+1467,Found,"(35.31217, -117.453)",5491,Cuddeback Dry Lake 012,Valid,H5,2002.0,35.31217,-117.453,0.72,United States,California
+1468,Found,"(35.2758, -117.47877)",5490,Cuddeback Dry Lake 011,Valid,L6,2000.0,35.2758,-117.47877,10.69,United States,California
+1469,Found,"(35.3112, -117.45465)",5489,Cuddeback Dry Lake 010,Valid,L5,2000.0,35.3112,-117.45465,10.5,United States,California
+1470,Found,"(35.31833, -117.46667)",5488,Cuddeback Dry Lake 009,Valid,H5,2000.0,35.31833,-117.46667,19.0,United States,California
+1471,Found,"(35.28333, -117.48333)",5487,Cuddeback Dry Lake 008,Valid,L6,2000.0,35.28333,-117.48333,18.02,United States,California
+1472,Found,"(35.3114, -117.45342)",5486,Cuddeback Dry Lake 007,Valid,L4,2000.0,35.3114,-117.45342,96.7,United States,California
+1473,Found,"(35.31227, -117.453)",5485,Cuddeback Dry Lake 006,Valid,H6,2000.0,35.31227,-117.453,0.5,United States,California
+1474,Found,"(35.31232, -117.45315)",5484,Cuddeback Dry Lake 005,Valid,H5,2000.0,35.31232,-117.45315,35.0,United States,California
+1475,Found,"(35.30233, -117.46017)",5483,Cuddeback Dry Lake 004,Valid,H6,2000.0,35.30233,-117.46017,40.0,United States,California
+1476,Found,"(35.29183, -117.47067)",5482,Cuddeback Dry Lake 003,Valid,L6,2000.0,35.29183,-117.47067,7.5,United States,California
+1477,Found,"(35.2755, -117.47833)",5481,Cuddeback Dry Lake 002,Valid,L6,2000.0,35.2755,-117.47833,95.0,United States,California
+1478,Found,"(35.29575, -117.4668)",5480,Cuddeback Dry Lake 001,Valid,L6,1999.0,35.29575,-117.4668,32.5,United States,California
+1480,Fell,"(35.63333, -78.13333)",5476,Cross Roads,Valid,H5,1892.0,35.63333,-78.13333,167.0,United States,North Carolina
+1481,Found,"(33.66667, -101.26667)",5475,Crosbyton,Valid,H,1963.0,33.66667,-101.26667,,United States,Texas
+1482,Found,"(38.90306, -112.82111)",5472,Cricket Mountains,Valid,H6,1985.0,38.90306,-112.82111,10.6,United States,Utah
+1483,Fell,"(35.95, -97.58333)",5470,Crescent,Valid,CM2,1936.0,35.95,-97.58333,78.4,United States,Oklahoma
+1484,Found,"(31.75, -97.75)",5464,Cranfills Gap,Valid,H6,1940.0,31.75,-97.75,6000.0,United States,Texas
+1485,Found,"(37.23333, -80.73333)",5462,Cranberry Plains,Valid,"Iron, IVA",1852.0,37.23333,-80.73333,90.0,United States,Virginia
+1486,Found,"(35.83333, -84.91667)",5461,Crab Orchard,Valid,Mesosiderite-A1,1887.0,35.83333,-84.91667,48500.0,United States,Tennessee
+1487,Found,"(31.91667, -111.5)",5459,Coyote Mountains,Valid,H5,1998.0,31.91667,-111.5,23.04,United States,Arizona
+1488,Found,"(39.2, -98.78333)",5456,Covert,Valid,H5,1896.0,39.2,-98.78333,61000.0,United States,Kansas
+1489,Found,"(34.83333, -112.01667)",5455,Cottonwood,Valid,H5,1955.0,34.83333,-112.01667,800.0,United States,Arizona
+1490,Found,"(41.36667, -98.63333)",5454,Cotesfield,Valid,L6,1928.0,41.36667,-98.63333,1160.0,United States,Nebraska
+1491,Found,"(36.83333, -105.23333)",5453,Costilla Peak,Valid,"Iron, IIIAB",1881.0,36.83333,-105.23333,35500.0,United States,New Mexico
+1492,Found,"(35.78333, -83.25)",5450,Cosby's Creek,Valid,"Iron, IAB-MG",1837.0,35.78333,-83.25,960000.0,United States,Tennessee
+1493,Found,"(37.35, -108.68333)",5449,Cortez,Valid,H6,1940.0,37.35,-108.68333,715.6,United States,Colorado
+1494,Found,"(34.95, -107.16667)",5447,Correo,Valid,H4,1979.0,34.95,-107.16667,1400.0,United States,New Mexico
+1495,Found,"(39.68333, -102.845)",5441,Cope (b),Valid,H5,1967.0,39.68333,-102.845,817.0,United States,Colorado
+1496,Found,"(39.66667, -102.83333)",5440,Cope,Valid,H5,1934.0,39.66667,-102.83333,12000.0,United States,Colorado
+1497,Found,"(36.43333, -87.0)",5438,Coopertown,Valid,"Iron, IIIE",1860.0,36.43333,-87.0,16800.0,United States,Tennessee
+1498,Found,"(35.0, -111.0)",5436,Coon Butte,Valid,L6,1905.0,35.0,-111.0,2750.0,United States,Arizona
+1499,Found,"(38.03333, -101.98333)",5434,Coolidge,Valid,C4-ung,1937.0,38.03333,-101.98333,4500.0,United States,Kansas
+1500,Found,"(36.16667, -85.51667)",5431,Cookeville,Valid,"Iron, IAB-ung",1913.0,36.16667,-85.51667,2300.0,United States,Tennessee
+1501,Found,"(32.0, -101.5)",5417,Concho,Valid,L6,1939.0,32.0,-101.5,93500.0,United States,Texas
+1502,Found,"(31.99167, -98.65167)",5415,Comanche (stone),Valid,L5,1956.0,31.99167,-98.65167,2400.0,United States,Texas
+1503,Found,"(32.01667, -98.7)",5414,Comanche (iron),Valid,"Iron, IAB-sLL",1940.0,32.01667,-98.7,19700.0,United States,Texas
+1504,Found,"(31.82967, -107.3945)",5411,Columbus,Valid,H5,1997.0,31.82967,-107.3945,165.0,United States,New Mexico
+1505,Found,"(46.57056, -117.09861)",5410,Colton,Valid,"Iron, IIIAB",1993.0,46.57056,-117.09861,19670.0,United States,Washington
+1506,Found,"(38.83333, -104.83333)",5408,Colorado Springs,Valid,Iron,1950.0,38.83333,-104.83333,,United States,Colorado
+1507,Found,"(35.35, -98.68333)",5407,Colony,Valid,CO3.0,1975.0,35.35,-98.68333,3912.0,United States,Oklahoma
+1509,Found,"(35.3, -81.73333)",5402,Colfax,Valid,"Iron, IAB-ung",1880.0,35.3,-81.73333,2300.0,United States,North Carolina
+1510,Fell,"(43.76111, -84.50778)",5401,Coleman,Valid,L6,1994.0,43.76111,-84.50778,469.0,United States,Michigan
+1511,Found,"(41.35, -99.11667)",5400,Cole Creek,Valid,H5,1991.0,41.35,-99.11667,16300.0,United States,Nebraska
+1512,Found,"(37.26667, -99.33333)",5399,Coldwater (stone),Valid,H5,1924.0,37.26667,-99.33333,16000.0,United States,Kansas
+1513,Found,"(37.26667, -99.33333)",5398,Coldwater (iron),Valid,Iron,1923.0,37.26667,-99.33333,18400.0,United States,Kansas
+1514,Fell,"(44.9, -90.28333)",5395,Colby (Wisconsin),Valid,L6,1917.0,44.9,-90.28333,104000.0,United States,Wisconsin
+1515,Found,"(39.41667, -101.05)",5394,Colby (Kansas),Valid,H5,1940.0,39.41667,-101.05,2400.0,United States,Kansas
+1517,Found,"(34.3, -103.13333)",5386,Clovis (no. 2),Valid,L6,1963.0,34.3,-103.13333,41300.0,United States,New Mexico
+1518,Found,"(34.3, -103.13472)",5385,Clovis (no. 1),Valid,H3.6,1961.0,34.3,-103.13472,283000.0,United States,New Mexico
+1519,Found,"(34.45, -111.36667)",5384,Clover Springs,Valid,Mesosiderite-A2,1954.0,34.45,-111.36667,7700.0,United States,Arizona
+1520,Found,"(36.08333, -84.2)",5381,Clinton,Valid,Iron,1950.0,36.08333,-84.2,7700.0,United States,Tennessee
+1521,Found,"(39.1, -103.25833)",5380,Clifford,Valid,L6,1962.0,39.1,-103.25833,11360.0,United States,Colorado
+1522,Found,"(34.88333, -84.78333)",5379,Cleveland,Valid,"Iron, IIIAB",1860.0,34.88333,-84.78333,115000.0,United States,Georgia
+1523,Found,"(36.43333, -98.43333)",5378,Cleo Springs,Valid,H4,1960.0,36.43333,-98.43333,24000.0,United States,Oklahoma
+1524,Found,"(32.31667, -97.41667)",5377,Cleburne,Valid,"Iron, IVA",1907.0,32.31667,-97.41667,6800.0,United States,Texas
+1525,Found,"(34.34833, -101.65833)",5376,Claytonville (b),Valid,OC,1978.0,34.34833,-101.65833,5136.0,United States,Texas
+1526,Found,"(34.34667, -101.49)",5375,Claytonville,Valid,L5,1964.0,34.34667,-101.49,15600.0,United States,Texas
+1527,Fell,"(32.1025, -81.87278)",5374,Claxton,Valid,L6,1984.0,32.1025,-81.87278,1455.0,United States,Georgia
+1528,Found,"(38.0, -84.16667)",5373,Clark County,Valid,"Iron, IIIF",1937.0,38.0,-84.16667,11300.0,United States,Kentucky
+1529,Found,"(43.7, -104.7)",5371,Clareton,Valid,L6,1931.0,43.7,-104.7,1050.0,United States,Wyoming
+1530,Found,"(34.93611, -100.94167)",5370,Clarendon (b),Valid,H5,1981.0,34.93611,-100.94167,26.8,United States,Texas
+1531,Found,"(34.905, -100.91333)",5369,Clarendon (a),Valid,H5,1979.0,34.905,-100.91333,1964.0,United States,Texas
+1532,Found,"(34.02806, -102.68)",5367,Circle Back,Valid,L6,1977.0,34.02806,-102.68,2268.0,United States,Texas
+1533,Found,"(39.11667, -84.5)",5366,Cincinnati,Valid,"Iron, IIAB",1870.0,39.11667,-84.5,1500.0,United States,Ohio
+1534,Found,"(37.85, -100.35)",5365,Cimarron,Valid,CM2,1948.0,37.85,-100.35,,United States,Kansas
+1536,Found,"(33.5, -85.66667)",5362,Chulafinnee,Valid,"Iron, IIIAB",1873.0,33.5,-85.66667,16220.0,United States,Alabama
+1537,Found,"(35.25, -118.09067)",5361,Chuckwalla,Valid,"Iron, IAB-MG",1992.0,35.25,-118.09067,1802.0,United States,California
+1539,Fell,"(40.93333, -79.73333)",5349,Chicora,Valid,LL6,1938.0,40.93333,-79.73333,303.0,United States,Pennsylvania
+1540,Found,"(29.0, -103.25)",5348,Chico Mountains,Valid,"Iron, IIAB",1915.0,29.0,-103.25,212.0,United States,Texas
+1541,Found,"(36.0, -104.5)",5347,Chico Hills,Valid,H4,1951.0,36.0,-104.5,8030.0,United States,New Mexico
+1542,Found,"(36.5, -104.2)",5346,Chico,Valid,L6,1954.0,36.5,-104.2,104800.0,United States,New Mexico
+1543,Found,"(34.7, -81.2)",5343,Chesterville,Valid,"Iron, IIAB",1849.0,34.7,-81.2,16500.0,United States,South Carolina
+1544,Fell,"(35.03333, -81.88333)",5340,Cherokee Springs,Valid,LL6,1933.0,35.03333,-81.88333,8400.0,United States,South Carolina
+1545,Fell,"(36.16667, -87.33333)",5328,Charlotte,Valid,"Iron, IVA",1835.0,36.16667,-87.33333,4300.0,United States,Tennessee
+1546,Found,"(35.71667, -102.28333)",5324,Channing,Valid,H5,1936.0,35.71667,-102.28333,15300.0,United States,Texas
+1548,Found,"(36.2, -102.45)",5317,Chamberlin,Valid,H5,1941.0,36.2,-102.45,2400.0,United States,Texas
+1550,Fell,"(43.2, -96.91667)",5307,Centerville,Valid,H5,1956.0,43.2,-96.91667,45.6,United States,South Dakota
+1552,Found,"(34.2, -100.48333)",5305,Cee Vee,Valid,H5,1959.0,34.2,-100.48333,3600.0,United States,Texas
+1553,Found,"(34.01667, -85.26667)",5304,Cedartown,Valid,"Iron, IIAB",1898.0,34.01667,-85.26667,11300.0,United States,Georgia
+1554,Found,"(29.82806, -96.90861)",5303,Cedar (Texas),Valid,H4,1900.0,29.82806,-96.90861,26000.0,United States,Texas
+1555,Found,"(39.7, -98.98333)",5302,Cedar (Kansas),Valid,H6,1937.0,39.7,-98.98333,4900.0,United States,Kansas
+1556,Found,"(44.221494, -98.059192)",5300,Cavour,Valid,H6,1938.0,44.221494,-98.059192,26210.0,United States,South Dakota
+1557,Found,"(31.7045, -110.77917)",5299,Cave Creek,Valid,H4,1992.0,31.7045,-110.77917,1492.0,United States,Arizona
+1558,Found,"(32.14833, -111.11167)",5297,Cat Mountain,Valid,L5,1981.0,32.14833,-111.11167,2700.0,United States,Arizona
+1559,Fell,"(36.5, -79.25)",5296,Caswell County,Valid,OC,1810.0,36.5,-79.25,1360.0,United States,North Carolina
+1560,Fell,"(44.38333, -68.75)",5293,Castine,Valid,L6,1848.0,44.38333,-68.75,94.0,United States,Maine
+1561,Fell,"(36.08333, -78.06667)",5291,Castalia,Valid,H5,1874.0,36.08333,-78.06667,7300.0,United States,North Carolina
+1562,Found,"(35.84778, -97.70333)",5287,Cashion,Valid,H4,1936.0,35.84778,-97.70333,5896.8,United States,Oklahoma
+1563,Found,"(37.25, -85.0)",5286,Casey County,Valid,"Iron, IAB-MG",1877.0,37.25,-85.0,723.0,United States,Kentucky
+1565,Found,"(32.0, -86.0)",5284,Carver,Valid,"Iron, IIAB",1935.0,32.0,-86.0,94000.0,United States,Alabama
+1566,Found,"(36.26667, -85.98333)",5282,Carthage,Valid,"Iron, IIIAB",1840.0,36.26667,-85.98333,127000.0,United States,Tennessee
+1567,Found,"(35.16667, -98.64389)",5278,Carnegie,Valid,L6,1963.0,35.16667,-98.64389,132700.0,United States,Oklahoma
+1568,Found,"(31.91667, -98.03333)",5277,Carlton,Valid,"Iron, IAB-sLM",1887.0,31.91667,-98.03333,81200.0,United States,Texas
+1571,Fell,"(37.26667, -89.58333)",5260,Cape Girardeau,Valid,H6,1846.0,37.26667,-89.58333,2300.0,United States,Missouri
+1572,Found,"(38.18333, -109.88333)",5258,Canyonlands,Valid,H6,1961.0,38.18333,-109.88333,1520.0,United States,Utah
+1573,Found,"(35.05, -111.03333)",5257,Canyon Diablo,Valid,"Iron, IAB-MG",1891.0,35.05,-111.03333,30000000.0,United States,Arizona
+1574,Found,"(40.9, -123.1)",5256,Canyon City,Valid,"Iron, IIIAB",1875.0,40.9,-123.1,8600.0,United States,California
+1575,Found,"(34.96667, -101.93333)",5255,Canyon,Valid,H?,1957.0,34.96667,-101.93333,860.0,United States,Texas
+1576,Found,"(34.2, -84.48333)",5254,Canton,Valid,"Iron, IIIAB",1894.0,34.2,-84.48333,7030.0,United States,Georgia
+1577,Fell,"(38.47028, -105.24139)",5253,Canon City,Valid,H6,1973.0,38.47028,-105.24139,1400.0,United States,Colorado
+1578,Found,"(37.36667, -85.36667)",5245,Campbellsville,Valid,"Iron, IIIAB",1929.0,37.36667,-85.36667,15400.0,United States,Kentucky
+1579,Found,"(43.2, -78.8)",5203,Cambria,Valid,"Iron, ungrouped",1818.0,43.2,-78.8,16300.0,United States,New York
+1580,Found,"(28.41667, -98.25)",5201,Calliham,Valid,L6,1958.0,28.41667,-98.25,40000.0,United States,Texas
+1581,Found,"(36.08333, -92.15)",5198,Calico Rock,Valid,"Iron, IIAB",1938.0,36.08333,-92.15,7275.0,United States,Arkansas
+1582,Found,"(37.03333, -97.625)",5197,Caldwell,Valid,L-imp melt,1961.0,37.03333,-97.625,12900.0,United States,Kansas
+1583,Found,"(35.0, -98.33333)",5192,Caddo County,Valid,"Iron, IAB-ung",1987.0,35.0,-98.33333,18000.0,United States,Oklahoma
+1585,Fell,"(35.5, -93.5)",5186,Cabin Creek,Valid,"Iron, IIIAB",1886.0,35.5,-93.5,48500.0,United States,Arkansas
+1586,Found,"(38.3, -94.36667)",5182,Butler,Valid,"Iron, ungrouped",1874.0,38.3,-94.36667,41000.0,United States,Missouri
+1587,Found,"(41.23333, -103.9)",5180,Bushnell,Valid,H4,1939.0,41.23333,-103.9,1240.0,United States,Nebraska
+1588,Fell,"(37.62194, -82.23722)",5175,Burnwell,Valid,H4-an,1990.0,37.62194,-82.23722,1504.0,United States,Kentucky
+1589,Found,"(35.33333, -99.15)",5174,Burns Flat,Valid,L6,1971.0,35.33333,-99.15,1987.0,United States,Oklahoma
+1590,Found,"(42.75, -75.18333)",5172,Burlington,Valid,"Iron, IIIE",1819.0,42.75,-75.18333,68000.0,United States,New York
+1591,Found,"(32.03333, -99.25)",5170,Burkett,Valid,"Iron, IAB-MG",1913.0,32.03333,-99.25,8400.0,United States,Texas
+1592,Found,"(38.23333, -99.53333)",5167,Burdett,Valid,H5,1940.0,38.23333,-99.53333,8600.0,United States,Kansas
+1594,Found,"(38.295, -121.405)",5155,Bruceville,Valid,L6,1998.0,38.295,-121.405,83000.0,United States,California
+1595,Found,"(33.21667, -102.18333)",5154,Brownfield (iron),Valid,"Iron, IID",1960.0,33.21667,-102.18333,1626.0,United States,Texas
+1596,Found,"(33.135, -102.27833)",5153,Brownfield (c),Valid,OC,1974.0,33.135,-102.27833,1550.0,United States,Texas
+1597,Found,"(33.21667, -102.18333)",5152,Brownfield (1964),Valid,H5,1964.0,33.21667,-102.18333,4100.0,United States,Texas
+1598,Found,"(33.21667, -102.18333)",5151,Brownfield (1937),Valid,H3.7,1937.0,33.21667,-102.18333,40960.0,United States,Texas
+1599,Found,"(38.69667, -99.70833)",5150,Brownell,Valid,L6,1971.0,38.69667,-99.70833,2000.0,United States,Kansas
+1600,Found,"(33.275, -102.96)",5149,Bronco (c),Valid,OC,1980.0,33.275,-102.96,53.0,United States,Texas
+1601,Found,"(33.275, -102.96)",5148,Bronco (b),Valid,OC,1980.0,33.275,-102.96,101.0,United States,Texas
+1602,Found,"(33.28333, -102.96667)",5147,Bronco,Valid,OC,1971.0,33.28333,-102.96667,972.0,United States,Texas
+1603,Found,"(41.43333, -99.7)",5145,Broken Bow,Valid,H4,1937.0,41.43333,-99.7,6800.0,United States,Nebraska
+1604,Found,"(36.56667, -82.18333)",5143,Bristol,Valid,"Iron, IVA",1937.0,36.56667,-82.18333,20000.0,United States,Tennessee
+1605,Found,"(34.35, -101.4)",5142,Briscoe,Valid,L5,1940.0,34.35,-101.4,1773.0,United States,Texas
+1606,Found,"(40.66667, -104.31667)",5141,Briggsdale,Valid,"Iron, IIIAB",1949.0,40.66667,-104.31667,2230.0,United States,Colorado
+1607,Found,"(35.71667, -81.86667)",5139,Bridgewater,Valid,"Iron, IID",1890.0,35.71667,-81.86667,13600.0,United States,North Carolina
+1608,Found,"(39.25, -101.33333)",5137,Brewster,Valid,L6,1940.0,39.25,-101.33333,17000.0,United States,Kansas
+1609,Found,"(37.5825, -99.16361)",5136,Brenham,Valid,"Pallasite, PMG-an",1882.0,37.5825,-99.16361,4300000.0,United States,Kansas
+1610,Found,"(40.81, -101.80167)",5132,Brandon,Valid,L6/7,1975.0,40.81,-101.80167,7580.0,United States,Nebraska
+1611,Found,"(41.15333, -96.955)",5131,Brainard,Valid,"Iron, IIIAB",1978.0,41.15333,-96.955,138300.0,United States,Nebraska
+1612,Found,"(31.05, -99.46667)",5129,Brady,Valid,L6,1937.0,31.05,-99.46667,927.0,United States,Texas
+1613,Fell,"(40.5, -80.08333)",5128,Bradford Woods,Valid,L,1886.0,40.5,-80.08333,762.0,United States,Pennsylvania
+1614,Found,"(48.78333, -97.35)",5125,Bowesmont (b),Valid,L5,1972.0,48.78333,-97.35,1300.0,United States,North Dakota
+1615,Found,"(48.68333, -97.16667)",5124,Bowesmont,Valid,L6,1962.0,48.68333,-97.16667,2270.0,United States,North Dakota
+1616,Found,"(37.5, -79.75)",5116,Botetourt County,Valid,Iron,1850.0,37.5,-79.75,500.0,United States,Virginia
+1617,Found,"(33.26667, -116.38333)",5115,Borrego,Valid,L6,1930.0,33.26667,-116.38333,2126.0,United States,California
+1618,Found,"(37.21667, -117.08333)",5106,Bonnie Claire 002,Valid,H5,1998.0,37.21667,-117.08333,80.8,United States,Nevada
+1619,Found,"(37.21667, -117.08333)",5105,Bonnie Claire 001,Valid,H5,1998.0,37.21667,-117.08333,23.03,United States,Nevada
+1620,Found,"(26.26667, -81.75)",5104,Bonita Springs,Valid,H5,1938.0,26.26667,-81.75,41800.0,United States,Florida
+1621,Found,"(29.8, -98.8)",5095,Boerne,Valid,H6,1932.0,29.8,-98.8,1100.0,United States,Texas
+1622,Found,"(33.65167, -103.70833)",5091,Boaz (stone),Valid,H5,1968.0,33.65167,-103.70833,1800.0,United States,New Mexico
+1623,Found,"(29.86306, -96.92667)",5088,Bluff (b),Valid,L4,1917.0,29.86306,-96.92667,16000.0,United States,Texas
+1624,Found,"(29.87861, -96.87222)",5087,Bluff (a),Valid,L5,1878.0,29.87861,-96.87222,153300.0,United States,Texas
+1625,Found,"(40.27957, -118.94642)",5086,Bluewing 008,Valid,H5,2001.0,40.27957,-118.94642,451.7,United States,Nevada
+1626,Found,"(40.28247, -118.94872)",5085,Bluewing 007,Valid,L4,1999.0,40.28247,-118.94872,324.0,United States,Nevada
+1627,Found,"(40.28338, -118.94808)",5084,Bluewing 006,Valid,L6,1999.0,40.28338,-118.94808,355.0,United States,Nevada
+1628,Found,"(40.28563, -118.94657)",5083,Bluewing 005,Valid,L5,1999.0,40.28563,-118.94657,7200.0,United States,Nevada
+1629,Found,"(40.27537, -118.9461)",5082,Bluewing 004,Valid,L5,1999.0,40.27537,-118.9461,113.0,United States,Nevada
+1630,Found,"(40.26752, -118.94308)",5081,Bluewing 003,Valid,L6,1999.0,40.26752,-118.94308,95.0,United States,Nevada
+1631,Found,"(40.24148, -118.94763)",5080,Bluewing 002,Valid,H5,1999.0,40.24148,-118.94763,23.0,United States,Nevada
+1632,Found,"(40.2495, -118.93683)",5079,Bluewing 001,Valid,Eucrite-mmict,2000.0,40.2495,-118.93683,6.1,United States,Nevada
+1633,Found,"(35.26667, -107.96667)",5078,Bluewater,Valid,"Iron, IIIAB",1946.0,35.26667,-107.96667,9540.0,United States,New Mexico
+1634,Fell,"(40.48, -89.00417)",5076,Bloomington,Valid,LL6,1938.0,40.48,-89.00417,67.8,United States,Illinois
+1636,Found,"(33.59167, -103.02667)",5074,Bledsoe,Valid,H4,1970.0,33.59167,-103.02667,30500.0,United States,Texas
+1637,Fell,"(31.83333, -98.83333)",5071,Blanket,Valid,L6,1909.0,31.83333,-98.83333,5100.0,United States,Texas
+1638,Found,"(40.5, -101.08333)",5069,Blackwood Creek,Valid,H6,1998.0,40.5,-101.08333,67.0,United States,Nebraska
+1639,Fell,"(36.83333, -97.33333)",5068,Blackwell,Valid,L5,1906.0,36.83333,-97.33333,2381.0,United States,Oklahoma
+1640,Found,"(34.20583, -103.22222)",5067,Blackwater Draw,Valid,H4,1979.0,34.20583,-103.22222,1500.0,United States,New Mexico
+1641,Found,"(35.58333, -82.35)",5066,Black Mountain,Valid,"Iron, IAB-MG",1839.0,35.58333,-82.35,800.0,United States,North Carolina
+1642,Fell,"(40.91667, -78.08333)",5065,Black Moshannan Park,Valid,L5,1941.0,40.91667,-78.08333,705.0,United States,Pennsylvania
+1643,Found,"(38.30667, -99.71)",5061,Bison,Valid,LL6,1958.0,38.30667,-99.71,11000.0,United States,Kansas
+1644,Fell,"(34.16667, -80.28333)",5059,Bishopville,Valid,Aubrite,1843.0,34.16667,-80.28333,6000.0,United States,South Carolina
+1645,Found,"(38.0, -108.5)",5058,Bishop Canyon,Valid,"Iron, IVA",1912.0,38.0,-108.5,8600.0,United States,Colorado
+1646,Found,"(37.06667, -93.55)",5047,Billings,Valid,"Iron, IIIAB",1903.0,37.06667,-93.55,24500.0,United States,Missouri
+1647,Found,"(39.3, -102.41667)",5033,Bethune,Valid,EH4/5,1941.0,39.3,-102.41667,67.0,United States,Colorado
+1648,Fell,"(42.53333, -73.83333)",5032,Bethlehem,Valid,H,1859.0,42.53333,-73.83333,13.9,United States,New York
+1649,Found,"(34.24667, -103.395)",5031,Bethel (b),Valid,H4,1968.0,34.24667,-103.395,56.8,United States,New Mexico
+1650,Found,"(34.23333, -103.38333)",5030,Bethel (a),Valid,OC,1968.0,34.23333,-103.38333,18.3,United States,New Mexico
+1652,Found,"(43.5, -101.25)",5022,Bennett County,Valid,"Iron, IIAB",1934.0,43.5,-101.25,89000.0,United States,South Dakota
+1653,Fell,"(39.08333, -89.15)",5021,Benld,Valid,H6,1938.0,39.08333,-89.15,1770.5,United States,Illinois
+1654,Found,"(33.58333, -99.8)",5020,Benjamin,Valid,H4/5,1969.0,33.58333,-99.8,51800.0,United States,Texas
+1655,Found,"(41.0, -97.53333)",5017,Benedict,Valid,"Iron, IIIAB",1970.0,41.0,-97.53333,16380.0,United States,Nebraska
+1656,Found,"(42.73333, -90.35)",5008,Belmont,Valid,H6,1958.0,42.73333,-90.35,25300.0,United States,Wisconsin
+1658,Fell,"(33.6, -96.46667)",5005,Bells,Valid,C2-ung,1961.0,33.6,-96.46667,375.0,United States,Texas
+1659,Found,"(37.31667, -97.25)",5004,Belle Plaine,Valid,L6,1950.0,37.31667,-97.25,78800.0,United States,Kansas
+1661,Found,"(35.66117, -115.33333)",4996,Beer Bottle Pass,Valid,L5,1999.0,35.66117,-115.33333,8.9,United States,Nevada
+1662,Found,"(36.21667, -103.65)",4995,Beenham,Valid,L5,1937.0,36.21667,-103.65,44400.0,United States,New Mexico
+1663,Found,"(38.53333, -100.21667)",4994,Beeler,Valid,LL6,1924.0,38.53333,-100.21667,11620.0,United States,Kansas
+1664,Found,"(38.48417, -113.13639)",4987,Beaver-Harrison,Valid,L6,1979.0,38.48417,-113.13639,925.0,United States,Utah
+1665,Found,"(36.8, -100.53333)",4985,Beaver,Valid,L5,1940.0,36.8,-100.53333,25628.0,United States,Oklahoma
+1666,Fell,"(39.8, -101.2)",4984,Beardsley,Valid,H5,1929.0,39.8,-101.2,16000.0,United States,Kansas
+1667,Found,"(44.5, -104.2)",4983,Bear Lodge,Valid,"Iron, IIIAB",1931.0,44.5,-104.2,48500.0,United States,Wyoming
+1668,Found,"(39.6, -105.3)",4982,Bear Creek,Valid,"Iron, IIIAB",1866.0,39.6,-105.3,227000.0,United States,Colorado
+1669,Found,"(41.81667, -103.36667)",4978,Bayard,Valid,L5,1982.0,41.81667,-103.36667,75000.0,United States,Nebraska
+1670,Fell,"(36.75, -93.5)",4977,Baxter,Valid,L6,1916.0,36.75,-93.5,611.0,United States,Missouri
+1671,Fell,"(38.25, -83.75)",4975,Bath Furnace,Valid,L6,1902.0,38.25,-83.75,86000.0,United States,Kentucky
+1672,Fell,"(45.41667, -98.31667)",4974,Bath,Valid,H4,1892.0,45.41667,-98.31667,21000.0,United States,South Dakota
+1673,Found,"(43.13333, -102.1)",4973,Batesland,Valid,H5,1961.0,43.13333,-102.1,2500.0,United States,South Dakota
+1674,Found,"(34.0, -101.5)",4955,Barwise,Valid,H5,1950.0,34.0,-101.5,10400.0,United States,Texas
+1675,Found,"(30.83333, -97.5)",4953,Bartlett,Valid,"Iron, IIIAB",1938.0,30.83333,-97.5,8590.0,United States,Texas
+1676,Found,"(30.78333, -103.46667)",4952,Barrilla,Valid,H5,1994.0,30.78333,-103.46667,11100.0,United States,Texas
+1677,Found,"(31.76667, -99.98333)",4930,Ballinger,Valid,"Iron, IAB-MG",1927.0,31.76667,-99.98333,1250.0,United States,Texas
+1678,Fell,"(34.5, -88.66667)",4926,Baldwyn,Valid,L6,1922.0,34.5,-88.66667,345.0,United States,Mississippi
+1679,Fell,"(35.96667, -82.48333)",4925,Bald Mountain,Valid,L4,1929.0,35.96667,-82.48333,3700.0,United States,North Carolina
+1680,Found,"(41.28333, -77.05)",4924,Bald Eagle,Valid,"Iron, IIIAB",1891.0,41.28333,-77.05,3200.0,United States,Pennsylvania
+1681,Found,"(34.613317, -113.398967)",4920,Bagdad,Valid,"Iron, IIIAB",1959.0,34.613317,-113.398967,2200.0,United States,Arizona
+1683,Found,"(36.3, -82.88333)",4916,Babb's Mill (Troost's Iron),Valid,"Iron, ungrouped",1842.0,36.3,-82.88333,6400.0,United States,Tennessee
+1684,Found,"(36.3, -82.88333)",4915,Babb's Mill (Blake's Iron),Valid,"Iron, ungrouped",1876.0,36.3,-82.88333,136000.0,United States,Tennessee
+1685,Fell,"(36.8, -108.0)",4913,Aztec,Valid,L6,1938.0,36.8,-108.0,2830.0,United States,New Mexico
+1686,Found,"(31.66, -96.97167)",4911,Axtell,Valid,CV3,1943.0,31.66,-96.97167,6200.0,United States,Texas
+1688,Found,"(36.33333, -105.05)",4901,Aurora,Valid,H4,1938.0,36.33333,-105.05,1000.0,United States,New Mexico
+1689,Found,"(38.16667, -79.08333)",4897,Augusta County,Valid,"Iron, IIIAB",1858.0,38.16667,-79.08333,76000.0,United States,Virginia
+1690,Found,"(32.63333, -85.5)",4894,Auburn,Valid,"Iron, IIG",1867.0,32.63333,-85.5,3630.0,United States,Alabama
+1691,Found,"(40.51667, -103.26667)",4892,Atwood (b),Valid,OC,1964.0,40.51667,-103.26667,77.0,United States,Colorado
+1692,Found,"(40.51667, -103.26667)",4891,Atwood,Valid,L6,1963.0,40.51667,-103.26667,2100.0,United States,Colorado
+1693,Found,"(37.25, -98.13333)",4890,Attica,Valid,H4,1996.0,37.25,-98.13333,5622.0,United States,Kansas
+1694,Fell,"(34.31667, -96.15)",4888,Atoka,Valid,L6,1945.0,34.31667,-96.15,1384.2,United States,Oklahoma
+1695,Found,"(31.8, -92.75)",4886,Atlanta,Valid,EL6,1938.0,31.8,-92.75,5500.0,United States,Louisiana
+1696,Fell,"(34.75, -87.0)",4885,Athens,Valid,LL6,1933.0,34.75,-87.0,265.0,United States,Alabama
+1697,Found,"(32.9, -102.28333)",2349,Ashmore,Valid,H5,1969.0,32.9,-102.28333,55400.0,United States,Texas
+1698,Found,"(35.25, -112.5)",2348,Ashfork,Valid,"Iron, IAB-MG",1901.0,35.25,-112.5,27000.0,United States,Arizona
+1699,Found,"(35.58333, -82.53333)",2347,Asheville,Valid,"Iron, IIIAB",1839.0,35.58333,-82.53333,800.0,United States,North Carolina
+1700,Found,"(39.3, -103.25)",2339,Arriba,Valid,L5,1936.0,39.3,-103.25,31100.0,United States,Colorado
+1701,Found,"(39.76667, -102.13333)",2336,Armel,Valid,L5,1967.0,39.76667,-102.13333,9200.0,United States,Colorado
+1702,Found,"(44.6, -94.1)",2333,Arlington,Valid,"Iron, IIE-an",1894.0,44.6,-94.1,8940.0,United States,Minnesota
+1704,Found,"(37.26667, -97.76667)",2331,Argonia,Valid,"Pallasite, PMG-an",1940.0,37.26667,-97.76667,84.0,United States,Kansas
+1705,Fell,"(38.5, -94.3)",2329,Archie,Valid,H6,1932.0,38.5,-94.3,5070.0,United States,Missouri
+1706,Found,"(38.68867, -109.58517)",2328,Arches,Valid,L5,2001.0,38.68867,-109.58517,534.0,United States,Utah
+1707,Found,"(34.15, -103.22)",2327,Arch,Valid,CV3,1972.0,34.15,-103.22,985.8,United States,New Mexico
+1708,Found,"(41.41667, -99.1)",2326,Arcadia,Valid,LL6,1937.0,41.41667,-99.1,19400.0,United States,Nebraska
+1709,Found,"(38.8, -102.2)",2323,Arapahoe,Valid,L5,1940.0,38.8,-102.2,19083.0,United States,Colorado
+1710,Found,"(39.75, -105.2)",2315,Apex,Valid,L6,1938.0,39.75,-105.2,6.1,United States,Colorado
+1711,Found,"(33.7825, -102.18111)",2311,Anton,Valid,H4,1965.0,33.7825,-102.18111,41800.0,United States,Texas
+1712,Found,"(37.08333, -98.05)",2310,Anthony,Valid,H5,1919.0,37.08333,-98.05,20000.0,United States,Kansas
+1713,Found,"(39.33333, -97.56167)",2308,Anson,Valid,L6,1972.0,39.33333,-97.56167,3900.0,United States,Kansas
+1714,Found,"(45.2, -93.43333)",2307,Anoka,Valid,"Iron, IAB-sLM",1961.0,45.2,-93.43333,1108.0,United States,Minnesota
+1715,Found,"(44.25, -88.25)",2300,Angelica,Valid,"Iron, IIIAB",1916.0,44.25,-88.25,14800.0,United States,Wisconsin
+1716,Fell,"(44.61667, -70.75)",2295,Andover,Valid,L6,1898.0,44.61667,-70.75,3200.0,United States,Maine
+1717,Found,"(40.8, -99.2)",2293,Amherst,Valid,L6,1947.0,40.8,-99.2,8500.0,United States,Nebraska
+1718,Found,"(35.16667, -97.88333)",2291,Amber,Valid,L6,1934.0,35.16667,-97.88333,4532.0,United States,Oklahoma
+1719,Found,"(43.32222, -96.28889)",2287,Alvord,Valid,"Iron, IVA",1976.0,43.32222,-96.28889,17500.0,United States,Iowa
+1720,Found,"(40.56667, -110.48333)",2286,Altonah,Valid,"Iron, IVA",1932.0,40.56667,-110.48333,21500.0,United States,Utah
+1721,Found,"(39.6, -100.11667)",2281,Almelo Township,Valid,L5,1949.0,39.6,-100.11667,3180.0,United States,Kansas
+1722,Found,"(33.1, -102.95)",2280,Allred,Valid,L4,1978.0,33.1,-102.95,6570.0,United States,Texas
+1724,Found,"(33.1, -96.7)",2277,Allen,Valid,H4,1923.0,33.1,-96.7,1407.0,United States,Texas
+1725,Fell,"(42.53333, -85.88333)",2276,Allegan,Valid,H5,1899.0,42.53333,-85.88333,32000.0,United States,Michigan
+1726,Found,"(37.86667, -117.4)",474,Alkali,Valid,H6,1998.0,37.86667,-117.4,30.47,United States,Nevada
+1727,Found,"(44.65, -87.46667)",470,Algoma,Valid,"Iron, IAB-sHL",1887.0,44.65,-87.46667,4100.0,United States,Wisconsin
+1728,Found,"(35.75, -81.25)",464,Alexander County,Valid,"Iron, IAB complex",1875.0,35.75,-81.25,192.0,United States,North Carolina
+1731,Found,"(46.83333, -117.25)",457,Albion,Valid,"Iron, IVA",1966.0,46.83333,-117.25,12280.0,United States,Washington
+1732,Found,"(41.41667, -104.1)",456,Albin (stone),Valid,L,1949.0,41.41667,-104.1,15400.0,United States,Wyoming
+1733,Found,"(41.5, -104.1)",455,Albin (pallasite),Valid,"Pallasite, PMG",1915.0,41.5,-104.1,37600.0,United States,Wyoming
+1734,Found,"(37.46667, -105.86667)",450,Alamosa,Valid,L6,1937.0,37.46667,-105.86667,1800.0,United States,Colorado
+1735,Found,"(32.9, -105.93333)",449,Alamogordo,Valid,H5,1938.0,32.9,-105.93333,13600.0,United States,New Mexico
+1736,Found,"(40.15, -103.16667)",431,Akron (1961),Valid,L6,1961.0,40.15,-103.16667,4000.0,United States,Colorado
+1737,Found,"(40.15, -103.16667)",430,Akron (1940),Valid,H6,1940.0,40.15,-103.16667,1050.0,United States,Colorado
+1738,Found,"(42.6, -99.8)",422,Ainsworth,Valid,"Iron, IIAB",1907.0,42.6,-99.8,80650.0,United States,Nebraska
+1739,Found,"(34.2, -101.5)",421,Aiken,Valid,OC,1936.0,34.2,-101.5,956.0,United States,Texas
+1741,Found,"(35.15, -102.71667)",388,Adrian,Valid,H4,1936.0,35.15,-102.71667,22600.0,United States,Texas
+1742,Found,"(38.7, -96.1)",380,Admire,Valid,"Pallasite, PMG",1881.0,38.7,-96.1,180000.0,United States,Kansas
+1743,Found,"(39.96667, -103.76667)",375,Adams County,Valid,H5,1928.0,39.96667,-103.76667,5700.0,United States,Colorado
+1745,Found,"(35.05, -107.56667)",372,Acomita,Valid,"Pallasite, PMG",1962.0,35.05,-107.56667,3956.0,United States,New Mexico
+1746,Found,"(33.63333, -104.26667)",371,Acme,Valid,H5,1947.0,33.63333,-104.26667,75000.0,United States,New Mexico
+1747,Found,"(39.77667, -100.81333)",369,Achilles,Valid,H5,1924.0,39.77667,-100.81333,16000.0,United States,Kansas
+1748,Found,"(33.85, -101.8)",7,Abernathy,Valid,L6,1941.0,33.85,-101.8,2914.0,United States,Texas
+1749,Found,"(36.3, -104.28333)",5,Abbott,Valid,H3-6,1951.0,36.3,-104.28333,21100.0,United States,New Mexico
+1753,Found,"(65.38333, -146.26667)",11906,Hope Creek,Valid,LL6,1998.0,65.38333,-146.26667,9830.0,United States,Alaska
+1755,Found,"(55.18333, -162.55)",5396,Cold Bay,Valid,"Pallasite, PES",1921.0,55.18333,-162.55,320.0,United States,Alaska
+1756,Found,"(59.33333, -136.0)",5351,Chilkoot,Valid,"Iron, IIIAB",1881.0,59.33333,-136.0,43000.0,United States,Alaska
+1757,Found,"(64.88333, -163.16667)",393,Aggie Creek,Valid,"Iron, IIIAB",1942.0,64.88333,-163.16667,43000.0,United States,Alaska
+1758,Fell,"(21.3, -157.78333)",18082,Palolo Valley,Valid,H5,1949.0,21.3,-157.78333,682.0,United States,Hawaii
+1759,Fell,"(21.3, -157.86667)",11904,Honolulu,Valid,L5,1825.0,21.3,-157.86667,2420.0,United States,Hawaii

@@ -1,4 +1,4 @@
-Fall,Geo Location,Id,Name,Nametype,Recclass,Year,Reclat,Reclong,Mass (G)
+Fall,GeoLocation,Id,Name,Nametype,Recclass,Year,Reclat,Reclong,Mass
 Found,"(40.90183, -118.54465)",57455,Antelope,Valid,H4,2012,40.90183,-118.54465,754
 Found,"(40.89201, -118.55319)",57454,Mandalay Spring,Valid,L6,2012,40.89201,-118.55319,2854
 Found,"(40.95465, -118.49693)",57453,Smokey Spring,Valid,H4,2011,40.95465,-118.49693,254
