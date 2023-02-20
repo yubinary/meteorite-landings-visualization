@@ -1,0 +1,83 @@
+<html>
+
+<head>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script src="https://d3js.org/topojson.v3.min.js"></script>
+  <style>
+    svg {
+      background-color: rgb(26, 26, 26);
+    }
+  </style>
+</head>
+
+<body>
+  <div>
+    <svg id="usa-map" height="550" width="850"></svg>
+  </div>
+</body>
+
+<script>
+  const usaSvg = d3.select("#usa-map");
+  const usaWidth = usaSvg.attr("width");
+  const usaHeight = usaSvg.attr("height");
+  const usaMap = usaSvg.append("g");
+
+  // load map data
+  const requestData = async function () {
+    const us = await d3.json("datasets/counties.json");
+    const usStateNames = await d3.tsv("datasets/us-state-names.tsv");
+    const usMeteorite = await d3.csv("datasets/Meteorite_Landings_UnitedStates.csv");
+    console.log(usMeteorite);
+
+    // count meteorite landings of each state
+    const usStates = {}
+    usMeteorite.forEach(d => {
+      const state = d['State'];
+      if (state in usStates) {
+        usStates[state] += 1
+      } else {
+        usStates[state] = 1
+      }
+    })
+    console.log(usStates);
+
+    // change id to state name
+    let idToState = {}
+    usStateNames.forEach(d => {
+      idToState[d.id] = d.name;
+      if (!(d.name in usStates)) {
+        usStates[d.name] = 0;
+      }
+    });
+
+    // initial map projection
+    let projection = d3.geoAlbersUsa().scale(1000).translate([450, 250]);
+    let path = d3.geoPath().projection(projection);
+
+    let nation = topojson.feature(us, us.objects.nation);
+    let states = topojson.feature(us, us.objects.states);
+    let statesMesh = topojson.mesh(us, us.objects.states);
+
+    const countExtent = d3.extent(Object.values(usStates));
+    const countScale = d3.scaleLinear().domain(countExtent).range(["#292929", "#ffff00", "#ffff3c", "#ffff9a", "#ffffd4"]);
+    // const countScale = d3.scaleSequential(d3.interpolateMagma).domain(countExtent)
+
+    usaMap.append("path").datum(statesMesh)
+      .attr("class", "outline")
+      .attr("fill", "none")
+      .attr("d", path);
+
+    usaMap.selectAll("path.states").data(states.features)
+      .join("path")
+      .attr("class", "states")
+      .attr("d", path)
+      .attr("fill", d => countScale(usStates[idToState[parseInt(d.id)]]))
+      .attr("stroke", "#dcdcdc")
+      .attr("stroke-width", 1)
+      .attr("note", d => d.id);
+  }
+  requestData();
+
+</script>
+
+</html>
