@@ -1,0 +1,103 @@
+body {
+  background-color: #000;
+}
+
+.main {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  height: 1px;
+  width: 1px;
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: -24vw -44vh 2px 2px #fff, 38vw -4vh 0px 0px #fff, -20vw -48vh 1px 2px #fff, -39vw 38vh 3px 1px #fff, -42vw -11vh 0px 3px #fff, 12vw 15vh 3px 3px #fff, 42vw 6vh 3px 2px #fff, -8vw 9vh 0px 2px #fff, 34vw -38vh 1px 0px #fff, -17vw 45vh 3px 1px #fff, 22vw -36vh 3px 2px #fff, -42vw 1vh 1px 0px #fff;
+  animation: zoom 10s alternate infinite;
+}
+
+@keyframes zoom {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(1.5);
+  }
+}
+
+body {
+  background-color: rgb(26, 26, 26);
+  font-family: system-ui;
+  color: white;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  text-align: center;
+  margin: 5px;
+}
+
+h3 {
+  text-align: center;
+  color: rgb(223, 223, 223);
+  font-weight: 100;
+  margin: 0px;
+  font-size: 15px;
+}
+
+svg {
+  display: block;
+}
+
+.flex {
+  display: flex;
+}
+
+.box {
+  padding: 20px;
+  height: 300px;
+  width: 450px;
+  margin-top: 10px;
+}
+
+.box h2 {
+  margin: 10px 0px;
+  font-size: 18px;
+}
+
+.box p,
+.box li {
+  font-size: 15px;
+  margin: 5px;
+}
+
+ul {
+  margin: 0px;
+  /* padding-left: 50px; */
+}
+
+span {
+  text-transform: uppercase;
+  color: rgb(252, 167, 114);
+  padding: 1px;
+  display: inline-block;
+  text-align: center;
+  font-weight: bold;
+}
+
+#state {
+  background-color: rgb(227, 75, 51);
+  color: white;
+}
+
+#state-mass {
+  width: 75px;
+}
+
+#state-count {
+  width: 35px;
+}

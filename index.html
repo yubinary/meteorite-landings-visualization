@@ -3,16 +3,51 @@
 <head>
   <script src="https://d3js.org/d3.v6.min.js"></script>
   <script src="https://d3js.org/topojson.v3.min.js"></script>
-  <style>
-    svg {
-      background-color: rgb(26, 26, 26);
-    }
-  </style>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
 </head>
 
 <body>
-  <div>
+  <div class="star"></div>
+  <div class="meteor-1"></div>
+  <div class="meteor-2"></div>
+  <div class="meteor-3"></div>
+  <div class="meteor-4"></div>
+  <div class="meteor-5"></div>
+  <div class="meteor-6"></div>
+  <div class="meteor-7"></div>
+  <div class="meteor-8"></div>
+  <div class="meteor-9"></div>
+  <div class="meteor-10"></div>
+  <div class="meteor-11"></div>
+  <div class="meteor-12"></div>
+  <div class="meteor-13"></div>
+  <div class="meteor-14"></div>
+  <div class="meteor-15"></div>
+
+  <h1>Meorite Landings in the United States</h1>
+  <h3>Visualization of data on over 16k meteorites that have struck the states</h3>
+  <div class="flex">
     <svg id="usa-map" height="550" width="850"></svg>
+    <div class="box">
+      <h2>In <span id="state"></span>,</h2>
+      <p id="no-meteorite"></p>
+      <div id="text1">
+        <p>1. <span id="state-count"></span> meteorites were fell or found.</p>
+      </div>
+      <div id="text2">
+        <p>2. Average mass is <span id="state-mass"></span> g.</p>
+      </div>
+      <div id="text3">
+        <p>3. The most massive meteorite is <span id="meteorite-name"></span></p>
+        <ul>
+          <li>Location: <span id="state-name"></span></li>
+          <li>Weight (g): <span id="meteorite-mass"></span></li>
+          <li>Fall: <span id="meteorite-fall"></span> </li>
+          <li>Year: <span id="meteorite-year"></span></li>
+        </ul>
+      </div>
+    </div>
   </div>
 </body>
 
@@ -26,29 +61,72 @@
   const requestData = async function () {
     const us = await d3.json("datasets/counties.json");
     const usStateNames = await d3.tsv("datasets/us-state-names.tsv");
-    const usMeteorite = await d3.csv("datasets/Meteorite_Landings_UnitedStates.csv");
-    console.log(usMeteorite);
+    const usMeteorite = await d3.csv("datasets/Meteorite_Landings_US.csv");
 
     // count meteorite landings of each state
     const usStates = {}
+    var maxMass = usMeteorite[0];
+    var totalMass = 0;
+
     usMeteorite.forEach(d => {
       const state = d['State'];
+      if (d["Mass"] == "") {
+        return;
+      }
+      totalMass += parseFloat(d["Mass"]);
+      if (parseInt(maxMass["Mass"]) < parseInt(d["Mass"])) {
+        maxMass = d;
+      }
       if (state in usStates) {
-        usStates[state] += 1
+        usStates[state]["count"] += 1
+        usStates[state]["totalMass"] += parseFloat(d["Mass"]);
+        if (parseInt(usStates[state]["maxMass"]["Mass"]) < parseInt(d["Mass"])) {
+          usStates[state]["maxMass"] = d;
+        }
       } else {
-        usStates[state] = 1
+        usStates[state] = { "count": 1, "maxMass": d, "totalMass": parseFloat(d["Mass"]) }
       }
     })
-    console.log(usStates);
 
     // change id to state name
     let idToState = {}
     usStateNames.forEach(d => {
       idToState[d.id] = d.name;
       if (!(d.name in usStates)) {
-        usStates[d.name] = 0;
+        usStates[d.name] = { "count": 0, "maxMass": { "State": d.name }, "totalMass": 0 };
       }
     });
+
+    console.log(usStates["Vermont"]);
+
+    // display info about the most massive meteorite 
+    function displayText(region, meteorite, count, totalMass) {
+      document.getElementById("state").innerHTML = region;
+      if (count == 0) { // when no meteorite landed on the state
+        document.getElementById("text1").style.display = 'none';
+        document.getElementById("text2").style.display = 'none';
+        document.getElementById("text3").style.display = 'none';
+        document.getElementById("no-meteorite").innerHTML = 'No meteorite landed.';
+      } else {
+        // for text1
+        document.getElementById("text1").style.display = 'block';
+        document.getElementById("text2").style.display = 'block';
+        document.getElementById("text3").style.display = 'block';
+        document.getElementById("no-meteorite").innerHTML = "";
+        document.getElementById("state-count").innerHTML = count;
+        // for text2
+        document.getElementById("state-mass").innerHTML = parseInt(totalMass / count).toLocaleString();
+        // for text3
+        document.getElementById("state-name").innerHTML = meteorite["State"];
+        document.getElementById("meteorite-name").innerHTML = meteorite["Name"];
+        document.getElementById("meteorite-mass").innerHTML = parseInt(meteorite["Mass"]).toLocaleString();
+        document.getElementById("meteorite-year").innerHTML = parseInt(meteorite["Year"]);
+        document.getElementById("meteorite-fall").innerHTML = meteorite["Fall"];
+      }
+    }
+
+    displayText("the United States", maxMass, usMeteorite.length, totalMass);
+
 
     // initial map projection
     let projection = d3.geoAlbersUsa().scale(1000).translate([450, 250]);
@@ -58,9 +136,13 @@
     let states = topojson.feature(us, us.objects.states);
     let statesMesh = topojson.mesh(us, us.objects.states);
 
-    const countExtent = d3.extent(Object.values(usStates));
-    const countScale = d3.scaleLinear().domain(countExtent).range(["#292929", "#ffff00", "#ffff3c", "#ffff9a", "#ffffd4"]);
-    // const countScale = d3.scaleSequential(d3.interpolateMagma).domain(countExtent)
+    // set scale 
+    const countExtent = [10000, 0]
+    for (var state in usStates) {
+      countExtent[0] = Math.min(countExtent[0], usStates[state]["count"]);
+      countExtent[1] = Math.max(countExtent[1], usStates[state]["count"]);
+    }
+    const countScale = d3.scaleSequential(d3.interpolateOrRd).domain([0, 201]);
 
     usaMap.append("path").datum(statesMesh)
       .attr("class", "outline")
@@ -71,10 +153,101 @@
       .join("path")
       .attr("class", "states")
       .attr("d", path)
-      .attr("fill", d => countScale(usStates[idToState[parseInt(d.id)]]))
-      .attr("stroke", "#dcdcdc")
+      .attr("fill", d => countScale(usStates[idToState[parseInt(d.id)]]["count"]))
+      .attr("stroke", "#a4a4a4")
       .attr("stroke-width", 1)
-      .attr("note", d => d.id);
+      .attr("note", d => d.id)
+      .on("mouseenter", mouseEnterState)
+      .on("mouseout", mouseLeaveState);
+
+    // tooltip setup
+    let tooltipWidth = 120;
+    let tooltipHeight = 50;
+
+    let tooltip = usaMap.append("g")
+      .attr("visibility", "hidden");
+
+    tooltip.append("rect")
+      .attr("fill", "black")
+      .attr("x", -tooltipWidth / 2.0)
+      .attr("y", 0)
+      .attr("rx", 5)
+      .attr("ry", 5)
+      .attr("width", tooltipWidth)
+      .attr("height", tooltipHeight);
+
+    let textName = tooltip.append("text")
+      .attr("id", "stateName")
+      .attr("fill", "white")
+      .attr("text-anchor", "middle")
+      .attr("alignment-baseline", "hanging")
+      .attr("font-size", "15px")
+      .attr("text-transform", "uppercase")
+      .attr("x", 0)
+      .attr("y", 8);
+
+    let textCount = tooltip.append("text")
+      .attr("id", "stateCount")
+      .attr("fill", "grey")
+      .attr("text-anchor", "middle")
+      .attr("alignment-baseline", "hanging")
+      .attr("font-size", "12px")
+      .attr("x", 0)
+      .attr("y", 28);
+
+    // newMesh for mouseover
+    let newMesh = usaMap.append("path")
+      .attr("class", "mouseover")
+      .attr("d", "");
+
+    // mouse enter function
+    function mouseEnterState() {
+      let state = d3.select(this);
+      let stateId = state.datum().id;
+      let stateName = idToState[parseInt(stateId)];
+      let d = usStates[stateName];
+
+      displayText(d["maxMass"]["State"], d["maxMass"], d["count"], d["totalMass"]);
+
+      // fade out other states
+      usaMap.selectAll(".states")
+        .attr("opacity", 0.3);
+
+      // highlight and shadow effect
+      state.attr("opacity", 1).style("filter", "drop-shadow(10px 10px 10px rgba(167, 167, 167, 0.7))");
+
+      // // tooltip
+      tooltip.style("visibility", "visible")
+      let bounds = path.bounds(state.datum());
+      let xPos = (bounds[0][0] + bounds[1][0]) / 2.0;
+      let yPos = bounds[1][1];
+      let tipHeight = bounds[1][1] - bounds[0][1];
+      if (yPos > 350) {
+        tooltip.attr("transform", `translate(${xPos},${yPos - tipHeight - tooltipHeight - 10})`);
+      } else {
+        tooltip.attr("transform", `translate(${xPos},${yPos + 10})`);
+      }
+
+      // // text
+      textName.text(stateName);
+      textCount.text("Count: " + d["count"]);
+    }
+
+    // mouse out function
+    function mouseLeaveState() {
+      let state = d3.select(this);
+      state.style("filter", "none");
+
+      usaMap.selectAll(".states")
+        .attr("opacity", 1);
+
+      tooltip.style("visibility", "hidden");
+
+      displayText("the United States", maxMass, usMeteorite.length, totalMass);
+
+      newMesh.attr("d", "");
+    }
+
   }
   requestData();
 
