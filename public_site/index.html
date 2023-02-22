@@ -32,7 +32,7 @@
     </div>
   </div>
   <div class="flex">
-    <svg id="svg" height="500" width="650"> </svg>
+    <svg id="svg" height="500" width="800"> </svg>
   </div>
 </body>
 
@@ -328,7 +328,7 @@
       .attr("class", "axis")
       .attr("transform", "translate(" + (margin.left) + " , " + (plotHeight + margin.top + 10) + ")")
       .style("font-size", "15px")
-      .call(bottomAxis.ticks(5).tickFormat(function (d) {
+      .call(bottomAxis.tickFormat(function (d) {
         return d + "s";
       }));
 
